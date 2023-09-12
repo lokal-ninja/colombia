@@ -1,0 +1,1 @@
+Colombia, oficialmente República de Colombia, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, social y democrático de derecho, cuya forma de gobierno es presidencialista con dos cámaras legislativas. Su capital y ciudad más poblada es Bogotá. (Wikipedia)
