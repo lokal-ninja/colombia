@@ -1,5 +1,5 @@
 ---
 title: "Bucaramanga"
-url: /pereira/bucaramanga/
+url: /pereira/bucaramanga-carrera-8/
 shop: zapatos
 ---

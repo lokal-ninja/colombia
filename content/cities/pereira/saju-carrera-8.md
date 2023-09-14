@@ -1,5 +1,5 @@
 ---
 title: "Saju"
-url: /pereira/saju/
+url: /pereira/saju-carrera-8/
 shop: joyería
 ---

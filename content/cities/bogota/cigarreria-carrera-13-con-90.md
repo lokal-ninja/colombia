@@ -1,5 +1,5 @@
 ---
 title: "Cigarrería"
-url: /bogota/cigarreria/
+url: /bogota/cigarreria-carrera-13-con-90/
 shop: supermercado
 ---

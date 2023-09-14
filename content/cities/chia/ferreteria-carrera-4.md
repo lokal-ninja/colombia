@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
-url: /chia/ferreteria/
+url: /chia/ferreteria-carrera-4/
 shop: hardware
 ---

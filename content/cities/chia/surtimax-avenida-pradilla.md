@@ -1,5 +1,5 @@
 ---
 title: "SurtiMax"
-url: /chia/surtimax/
+url: /chia/surtimax-avenida-pradilla/
 shop: supermercado
 ---

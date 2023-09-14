@@ -1,5 +1,5 @@
 ---
 title: "Zagal"
-url: /pereira/zagal/
+url: /pereira/zagal-calle-15/
 shop: general
 ---

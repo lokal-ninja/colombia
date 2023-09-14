@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
-url: /chia/peluqueria/
+url: /chia/peluqueria-avenida-pradilla/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
-url: /barranquilla/olimpica/
+url: /barranquilla/olimpica-2/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicleteria"
-url: /aquitania/bicicleteria/
+url: /aquitania/bicicleteria-2/
 shop: bicicleta
 ---

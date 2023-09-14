@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /moniquira/claro/
+url: /moniquira/claro-calle-18-2/
 shop: teléfono móvil
 ---

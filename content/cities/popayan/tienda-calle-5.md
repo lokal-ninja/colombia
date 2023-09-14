@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /popayan/tienda/
+url: /popayan/tienda-calle-5/
 shop: comodidad
 ---

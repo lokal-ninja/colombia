@@ -1,5 +1,5 @@
 ---
 title: "Casa de empeño"
-url: /chiquinquira/casa-de-empeno/
+url: /chiquinquira/casa-de-empeno-carrera-12/
 shop: prestamista
 ---

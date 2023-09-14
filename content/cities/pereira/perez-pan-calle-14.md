@@ -1,5 +1,5 @@
 ---
 title: "Perez Pan"
-url: /pereira/perez-pan/
+url: /pereira/perez-pan-calle-14/
 shop: panadería
 ---

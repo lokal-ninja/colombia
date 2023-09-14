@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
-url: /velez/panaderia/
+url: /velez/panaderia-2/
 shop: panadería
 ---

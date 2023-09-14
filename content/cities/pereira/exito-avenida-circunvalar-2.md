@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
-url: /pereira/exito/
+url: /pereira/exito-avenida-circunvalar-2/
 shop: grandes almacenes
 ---

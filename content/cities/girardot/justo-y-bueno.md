@@ -1,5 +1,5 @@
 ---
-title: "Justo y Bueno"
+title: "Justo & Bueno"
 url: /girardot/justo-y-bueno/
-shop: comodidad
+shop: supermercado
 ---

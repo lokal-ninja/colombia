@@ -1,5 +1,5 @@
 ---
 title: "D'Moda"
-url: /pereira/dmoda/
+url: /pereira/dmoda-carrera-8-2/
 shop: ropa
 ---

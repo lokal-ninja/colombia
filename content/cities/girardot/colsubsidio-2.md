@@ -1,5 +1,5 @@
 ---
 title: "Colsubsidio"
-url: /girardot/colsubsidio/
+url: /girardot/colsubsidio-2/
 shop: supermercado
 ---

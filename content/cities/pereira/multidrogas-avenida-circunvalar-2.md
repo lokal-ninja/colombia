@@ -1,5 +1,5 @@
 ---
 title: "MultiDrogas"
-url: /pereira/multidrogas/
+url: /pereira/multidrogas-avenida-circunvalar-2/
 shop: farmacia
 ---

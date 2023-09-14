@@ -1,5 +1,5 @@
 ---
 title: "Surtifruver"
-url: /bogota-d-c/surtifruver/
+url: /bogota-d-c/surtifruver-calle-119/
 shop: supermercado
 ---

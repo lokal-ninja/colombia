@@ -1,5 +1,5 @@
 ---
 title: "Calcomanias"
-url: /cucuta/calcomanias/
+url: /cucuta/calcomanias-diagonal-santander/
 shop: general
 ---

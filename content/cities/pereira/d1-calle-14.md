@@ -1,5 +1,5 @@
 ---
 title: "D1"
-url: /pereira/d1/
+url: /pereira/d1-calle-14/
 shop: supermercado
 ---

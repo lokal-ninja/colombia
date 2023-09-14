@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
-url: /chiquinquira/carniceria/
+url: /chiquinquira/carniceria-calle-22/
 shop: carnicero
 ---

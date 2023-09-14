@@ -1,5 +1,5 @@
 ---
 title: "SuperCundi"
-url: /girardot/supercundi/
+url: /girardot/supercundi-carrera-10/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /sevilla/tienda/
+url: /sevilla/tienda-2/
 shop: comodidad
 ---

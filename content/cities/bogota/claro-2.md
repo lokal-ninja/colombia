@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /bogota/claro/
+url: /bogota/claro-2/
 shop: teléfono móvil
 ---

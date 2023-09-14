@@ -1,5 +1,5 @@
 ---
 title: "Minimercado"
-url: /bogota/minimercado/
+url: /bogota/minimercado-calle-58c-s/
 shop: supermercado
 ---

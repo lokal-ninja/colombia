@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /bogota/oxxo/
+url: /bogota/oxxo-calle-127a/
 shop: comodidad
 ---

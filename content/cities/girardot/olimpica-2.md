@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
-url: /girardot/olimpica/
+url: /girardot/olimpica-2/
 shop: supermercado
 ---

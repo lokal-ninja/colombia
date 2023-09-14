@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /armenia/bata/
+url: /armenia/bata-2/
 shop: zapatos
 ---

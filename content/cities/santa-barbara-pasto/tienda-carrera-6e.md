@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /santa-barbara-pasto/tienda/
+url: /santa-barbara-pasto/tienda-carrera-6e/
 shop: comodidad
 ---

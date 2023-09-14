@@ -1,5 +1,5 @@
 ---
 title: "Maxifruver"
-url: /bogota-d-c/maxifruver/
+url: /bogota-d-c/maxifruver-carrera-68b/
 shop: comodidad
 ---

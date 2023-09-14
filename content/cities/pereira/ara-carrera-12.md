@@ -1,5 +1,5 @@
 ---
 title: "Ara"
-url: /pereira/ara/
+url: /pereira/ara-carrera-12/
 shop: supermercado
 ---

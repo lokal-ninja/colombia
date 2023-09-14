@@ -1,5 +1,5 @@
 ---
 title: "Kia"
-url: /bogota-d-c/kia/
+url: /bogota-d-c/kia-2/
 shop: coche
 ---

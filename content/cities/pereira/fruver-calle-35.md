@@ -1,5 +1,5 @@
 ---
 title: "Fruver"
-url: /pereira/fruver/
+url: /pereira/fruver-calle-35/
 shop: alimentación sana
 ---

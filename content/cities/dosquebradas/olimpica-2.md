@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
-url: /dosquebradas/olimpica/
+url: /dosquebradas/olimpica-2/
 shop: supermercado
 ---

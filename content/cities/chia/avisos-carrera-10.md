@@ -1,5 +1,5 @@
 ---
 title: "Avisos"
-url: /chia/avisos/
+url: /chia/avisos-carrera-10/
 shop: general
 ---

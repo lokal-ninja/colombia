@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
-url: /pereira/exito/
+url: /pereira/exito-carrera-8/
 shop: grandes almacenes
 ---

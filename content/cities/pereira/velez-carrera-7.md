@@ -1,5 +1,5 @@
 ---
 title: "Vélez"
-url: /pereira/velez/
+url: /pereira/velez-carrera-7/
 shop: cuero
 ---

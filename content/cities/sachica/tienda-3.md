@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /sachica/tienda/
+url: /sachica/tienda-3/
 shop: comodidad
 ---

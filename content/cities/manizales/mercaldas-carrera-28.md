@@ -1,5 +1,5 @@
 ---
 title: "Mercaldas"
-url: /manizales/mercaldas/
+url: /manizales/mercaldas-carrera-28/
 shop: supermercado
 ---

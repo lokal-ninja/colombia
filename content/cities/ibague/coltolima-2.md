@@ -1,5 +1,5 @@
 ---
 title: "Coltolima"
-url: /ibague/coltolima/
+url: /ibague/coltolima-2/
 shop: coche
 ---

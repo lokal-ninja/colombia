@@ -1,5 +1,5 @@
 ---
 title: "Compraventa Megamas"
-url: /soledad/compraventa-megamas/
+url: /soledad/compraventa-megamas-carrera-5/
 shop: prestamista
 ---

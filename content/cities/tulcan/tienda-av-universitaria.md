@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
-url: /tulcan/tienda/
+url: /tulcan/tienda-av-universitaria/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripe"
-url: /pereira/stripe/
+url: /pereira/stripe-carrera-8/
 shop: ropa
 ---

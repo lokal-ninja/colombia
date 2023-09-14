@@ -1,5 +1,5 @@
 ---
 title: "Big John"
-url: /pereira/big-john/
+url: /pereira/big-john-carrera-7/
 shop: ropa
 ---

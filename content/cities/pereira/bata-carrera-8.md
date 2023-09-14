@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /pereira/bata/
+url: /pereira/bata-carrera-8/
 shop: zapatos
 ---

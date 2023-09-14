@@ -1,5 +1,5 @@
 ---
 title: "FERRETERIA"
-url: /popayan/ferreteria/
+url: /popayan/ferreteria-calle-5-2/
 shop: hardware
 ---

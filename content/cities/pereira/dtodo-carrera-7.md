@@ -1,5 +1,5 @@
 ---
-title: "D'todo"
-url: /pereira/dtodo/
-shop: general
+title: "Dtodo"
+url: /pereira/dtodo-carrera-7/
+shop: ropa
 ---

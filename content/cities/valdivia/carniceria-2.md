@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
-url: /valdivia/carniceria/
+url: /valdivia/carniceria-2/
 shop: carnicero
 ---
