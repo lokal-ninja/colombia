@@ -1,5 +1,5 @@
 ---
 title: "D&M"
 url: /armenia/dym/
-shop: general
+shop: ropa
 ---
