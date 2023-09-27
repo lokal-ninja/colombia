@@ -1,6 +1,6 @@
 ---
 title: Bochalema
 url: /bochalema/
-latitude: 7.613
-longitude: -72.647
+latitude: 7.611
+longitude: -72.648
 ---
