@@ -1,6 +1,6 @@
 ---
 title: Gámeza
 url: /gameza/
-latitude: 5.801
-longitude: -72.804
+latitude: 5.802
+longitude: -72.805
 ---
