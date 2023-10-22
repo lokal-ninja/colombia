@@ -1,6 +1,6 @@
 ---
-title: Bogotá
+title: Bogota
 url: /bogota/
-latitude: 4.647
-longitude: -74.06
+latitude: 4.613
+longitude: -74.067
 ---
