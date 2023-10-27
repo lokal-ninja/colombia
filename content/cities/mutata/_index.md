@@ -1,6 +1,6 @@
 ---
 title: Mutatá
 url: /mutata/
-latitude: 7.244
-longitude: -76.437
+latitude: 7.243
+longitude: -76.436
 ---
