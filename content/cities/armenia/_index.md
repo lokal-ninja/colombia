@@ -1,6 +1,6 @@
 ---
 title: Armenia
 url: /armenia/
-latitude: 4.55
-longitude: -75.659
+latitude: 4.548
+longitude: -75.662
 ---
