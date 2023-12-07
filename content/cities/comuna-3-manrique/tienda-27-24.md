@@ -1,5 +1,5 @@
 ---
 title: "tienda"
-url: /chiquinquira/tienda-calle-25/
+url: /comuna-3-manrique/tienda-27-24/
 shop: supermercado
 ---
