@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /manizales/dollarcity/
-shop: supermercado
+shop: tienda de variedades
 ---
