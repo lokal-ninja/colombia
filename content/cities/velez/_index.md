@@ -1,6 +1,6 @@
 ---
 title: Vélez
 url: /velez/
-latitude: 6.015
-longitude: -73.675
+latitude: 6.013
+longitude: -73.672
 ---
