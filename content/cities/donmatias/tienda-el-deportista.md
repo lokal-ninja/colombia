@@ -1,5 +1,5 @@
 ---
-title: "Tienda el deportista"
+title: "Tienda el Deportista"
 url: /donmatias/tienda-el-deportista/
-shop: general
+shop: comodidad
 ---
