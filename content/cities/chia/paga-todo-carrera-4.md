@@ -1,5 +1,5 @@
 ---
 title: "Paga Todo"
-url: /chia/paga-todo-calle-7/
+url: /chia/paga-todo-carrera-4/
 shop: lotería
 ---

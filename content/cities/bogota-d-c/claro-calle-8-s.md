@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /bogota/claro-carrera-17f/
+url: /bogota-d-c/claro-calle-8-s/
 shop: teléfono móvil
 ---
