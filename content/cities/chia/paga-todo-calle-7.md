@@ -1,5 +1,5 @@
 ---
 title: "Paga Todo"
-url: /bogota/paga-todo-calle-15a/
+url: /chia/paga-todo-calle-7/
 shop: lotería
 ---
