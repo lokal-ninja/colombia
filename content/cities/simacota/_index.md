@@ -2,5 +2,5 @@
 title: Simacota
 url: /simacota/
 latitude: 6.443
-longitude: -73.338
+longitude: -73.339
 ---
