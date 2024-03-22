@@ -1,5 +1,5 @@
 ---
 title: "Carulla"
-url: /bogota-d-c/carulla-carrera-27/
+url: /bogota-d-c/carulla-avenida-calle-85/
 shop: supermercado
 ---
