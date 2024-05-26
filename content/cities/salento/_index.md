@@ -1,6 +1,6 @@
 ---
 title: Salento
 url: /salento/
-latitude: 4.639
-longitude: -75.568
+latitude: 4.641
+longitude: -75.57
 ---

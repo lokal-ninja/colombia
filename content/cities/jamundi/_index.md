@@ -1,6 +1,6 @@
 ---
-title: Jamundí
+title: Jamundi
 url: /jamundi/
-latitude: 3.256
-longitude: -76.536
+latitude: 3.267
+longitude: -76.538
 ---

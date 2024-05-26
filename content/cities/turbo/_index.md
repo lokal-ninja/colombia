@@ -1,6 +1,6 @@
 ---
-title: Turbo
+title: turbo
 url: /turbo/
-latitude: 8.093
+latitude: 8.092
 longitude: -76.728
 ---
