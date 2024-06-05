@@ -1,5 +1,5 @@
 ---
 title: "tienda"
-url: /chiquinquira/tienda-calle-25/
+url: /chiquinquira/tienda-2/
 shop: supermercado
 ---
