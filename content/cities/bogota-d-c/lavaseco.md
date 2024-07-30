@@ -1,5 +1,5 @@
 ---
-title: "Lavaseco"
+title: "lavaseco"
 url: /bogota-d-c/lavaseco/
-shop: general
+shop: lavandería
 ---
