@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /chiquinquira/claro-carrera-9-16-35/
+url: /bogota-d-c/claro-calle-8-s/
 shop: teléfono móvil
 ---
