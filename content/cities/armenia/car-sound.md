@@ -1,5 +1,5 @@
 ---
-title: "car sound"
+title: "Car Sound"
 url: /armenia/car-sound/
 shop: reparación de automóviles
 ---
