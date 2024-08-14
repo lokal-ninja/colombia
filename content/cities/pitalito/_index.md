@@ -1,6 +1,6 @@
 ---
 title: Pitalito
 url: /pitalito/
-latitude: 1.857
-longitude: -76.039
+latitude: 1.851
+longitude: -76.065
 ---
