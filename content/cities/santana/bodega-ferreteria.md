@@ -1,5 +1,5 @@
 ---
-title: "bodega ferreteria"
+title: "Bodega ferreteria"
 url: /santana/bodega-ferreteria/
 shop: mayorista
 ---

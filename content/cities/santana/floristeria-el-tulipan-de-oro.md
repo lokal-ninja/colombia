@@ -1,5 +1,5 @@
 ---
-title: "Floristeria El Tulipan De Oro"
+title: "Floristeria El Tulipán De Oro"
 url: /santana/floristeria-el-tulipan-de-oro/
 shop: floristería
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sabaneta
 url: /sabaneta/
-latitude: 6.155
-longitude: -75.609
+latitude: 6.151
+longitude: -75.606
 ---
