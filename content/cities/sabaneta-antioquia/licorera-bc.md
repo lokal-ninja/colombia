@@ -1,5 +1,5 @@
 ---
 title: "Licorera BC"
 url: /sabaneta-antioquia/licorera-bc/
-shop: alcohol
+shop: Spirituosen
 ---

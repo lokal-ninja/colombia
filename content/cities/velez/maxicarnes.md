@@ -1,5 +1,5 @@
 ---
 title: "Maxicarnes"
 url: /velez/maxicarnes/
-shop: carnicero
+shop: Metzgerei
 ---

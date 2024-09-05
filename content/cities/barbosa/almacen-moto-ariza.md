@@ -1,5 +1,5 @@
 ---
 title: "Almacen Moto Ariza"
 url: /barbosa/almacen-moto-ariza/
-shop: motocicleta
+shop: Motorrad
 ---

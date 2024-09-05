@@ -1,5 +1,5 @@
 ---
 title: "Embutidos Nueva Aranda"
 url: /pasto/embutidos-nueva-aranda/
-shop: supermercado
+shop: Supermarkt
 ---

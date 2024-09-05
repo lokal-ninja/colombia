@@ -1,5 +1,5 @@
 ---
 title: "Piñateria"
 url: /barbosa/pinateria/
-shop: juguetes
+shop: Spielzeug
 ---

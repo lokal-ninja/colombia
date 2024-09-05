@@ -1,5 +1,5 @@
 ---
 title: "Nekalis"
 url: /garagoa/nekalis/
-shop: ropa
+shop: Kleidung
 ---

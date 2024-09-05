@@ -1,5 +1,5 @@
 ---
 title: "Melek"
 url: /velez/melek/
-shop: ropa
+shop: Kleidung
 ---

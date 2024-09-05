@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /girardot/yamaha/
-shop: motocicleta
+shop: Motorrad
 ---

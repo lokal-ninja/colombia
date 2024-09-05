@@ -1,5 +1,5 @@
 ---
 title: "Everest"
 url: /moniquira/everest/
-shop: supermercado
+shop: Supermarkt
 ---

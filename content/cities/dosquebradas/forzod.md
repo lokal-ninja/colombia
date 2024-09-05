@@ -1,5 +1,5 @@
 ---
 title: "Forzod"
 url: /dosquebradas/forzod/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NN"
 url: /argelia/nn/
-shop: ropa
+shop: Kleidung
 ---

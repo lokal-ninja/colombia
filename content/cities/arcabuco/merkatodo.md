@@ -1,5 +1,5 @@
 ---
 title: "Merkatodo"
 url: /arcabuco/merkatodo/
-shop: comodidad
+shop: Lebensmittel
 ---

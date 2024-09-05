@@ -1,5 +1,5 @@
 ---
 title: "Gafam"
 url: /garagoa/gafam/
-shop: farmacia
+shop: Drogerie
 ---

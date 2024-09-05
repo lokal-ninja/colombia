@@ -1,5 +1,5 @@
 ---
 title: "Guayacanes"
 url: /circasia/guayacanes/
-shop: marisco
+shop: Fisch
 ---

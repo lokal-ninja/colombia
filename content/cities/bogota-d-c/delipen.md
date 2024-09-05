@@ -1,5 +1,5 @@
 ---
 title: "Delipen"
 url: /bogota-d-c/delipen/
-shop: panadería
+shop: Bäckerei
 ---

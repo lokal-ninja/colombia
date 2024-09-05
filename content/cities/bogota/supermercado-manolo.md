@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Manolo"
 url: /bogota/supermercado-manolo/
-shop: comodidad
+shop: Lebensmittel
 ---

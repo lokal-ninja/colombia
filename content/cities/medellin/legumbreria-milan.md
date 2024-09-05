@@ -1,5 +1,5 @@
 ---
 title: "Legumbrería MILAN"
 url: /medellin/legumbreria-milan/
-shop: supermercado
+shop: Supermarkt
 ---

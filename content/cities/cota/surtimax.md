@@ -1,5 +1,5 @@
 ---
 title: "SurtiMAX"
 url: /cota/surtimax/
-shop: supermercado
+shop: Supermarkt
 ---

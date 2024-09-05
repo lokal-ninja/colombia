@@ -1,5 +1,5 @@
 ---
 title: "Itauri"
 url: /pereira/itauri/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dive"
 url: /pereira/dive/
-shop: zapatos
+shop: Schuhe
 ---

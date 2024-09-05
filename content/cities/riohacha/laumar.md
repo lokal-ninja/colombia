@@ -1,5 +1,5 @@
 ---
 title: "LAUMAR"
 url: /riohacha/laumar/
-shop: comodidad
+shop: Lebensmittel
 ---

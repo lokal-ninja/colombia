@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Doris"
 url: /amalfi/peluqueria-doris/
-shop: peluquería
+shop: Friseur
 ---

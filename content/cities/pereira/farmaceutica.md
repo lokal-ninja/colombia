@@ -1,5 +1,5 @@
 ---
 title: "Farmacéutica"
 url: /pereira/farmaceutica/
-shop: farmacia
+shop: Drogerie
 ---

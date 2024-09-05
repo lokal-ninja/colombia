@@ -1,5 +1,5 @@
 ---
 title: "FRANCO"
 url: /argelia/franco/
-shop: peluquería
+shop: Friseur
 ---

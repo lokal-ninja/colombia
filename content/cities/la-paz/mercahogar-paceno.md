@@ -1,5 +1,5 @@
 ---
 title: "MercaHogar Paceño"
 url: /la-paz/mercahogar-paceno/
-shop: comodidad
+shop: Lebensmittel
 ---

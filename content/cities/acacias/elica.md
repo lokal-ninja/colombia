@@ -1,5 +1,5 @@
 ---
 title: "Elica"
 url: /acacias/elica/
-shop: artesanía
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo Barato"
 url: /manati/todo-barato/
-shop: frutería
+shop: Gemüse & Obst
 ---

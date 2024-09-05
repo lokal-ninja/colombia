@@ -1,5 +1,5 @@
 ---
 title: "la mayorista"
 url: /tierralta/la-mayorista/
-shop: frutería
+shop: Gemüse & Obst
 ---

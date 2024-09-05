@@ -1,5 +1,5 @@
 ---
 title: "Gonzalo's"
 url: /bogota-d-c/gonzalos/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jutimo's Capri"
 url: /pereira/jutimos-capri/
-shop: ropa
+shop: Kleidung
 ---

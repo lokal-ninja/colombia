@@ -1,5 +1,5 @@
 ---
 title: "Camisetas"
 url: /bogota-d-c/camisetas/
-shop: ropa
+shop: Kleidung
 ---

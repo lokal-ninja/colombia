@@ -1,5 +1,5 @@
 ---
 title: "VALTA S.A.S."
 url: /ibague/valta-s-a-s/
-shop: tienda rural
+shop: Dorfladen
 ---

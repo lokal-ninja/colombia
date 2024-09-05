@@ -1,5 +1,5 @@
 ---
 title: "PachoDrogas"
 url: /pereira/pachodrogas/
-shop: farmacia
+shop: Drogerie
 ---

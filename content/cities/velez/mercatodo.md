@@ -1,5 +1,5 @@
 ---
 title: "MercaTodo"
 url: /velez/mercatodo/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RELOJERIA"
 url: /buenaventura/relojeria/
-shop: relojes
+shop: Uhren
 ---

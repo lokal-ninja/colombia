@@ -1,5 +1,5 @@
 ---
 title: "Ogafas Laboratorio Optico"
 url: /pereira/ogafas-laboratorio-optico/
-shop: óptico
+shop: Optiker
 ---

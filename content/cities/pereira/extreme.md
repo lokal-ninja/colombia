@@ -1,5 +1,5 @@
 ---
 title: "Extreme"
 url: /pereira/extreme/
-shop: ropa
+shop: Kleidung
 ---

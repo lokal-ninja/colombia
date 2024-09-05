@@ -1,5 +1,5 @@
 ---
 title: "Cortinas y Pisos Laminados"
 url: /bogota/cortinas-y-pisos-laminados/
-shop: cortina
+shop: Gardinen
 ---

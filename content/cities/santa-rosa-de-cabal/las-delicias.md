@@ -1,5 +1,5 @@
 ---
 title: "Las Delicias"
 url: /santa-rosa-de-cabal/las-delicias/
-shop: panadería
+shop: Bäckerei
 ---

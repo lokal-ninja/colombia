@@ -1,5 +1,5 @@
 ---
 title: "Global de soluciones institucionales"
 url: /bogota/global-de-soluciones-institucionales/
-shop: hardware
+shop: Eisenwaren
 ---

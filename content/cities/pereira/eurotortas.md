@@ -1,5 +1,5 @@
 ---
 title: "Eurotortas"
 url: /pereira/eurotortas/
-shop: panadería
+shop: Bäckerei
 ---

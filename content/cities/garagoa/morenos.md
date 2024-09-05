@@ -1,5 +1,5 @@
 ---
 title: "morenos"
 url: /garagoa/morenos/
-shop: comodidad
+shop: Lebensmittel
 ---

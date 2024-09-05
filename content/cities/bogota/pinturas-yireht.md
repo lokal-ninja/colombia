@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Yireht"
 url: /bogota/pinturas-yireht/
-shop: pintura
+shop: Farben
 ---

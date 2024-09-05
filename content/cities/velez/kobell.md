@@ -1,5 +1,5 @@
 ---
 title: "Kobell"
 url: /velez/kobell/
-shop: cosméticos
+shop: Kosmetik
 ---

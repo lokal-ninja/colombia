@@ -1,5 +1,5 @@
 ---
 title: "Centro de Diagnóstico Automotor de Palmira"
 url: /palmira/centro-de-diagnostico-automotor-de-palmira/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

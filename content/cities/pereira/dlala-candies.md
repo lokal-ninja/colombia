@@ -1,5 +1,5 @@
 ---
 title: "D'lala Candies"
 url: /pereira/dlala-candies/
-shop: confitería
+shop: Süßwaren
 ---

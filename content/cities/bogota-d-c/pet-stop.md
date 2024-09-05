@@ -1,5 +1,5 @@
 ---
 title: "Pet stop"
 url: /bogota-d-c/pet-stop/
-shop: mascotas
+shop: Tiere
 ---

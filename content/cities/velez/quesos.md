@@ -1,5 +1,5 @@
 ---
 title: "Quesos"
 url: /velez/quesos/
-shop: queso
+shop: Käse
 ---

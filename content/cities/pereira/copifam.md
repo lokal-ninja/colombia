@@ -1,5 +1,5 @@
 ---
 title: "Copifam"
 url: /pereira/copifam/
-shop: farmacia
+shop: Drogerie
 ---

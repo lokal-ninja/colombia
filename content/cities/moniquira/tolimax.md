@@ -1,5 +1,5 @@
 ---
 title: "Tolimax"
 url: /moniquira/tolimax/
-shop: comodidad
+shop: Lebensmittel
 ---

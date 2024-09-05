@@ -1,5 +1,5 @@
 ---
 title: "Xion"
 url: /puerto-gaitan/xion/
-shop: teléfono móvil
+shop: Handy
 ---

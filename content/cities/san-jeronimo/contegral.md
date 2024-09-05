@@ -1,5 +1,5 @@
 ---
 title: "Contegral"
 url: /san-jeronimo/contegral/
-shop: mascotas
+shop: Tiere
 ---

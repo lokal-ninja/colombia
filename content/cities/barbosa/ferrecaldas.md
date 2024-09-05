@@ -1,5 +1,5 @@
 ---
 title: "Ferrecaldas"
 url: /barbosa/ferrecaldas/
-shop: hardware
+shop: Eisenwaren
 ---

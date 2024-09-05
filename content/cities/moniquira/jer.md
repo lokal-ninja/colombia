@@ -1,5 +1,5 @@
 ---
 title: "Jer"
 url: /moniquira/jer/
-shop: bebidas
+shop: Getränke
 ---

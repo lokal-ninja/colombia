@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /popayan/olimpica-2/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Personas y Cortinas"
 url: /pereira/personas-y-cortinas/
-shop: general
+shop: Allgemein
 ---

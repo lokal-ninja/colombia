@@ -1,5 +1,5 @@
 ---
 title: "Caseritas"
 url: /sabaneta/caseritas/
-shop: pastelería
+shop: Konditorei
 ---

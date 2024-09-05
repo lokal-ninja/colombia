@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /cucuta/bodega/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "legere"
 url: /cucuta/legere/
-shop: ropa
+shop: Kleidung
 ---

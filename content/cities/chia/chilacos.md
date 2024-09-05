@@ -1,5 +1,5 @@
 ---
 title: "Chilacos"
 url: /chia/chilacos/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AKT"
 url: /girardot/akt/
-shop: motocicleta
+shop: Motorrad
 ---

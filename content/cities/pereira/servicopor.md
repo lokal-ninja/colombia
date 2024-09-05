@@ -1,5 +1,5 @@
 ---
 title: "Servicopor"
 url: /pereira/servicopor/
-shop: general
+shop: Allgemein
 ---

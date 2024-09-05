@@ -1,5 +1,5 @@
 ---
 title: "Distrigran"
 url: /chiquinquira/distrigran/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Justo Bueno"
 url: /bogota-d-c/justo-bueno/
-shop: supermercado
+shop: Supermarkt
 ---

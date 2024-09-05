@@ -1,5 +1,5 @@
 ---
 title: "Synergy"
 url: /chia/synergy/
-shop: masaje
+shop: Massage
 ---

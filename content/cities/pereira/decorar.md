@@ -1,5 +1,5 @@
 ---
 title: "Decorar"
 url: /pereira/decorar/
-shop: decoración interior
+shop: Raumausstattung
 ---

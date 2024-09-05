@@ -1,5 +1,5 @@
 ---
 title: "Distrilatina"
 url: /barrios-unidos/distrilatina/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ideas"
 url: /pereira/ideas/
-shop: muebles
+shop: Möbel
 ---

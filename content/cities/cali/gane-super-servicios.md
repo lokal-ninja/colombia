@@ -1,5 +1,5 @@
 ---
 title: "Gane Super Servicios"
 url: /cali/gane-super-servicios/
-shop: lotería
+shop: Lotterie
 ---

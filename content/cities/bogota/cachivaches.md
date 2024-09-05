@@ -1,5 +1,5 @@
 ---
 title: "Cachivaches"
 url: /bogota/cachivaches/
-shop: muebles
+shop: Möbel
 ---

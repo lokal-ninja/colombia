@@ -1,5 +1,5 @@
 ---
 title: "Super Mercado Nuevo Sol"
 url: /pereira/super-mercado-nuevo-sol/
-shop: supermercado
+shop: Supermarkt
 ---

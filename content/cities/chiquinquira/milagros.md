@@ -1,5 +1,5 @@
 ---
 title: "Milagros"
 url: /chiquinquira/milagros/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ETICOS"
 url: /socorro/eticos/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ganemas"
 url: /pereira/ganemas/
-shop: ropa
+shop: Kleidung
 ---

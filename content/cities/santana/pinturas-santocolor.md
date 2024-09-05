@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Santocolor"
 url: /santana/pinturas-santocolor/
-shop: pintura
+shop: Farben
 ---

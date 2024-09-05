@@ -1,5 +1,5 @@
 ---
 title: "Belimoda"
 url: /pereira/belimoda/
-shop: zapatos
+shop: Schuhe
 ---

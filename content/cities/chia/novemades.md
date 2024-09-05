@@ -1,5 +1,5 @@
 ---
 title: "Novemades"
 url: /chia/novemades/
-shop: ropa
+shop: Kleidung
 ---

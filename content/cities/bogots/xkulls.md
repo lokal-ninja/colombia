@@ -1,5 +1,5 @@
 ---
 title: "Xkulls"
 url: /bogots/xkulls/
-shop: música
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /pereira/specialized/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kairos"
 url: /chia/kairos/
-shop: peluquería
+shop: Friseur
 ---

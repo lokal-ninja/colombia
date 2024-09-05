@@ -1,5 +1,5 @@
 ---
 title: "Paga Todo Para Todo"
 url: /barrios-unidos/paga-todo-para-todo/
-shop: lotería
+shop: Lotterie
 ---

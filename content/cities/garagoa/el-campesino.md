@@ -1,5 +1,5 @@
 ---
 title: "El campesino"
 url: /garagoa/el-campesino/
-shop: supermercado
+shop: Supermarkt
 ---

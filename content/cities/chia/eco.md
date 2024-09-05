@@ -1,5 +1,5 @@
 ---
 title: "Eco"
 url: /chia/eco/
-shop: zapatos
+shop: Schuhe
 ---

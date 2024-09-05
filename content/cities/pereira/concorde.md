@@ -1,5 +1,5 @@
 ---
 title: "Concorde"
 url: /pereira/concorde/
-shop: muebles
+shop: Möbel
 ---

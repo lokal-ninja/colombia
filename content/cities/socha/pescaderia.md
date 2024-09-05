@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia"
 url: /socha/pescaderia/
-shop: marisco
+shop: Fisch
 ---

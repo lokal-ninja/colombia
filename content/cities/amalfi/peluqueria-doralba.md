@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Doralba"
 url: /amalfi/peluqueria-doralba/
-shop: peluquería
+shop: Friseur
 ---

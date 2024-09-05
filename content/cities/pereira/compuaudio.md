@@ -1,5 +1,5 @@
 ---
 title: "CompuAudio"
 url: /pereira/compuaudio/
-shop: electrónica
+shop: Elektronik
 ---

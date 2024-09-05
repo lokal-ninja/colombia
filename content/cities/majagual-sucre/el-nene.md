@@ -1,5 +1,5 @@
 ---
 title: "El ñeñe"
 url: /majagual-sucre/el-nene/
-shop: motocicleta
+shop: Motorrad
 ---

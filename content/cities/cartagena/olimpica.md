@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /cartagena/olimpica/
-shop: supermercado
+shop: Supermarkt
 ---

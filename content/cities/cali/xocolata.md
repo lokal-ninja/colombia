@@ -1,5 +1,5 @@
 ---
 title: "Xocolata"
 url: /cali/xocolata/
-shop: panadería
+shop: Bäckerei
 ---

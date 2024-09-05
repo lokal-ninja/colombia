@@ -1,5 +1,5 @@
 ---
 title: "Kingo"
 url: /pereira/kingo/
-shop: general
+shop: Allgemein
 ---

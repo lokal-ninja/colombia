@@ -1,5 +1,5 @@
 ---
 title: "Venecia"
 url: /pereira/venecia-calle-20/
-shop: general
+shop: Allgemein
 ---

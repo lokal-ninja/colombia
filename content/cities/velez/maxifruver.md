@@ -1,5 +1,5 @@
 ---
 title: "MaxiFruVer"
 url: /velez/maxifruver/
-shop: frutería
+shop: Gemüse & Obst
 ---

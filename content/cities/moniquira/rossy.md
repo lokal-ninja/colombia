@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /moniquira/rossy/
-shop: ropa
+shop: Kleidung
 ---

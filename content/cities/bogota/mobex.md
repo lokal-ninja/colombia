@@ -1,5 +1,5 @@
 ---
 title: "Mobex"
 url: /bogota/mobex/
-shop: muebles
+shop: Möbel
 ---

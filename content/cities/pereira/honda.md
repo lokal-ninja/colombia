@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /pereira/honda/
-shop: motocicleta
+shop: Motorrad
 ---

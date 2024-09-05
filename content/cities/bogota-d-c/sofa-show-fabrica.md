@@ -1,5 +1,5 @@
 ---
 title: "Sofa show fabrica"
 url: /bogota-d-c/sofa-show-fabrica/
-shop: muebles
+shop: Möbel
 ---

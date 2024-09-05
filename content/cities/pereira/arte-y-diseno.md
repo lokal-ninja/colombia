@@ -1,5 +1,5 @@
 ---
 title: "Arte y Diseño"
 url: /pereira/arte-y-diseno/
-shop: general
+shop: Allgemein
 ---

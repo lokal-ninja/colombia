@@ -1,5 +1,5 @@
 ---
 title: "PlastiYa"
 url: /cucuta/plastiya/
-shop: comodidad
+shop: Lebensmittel
 ---

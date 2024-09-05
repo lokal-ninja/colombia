@@ -1,5 +1,5 @@
 ---
 title: "Estreno"
 url: /soledad/estreno/
-shop: ropa
+shop: Kleidung
 ---

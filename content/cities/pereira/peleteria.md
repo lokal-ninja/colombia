@@ -1,5 +1,5 @@
 ---
 title: "Peleteria"
 url: /pereira/peleteria/
-shop: muebles
+shop: Möbel
 ---

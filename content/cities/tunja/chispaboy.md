@@ -1,5 +1,5 @@
 ---
 title: "CHISPABOY"
 url: /tunja/chispaboy/
-shop: supermercado
+shop: Supermarkt
 ---

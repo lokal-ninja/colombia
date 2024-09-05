@@ -1,5 +1,5 @@
 ---
 title: "Auto Alarmas y Radios JV"
 url: /barrios-unidos/auto-alarmas-y-radios-jv/
-shop: piezas de automóviles
+shop: Autoteile
 ---

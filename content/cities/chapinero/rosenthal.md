@@ -1,5 +1,5 @@
 ---
 title: "Rosenthal"
 url: /chapinero/rosenthal/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

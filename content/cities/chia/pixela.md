@@ -1,5 +1,5 @@
 ---
 title: "Pixela"
 url: /chia/pixela/
-shop: foto
+shop: Foto
 ---

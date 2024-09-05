@@ -1,5 +1,5 @@
 ---
 title: "El Diamante"
 url: /socha/el-diamante/
-shop: supermercado
+shop: Supermarkt
 ---

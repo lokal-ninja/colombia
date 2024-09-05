@@ -1,5 +1,5 @@
 ---
 title: "Solution Creativa"
 url: /cucuta/solution-creativa/
-shop: comodidad
+shop: Lebensmittel
 ---

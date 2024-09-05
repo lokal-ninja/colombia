@@ -1,5 +1,5 @@
 ---
 title: "Carulla"
 url: /ricaurte/carulla/
-shop: supermercado
+shop: Supermarkt
 ---

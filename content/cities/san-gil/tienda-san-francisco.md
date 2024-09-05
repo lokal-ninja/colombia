@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Francisco"
 url: /san-gil/tienda-san-francisco/
-shop: comodidad
+shop: Lebensmittel
 ---

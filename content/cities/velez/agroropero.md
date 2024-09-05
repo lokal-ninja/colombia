@@ -1,5 +1,5 @@
 ---
 title: "AgroRopero"
 url: /velez/agroropero/
-shop: granja
+shop: Hofladen
 ---

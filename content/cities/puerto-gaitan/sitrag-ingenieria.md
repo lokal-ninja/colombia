@@ -1,5 +1,5 @@
 ---
 title: "Sitrag Ingenieria"
 url: /puerto-gaitan/sitrag-ingenieria/
-shop: piscina
+shop: Pool
 ---

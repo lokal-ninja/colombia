@@ -1,5 +1,5 @@
 ---
 title: "cristopher"
 url: /bogota/cristopher/
-shop: muebles
+shop: Möbel
 ---

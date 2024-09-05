@@ -1,5 +1,5 @@
 ---
 title: "Hunza Cel"
 url: /la-paz/hunza-cel/
-shop: teléfono móvil
+shop: Handy
 ---

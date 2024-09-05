@@ -1,5 +1,5 @@
 ---
 title: "Ecotienda El Parche"
 url: /mosquera/ecotienda-el-parche/
-shop: ropa
+shop: Kleidung
 ---

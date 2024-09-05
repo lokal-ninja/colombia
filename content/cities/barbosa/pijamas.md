@@ -1,5 +1,5 @@
 ---
 title: "Pijamas"
 url: /barbosa/pijamas/
-shop: ropa
+shop: Kleidung
 ---

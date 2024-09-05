@@ -1,5 +1,5 @@
 ---
 title: "La licuadora"
 url: /pereira/la-licuadora/
-shop: electrónica
+shop: Elektronik
 ---

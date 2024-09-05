@@ -1,5 +1,5 @@
 ---
 title: "Casautos"
 url: /manizales/casautos/
-shop: coche
+shop: Autohaus
 ---

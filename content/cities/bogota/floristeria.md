@@ -1,5 +1,5 @@
 ---
 title: "Floristeria"
 url: /bogota/floristeria/
-shop: floristería
+shop: Blumen
 ---

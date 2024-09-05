@@ -1,5 +1,5 @@
 ---
 title: "PUNTO NUEVO C CLARO"
 url: /socorro/punto-nuevo-c-claro/
-shop: teléfono móvil
+shop: Handy
 ---

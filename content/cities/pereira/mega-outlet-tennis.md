@@ -1,5 +1,5 @@
 ---
 title: "Mega Outlet Tennis"
 url: /pereira/mega-outlet-tennis/
-shop: zapatos
+shop: Schuhe
 ---

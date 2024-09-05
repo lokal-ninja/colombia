@@ -1,5 +1,5 @@
 ---
 title: "Chafar"
 url: /bogota/chafar/
-shop: aparato
+shop: Haushaltsgeräte
 ---

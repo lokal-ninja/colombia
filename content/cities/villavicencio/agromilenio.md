@@ -1,5 +1,5 @@
 ---
 title: "Agromilenio"
 url: /villavicencio/agromilenio/
-shop: centro de jardinería
+shop: Garten-Center
 ---

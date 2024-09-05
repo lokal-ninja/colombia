@@ -1,5 +1,5 @@
 ---
 title: "multiservicios"
 url: /manaure/multiservicios/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /girardot/nissan/
-shop: coche
+shop: Autohaus
 ---

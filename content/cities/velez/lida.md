@@ -1,5 +1,5 @@
 ---
 title: "Lida"
 url: /velez/lida/
-shop: peluquería
+shop: Friseur
 ---

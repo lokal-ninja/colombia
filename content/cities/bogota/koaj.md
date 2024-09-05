@@ -1,5 +1,5 @@
 ---
 title: "Koaj"
 url: /bogota/koaj/
-shop: ropa
+shop: Kleidung
 ---

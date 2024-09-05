@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria"
 url: /chia/cigarreria/
-shop: tabaco
+shop: Tabak
 ---

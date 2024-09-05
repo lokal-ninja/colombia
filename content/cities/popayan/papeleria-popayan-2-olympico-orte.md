@@ -1,5 +1,5 @@
 ---
 title: "PAPELERIA POPAYÁN 2 Olympico orte"
 url: /popayan/papeleria-popayan-2-olympico-orte/
-shop: material de oficina
+shop: Schreibwaren
 ---

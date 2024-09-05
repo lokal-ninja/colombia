@@ -1,5 +1,5 @@
 ---
 title: "Central de Pollitos"
 url: /cucuta/central-de-pollitos/
-shop: comodidad
+shop: Lebensmittel
 ---

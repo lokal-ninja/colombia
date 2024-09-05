@@ -1,5 +1,5 @@
 ---
 title: "Fashion World"
 url: /bogota-d-c/fashion-world/
-shop: ropa
+shop: Kleidung
 ---

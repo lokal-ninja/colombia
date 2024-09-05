@@ -1,5 +1,5 @@
 ---
 title: "Mambo"
 url: /usaquen/mambo/
-shop: ropa
+shop: Kleidung
 ---

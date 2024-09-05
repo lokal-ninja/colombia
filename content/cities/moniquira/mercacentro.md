@@ -1,5 +1,5 @@
 ---
 title: "MercaCentro"
 url: /moniquira/mercacentro/
-shop: supermercado
+shop: Supermarkt
 ---

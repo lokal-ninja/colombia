@@ -1,5 +1,5 @@
 ---
 title: "Megacon"
 url: /cucuta/megacon/
-shop: confitería
+shop: Süßwaren
 ---

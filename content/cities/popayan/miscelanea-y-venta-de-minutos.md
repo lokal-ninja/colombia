@@ -1,5 +1,5 @@
 ---
 title: "Miscelanea y venta de Minutos"
 url: /popayan/miscelanea-y-venta-de-minutos/
-shop: material de oficina
+shop: Schreibwaren
 ---

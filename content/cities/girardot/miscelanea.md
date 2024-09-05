@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea"
 url: /girardot/miscelanea/
-shop: hardware
+shop: Eisenwaren
 ---

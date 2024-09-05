@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco"
 url: /cartago/lavaseco/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pañalera Aventuras en Pañales"
 url: /barbosa/panalera-aventuras-en-panales/
-shop: ropa
+shop: Kleidung
 ---

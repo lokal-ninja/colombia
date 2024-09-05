@@ -1,5 +1,5 @@
 ---
 title: "Audifarma"
 url: /pereira/audifarma/
-shop: farmacia
+shop: Drogerie
 ---

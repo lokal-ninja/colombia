@@ -1,5 +1,5 @@
 ---
 title: "Carnes Santander"
 url: /bogota-d-c/carnes-santander/
-shop: carnicero
+shop: Metzgerei
 ---

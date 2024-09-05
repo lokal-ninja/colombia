@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /barbosa/ara/
-shop: supermercado
+shop: Supermarkt
 ---

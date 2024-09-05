@@ -1,5 +1,5 @@
 ---
 title: "Sanchez Jct"
 url: /bogota-d-c/sanchez-jct/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granero el Descanso"
 url: /amalfi/granero-el-descanso/
-shop: supermercado
+shop: Supermarkt
 ---

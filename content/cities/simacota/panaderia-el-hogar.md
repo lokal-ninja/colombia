@@ -1,5 +1,5 @@
 ---
 title: "PANADERIA EL HOGAR"
 url: /simacota/panaderia-el-hogar/
-shop: panadería
+shop: Bäckerei
 ---

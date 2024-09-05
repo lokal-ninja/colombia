@@ -1,5 +1,5 @@
 ---
 title: "Vicenza"
 url: /pereira/vicenza/
-shop: joyería
+shop: Schmuck
 ---

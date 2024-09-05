@@ -1,5 +1,5 @@
 ---
 title: "Inkarga"
 url: /sevilla/inkarga/
-shop: ordenador
+shop: Computer
 ---

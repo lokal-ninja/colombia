@@ -1,5 +1,5 @@
 ---
 title: "Cortinas"
 url: /chia/cortinas/
-shop: cortina
+shop: Gardinen
 ---

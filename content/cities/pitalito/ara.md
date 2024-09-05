@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /pitalito/ara/
-shop: supermercado
+shop: Supermarkt
 ---

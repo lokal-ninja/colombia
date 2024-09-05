@@ -1,5 +1,5 @@
 ---
 title: "Alex"
 url: /bogota/alex/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruver"
 url: /velez/fruver/
-shop: frutería
+shop: Gemüse & Obst
 ---

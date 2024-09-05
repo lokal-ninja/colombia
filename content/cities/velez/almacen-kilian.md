@@ -1,5 +1,5 @@
 ---
 title: "Almacen Kilian"
 url: /velez/almacen-kilian/
-shop: ropa
+shop: Kleidung
 ---

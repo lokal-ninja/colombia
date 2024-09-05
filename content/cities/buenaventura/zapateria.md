@@ -1,5 +1,5 @@
 ---
 title: "ZAPATERIA"
 url: /buenaventura/zapateria/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Qualiprint"
 url: /chapinero/qualiprint/
-shop: copyshop
+shop: Kopieren
 ---

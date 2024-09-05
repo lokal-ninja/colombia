@@ -1,5 +1,5 @@
 ---
 title: "DEKO"
 url: /barranquilla/deko/
-shop: aparato
+shop: Haushaltsgeräte
 ---

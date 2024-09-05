@@ -1,5 +1,5 @@
 ---
 title: "Frutería"
 url: /pereira/fruteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

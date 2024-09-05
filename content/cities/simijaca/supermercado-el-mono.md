@@ -1,5 +1,5 @@
 ---
 title: "supermercado el mono"
 url: /simijaca/supermercado-el-mono/
-shop: supermercado
+shop: Supermarkt
 ---

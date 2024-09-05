@@ -1,5 +1,5 @@
 ---
 title: "La Mega Piñateria"
 url: /velez/la-mega-pinateria/
-shop: fiesta
+shop: Partyzubehör
 ---

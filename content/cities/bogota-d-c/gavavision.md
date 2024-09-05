@@ -1,5 +1,5 @@
 ---
 title: "Gavavisión"
 url: /bogota-d-c/gavavision/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mandarina"
 url: /suba/mandarina/
-shop: quiosco
+shop: Kiosk
 ---

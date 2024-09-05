@@ -1,5 +1,5 @@
 ---
 title: "TIENDA GENESIS"
 url: /argelia/tienda-genesis/
-shop: farmacia
+shop: Drogerie
 ---

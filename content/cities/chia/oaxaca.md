@@ -1,5 +1,5 @@
 ---
 title: "Oaxaca"
 url: /chia/oaxaca/
-shop: general
+shop: Allgemein
 ---

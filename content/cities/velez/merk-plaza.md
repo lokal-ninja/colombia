@@ -1,5 +1,5 @@
 ---
 title: "Merk - Plaza"
 url: /velez/merk-plaza/
-shop: frutería
+shop: Gemüse & Obst
 ---

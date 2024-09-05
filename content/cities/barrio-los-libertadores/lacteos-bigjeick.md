@@ -1,5 +1,5 @@
 ---
 title: "Lacteos Bigjeick"
 url: /barrio-los-libertadores/lacteos-bigjeick/
-shop: lácteos
+shop: Milch
 ---

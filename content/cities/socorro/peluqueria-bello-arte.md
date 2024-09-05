@@ -1,5 +1,5 @@
 ---
 title: "PELUQUERIA BELLO ARTE"
 url: /socorro/peluqueria-bello-arte/
-shop: peluquería
+shop: Friseur
 ---

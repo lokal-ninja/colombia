@@ -1,5 +1,5 @@
 ---
 title: "Surtimax"
 url: /chia/surtimax/
-shop: comodidad
+shop: Lebensmittel
 ---

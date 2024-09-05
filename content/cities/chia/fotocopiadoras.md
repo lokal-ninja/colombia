@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadoras"
 url: /chia/fotocopiadoras/
-shop: copyshop
+shop: Kopieren
 ---

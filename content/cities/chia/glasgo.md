@@ -1,5 +1,5 @@
 ---
 title: "Glasgo"
 url: /chia/glasgo/
-shop: ropa
+shop: Kleidung
 ---

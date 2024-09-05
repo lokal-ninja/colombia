@@ -1,5 +1,5 @@
 ---
 title: "Home Systems"
 url: /riohacha-la-guajira/home-systems/
-shop: electrónica
+shop: Elektronik
 ---

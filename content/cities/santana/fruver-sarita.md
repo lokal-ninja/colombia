@@ -1,5 +1,5 @@
 ---
-title: "fruver sarita"
+title: "Fruver Sarita"
 url: /santana/fruver-sarita/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yokohama"
 url: /sabaneta-antioquia/yokohama/
-shop: neumáticos
+shop: Reifen
 ---

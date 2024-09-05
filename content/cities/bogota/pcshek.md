@@ -1,5 +1,5 @@
 ---
 title: "PcShek"
 url: /bogota/pcshek/
-shop: ordenador
+shop: Computer
 ---

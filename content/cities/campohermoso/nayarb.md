@@ -1,5 +1,5 @@
 ---
 title: "nayarb"
 url: /campohermoso/nayarb/
-shop: peluquería
+shop: Friseur
 ---

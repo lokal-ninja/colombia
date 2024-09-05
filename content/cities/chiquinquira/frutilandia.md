@@ -1,5 +1,5 @@
 ---
 title: "FRUTILANDIA"
 url: /chiquinquira/frutilandia/
-shop: frutería
+shop: Gemüse & Obst
 ---

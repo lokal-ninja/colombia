@@ -1,5 +1,5 @@
 ---
 title: "Granero la buena esquina"
 url: /medellin/granero-la-buena-esquina/
-shop: supermercado
+shop: Supermarkt
 ---

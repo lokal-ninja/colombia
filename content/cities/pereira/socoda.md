@@ -1,5 +1,5 @@
 ---
 title: "Socoda"
 url: /pereira/socoda/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "manualidades salazar"
 url: /bogota-d-c/manualidades-salazar/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MARROQUIN"
 url: /argelia/marroquin/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicomputo"
 url: /chia/servicomputo/
-shop: electrónica
+shop: Elektronik
 ---

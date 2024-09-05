@@ -1,5 +1,5 @@
 ---
 title: "ItalAutos"
 url: /pereira/italautos/
-shop: coche
+shop: Autohaus
 ---

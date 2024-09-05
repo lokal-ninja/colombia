@@ -1,5 +1,5 @@
 ---
 title: "zeppelin"
 url: /amalfi/zeppelin/
-shop: comodidad
+shop: Lebensmittel
 ---

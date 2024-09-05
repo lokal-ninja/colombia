@@ -1,5 +1,5 @@
 ---
 title: "Calypso"
 url: /antonio-narino/calypso/
-shop: tela
+shop: Textil
 ---

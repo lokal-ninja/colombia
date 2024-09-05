@@ -1,5 +1,5 @@
 ---
 title: "Artesanías de Risaralda"
 url: /pereira/artesanias-de-risaralda/
-shop: regalo
+shop: Andenken
 ---

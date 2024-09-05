@@ -1,5 +1,5 @@
 ---
 title: "Si Paga"
 url: /bogota-d-c/si-paga/
-shop: lotería
+shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "montallantas"
 url: /chiquinquira/montallantas/
-shop: neumáticos
+shop: Reifen
 ---

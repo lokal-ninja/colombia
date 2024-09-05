@@ -1,5 +1,5 @@
 ---
 title: "Kids"
 url: /chia/kids/
-shop: ropa
+shop: Kleidung
 ---

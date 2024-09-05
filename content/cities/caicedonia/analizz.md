@@ -1,5 +1,5 @@
 ---
 title: "AnaLizz"
 url: /caicedonia/analizz/
-shop: peluquería
+shop: Friseur
 ---

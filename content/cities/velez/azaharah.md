@@ -1,5 +1,5 @@
 ---
 title: "Azaharah"
 url: /velez/azaharah/
-shop: deportes
+shop: Sport
 ---

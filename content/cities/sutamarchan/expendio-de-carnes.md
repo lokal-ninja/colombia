@@ -1,5 +1,5 @@
 ---
 title: "Expendio de carnes"
 url: /sutamarchan/expendio-de-carnes/
-shop: carnicero
+shop: Metzgerei
 ---

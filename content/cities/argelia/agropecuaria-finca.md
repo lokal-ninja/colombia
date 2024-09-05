@@ -1,5 +1,5 @@
 ---
 title: "AGROPECUARIA  FINCA"
 url: /argelia/agropecuaria-finca/
-shop: agraria
+shop: Landwirtschaftlich
 ---

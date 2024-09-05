@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /el-colegio/ara/
-shop: supermercado
+shop: Supermarkt
 ---

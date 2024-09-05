@@ -1,5 +1,5 @@
 ---
 title: "Servimaster"
 url: /sabaneta-antioquia/servimaster/
-shop: panadería
+shop: Bäckerei
 ---

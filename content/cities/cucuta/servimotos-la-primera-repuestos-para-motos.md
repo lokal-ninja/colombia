@@ -1,5 +1,5 @@
 ---
 title: "servimotos LA PRIMERA - Repuestos para motos"
 url: /cucuta/servimotos-la-primera-repuestos-para-motos/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.C. Rasha Inn"
 url: /barranquilla/c-c-rasha-inn/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

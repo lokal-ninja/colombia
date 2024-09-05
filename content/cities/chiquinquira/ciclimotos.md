@@ -1,5 +1,5 @@
 ---
 title: "ciclimotos"
 url: /chiquinquira/ciclimotos/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /comuna-3-manrique/panaderia/
-shop: panadería
+shop: Bäckerei
 ---

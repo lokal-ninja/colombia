@@ -1,5 +1,5 @@
 ---
 title: "Empanaderia Industrial"
 url: /bogota-d-c/empanaderia-industrial/
-shop: panadería
+shop: Bäckerei
 ---

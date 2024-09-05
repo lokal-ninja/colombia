@@ -1,5 +1,5 @@
 ---
 title: "Radiodores La 67"
 url: /barrios-unidos/radiodores-la-67/
-shop: piezas de automóviles
+shop: Autoteile
 ---

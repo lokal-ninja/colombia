@@ -1,5 +1,5 @@
 ---
 title: "Carulla"
 url: /bogota/carulla-carrera-24/
-shop: supermercado
+shop: Supermarkt
 ---

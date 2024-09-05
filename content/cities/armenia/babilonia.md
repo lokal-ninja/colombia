@@ -1,5 +1,5 @@
 ---
 title: "Babilonia"
 url: /armenia/babilonia/
-shop: ropa
+shop: Kleidung
 ---

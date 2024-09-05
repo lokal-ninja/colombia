@@ -1,5 +1,5 @@
 ---
 title: "Surtiacuarios"
 url: /bucaramanga/surtiacuarios/
-shop: mascotas
+shop: Tiere
 ---

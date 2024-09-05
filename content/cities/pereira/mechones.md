@@ -1,5 +1,5 @@
 ---
 title: "Mechones"
 url: /pereira/mechones/
-shop: peluquería
+shop: Friseur
 ---

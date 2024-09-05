@@ -1,5 +1,5 @@
 ---
 title: "THREE Minutes Happiness"
 url: /garzon/three-minutes-happiness/
-shop: ropa
+shop: Kleidung
 ---

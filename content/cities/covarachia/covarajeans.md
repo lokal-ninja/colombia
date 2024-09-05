@@ -1,5 +1,5 @@
 ---
 title: "Covarajeans"
 url: /covarachia/covarajeans/
-shop: general
+shop: Allgemein
 ---

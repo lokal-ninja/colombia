@@ -1,5 +1,5 @@
 ---
 title: "Concorde"
 url: /san-gil/concorde/
-shop: entradas
+shop: Tickets
 ---

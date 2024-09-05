@@ -1,5 +1,5 @@
 ---
 title: "Apoyo Grafico LTDA"
 url: /chapinero/apoyo-grafico-ltda/
-shop: copyshop
+shop: Kopieren
 ---

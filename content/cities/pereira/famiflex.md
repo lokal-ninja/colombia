@@ -1,5 +1,5 @@
 ---
 title: "Famiflex"
 url: /pereira/famiflex/
-shop: cama
+shop: Betten
 ---

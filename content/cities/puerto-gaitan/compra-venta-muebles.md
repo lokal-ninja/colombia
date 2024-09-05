@@ -1,5 +1,5 @@
 ---
 title: "Compra venta muebles"
 url: /puerto-gaitan/compra-venta-muebles/
-shop: muebles
+shop: Möbel
 ---

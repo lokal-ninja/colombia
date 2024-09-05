@@ -1,5 +1,5 @@
 ---
 title: "Arequipe"
 url: /pereira/arequipe/
-shop: ropa
+shop: Kleidung
 ---

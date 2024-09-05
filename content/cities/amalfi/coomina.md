@@ -1,5 +1,5 @@
 ---
 title: "Coomina"
 url: /amalfi/coomina/
-shop: hardware
+shop: Eisenwaren
 ---

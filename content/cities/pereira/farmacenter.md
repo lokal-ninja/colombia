@@ -1,5 +1,5 @@
 ---
 title: "Farmacenter"
 url: /pereira/farmacenter/
-shop: farmacia
+shop: Drogerie
 ---

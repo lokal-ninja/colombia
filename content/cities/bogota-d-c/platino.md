@@ -1,5 +1,5 @@
 ---
 title: "Platino"
 url: /bogota-d-c/platino/
-shop: cosméticos
+shop: Kosmetik
 ---

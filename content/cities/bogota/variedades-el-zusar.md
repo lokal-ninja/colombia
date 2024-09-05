@@ -1,5 +1,5 @@
 ---
 title: "Variedades el ZUSAR"
 url: /bogota/variedades-el-zusar/
-shop: comodidad
+shop: Lebensmittel
 ---

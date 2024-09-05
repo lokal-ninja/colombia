@@ -1,5 +1,5 @@
 ---
 title: "Beauty Shop Esthetics"
 url: /salento/beauty-shop-esthetics/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GUADALUPE"
 url: /guadalupe/guadalupe/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cascos y Accesorios"
 url: /pereira/cascos-y-accesorios/
-shop: general
+shop: Allgemein
 ---

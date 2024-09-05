@@ -1,5 +1,5 @@
 ---
 title: "Lihan"
 url: /pereira/lihan/
-shop: cama
+shop: Betten
 ---

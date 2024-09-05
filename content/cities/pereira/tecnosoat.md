@@ -1,5 +1,5 @@
 ---
 title: "Tecnosoat"
 url: /pereira/tecnosoat/
-shop: general
+shop: Allgemein
 ---

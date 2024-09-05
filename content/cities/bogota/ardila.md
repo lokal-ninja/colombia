@@ -1,5 +1,5 @@
 ---
 title: "Ardila"
 url: /bogota/ardila/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SUSZUKI"
 url: /barrio-la-gloria-argelia/suszuki/
-shop: motocicleta
+shop: Motorrad
 ---

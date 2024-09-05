@@ -1,5 +1,5 @@
 ---
 title: "Carnecol"
 url: /girardot/carnecol/
-shop: carnicero
+shop: Metzgerei
 ---

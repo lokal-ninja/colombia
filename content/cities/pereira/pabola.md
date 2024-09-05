@@ -1,5 +1,5 @@
 ---
 title: "Pabola"
 url: /pereira/pabola/
-shop: general
+shop: Allgemein
 ---

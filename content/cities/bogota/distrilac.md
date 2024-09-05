@@ -1,5 +1,5 @@
 ---
 title: "Distrilac"
 url: /bogota/distrilac/
-shop: lácteos
+shop: Milch
 ---

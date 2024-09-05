@@ -1,5 +1,5 @@
 ---
 title: "Estandillos"
 url: /chiquinquira/estandillos/
-shop: comodidad
+shop: Lebensmittel
 ---

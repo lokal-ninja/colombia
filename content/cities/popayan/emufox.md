@@ -1,5 +1,5 @@
 ---
 title: "Emufox"
 url: /popayan/emufox/
-shop: ropa
+shop: Kleidung
 ---

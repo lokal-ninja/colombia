@@ -1,5 +1,5 @@
 ---
 title: "Dress Premio"
 url: /bogota-d-c/dress-premio/
-shop: lavandería
+shop: Wäscherei
 ---

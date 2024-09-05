@@ -1,5 +1,5 @@
 ---
 title: "Amercar"
 url: /bogota-d-c/amercar/
-shop: frutería
+shop: Gemüse & Obst
 ---

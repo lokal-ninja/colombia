@@ -1,5 +1,5 @@
 ---
 title: "MC"
 url: /chia/mc/
-shop: general
+shop: Allgemein
 ---

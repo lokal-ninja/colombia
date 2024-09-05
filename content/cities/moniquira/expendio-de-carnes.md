@@ -1,5 +1,5 @@
 ---
 title: "Expendio de carnes"
 url: /moniquira/expendio-de-carnes/
-shop: carnicero
+shop: Metzgerei
 ---

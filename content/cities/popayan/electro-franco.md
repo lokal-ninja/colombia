@@ -1,5 +1,5 @@
 ---
 title: "Electro Franco"
 url: /popayan/electro-franco/
-shop: eléctrico
+shop: Elektrisch
 ---

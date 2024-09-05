@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /ibague/welcome/
-shop: bicicleta
+shop: Fahrrad
 ---

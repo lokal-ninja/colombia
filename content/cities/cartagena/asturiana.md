@@ -1,5 +1,5 @@
 ---
 title: "Asturiana"
 url: /cartagena/asturiana/
-shop: marisco
+shop: Fisch
 ---

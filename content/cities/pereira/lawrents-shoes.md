@@ -1,5 +1,5 @@
 ---
 title: "Lawrent's Shoes"
 url: /pereira/lawrents-shoes/
-shop: zapatos
+shop: Schuhe
 ---

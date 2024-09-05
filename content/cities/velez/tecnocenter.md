@@ -1,5 +1,5 @@
 ---
 title: "Tecnocenter"
 url: /velez/tecnocenter/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multidrogas"
 url: /pereira/multidrogas/
-shop: farmacia
+shop: Drogerie
 ---

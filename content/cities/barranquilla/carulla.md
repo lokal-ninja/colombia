@@ -1,5 +1,5 @@
 ---
 title: "Carulla"
 url: /barranquilla/carulla/
-shop: supermercado
+shop: Supermarkt
 ---

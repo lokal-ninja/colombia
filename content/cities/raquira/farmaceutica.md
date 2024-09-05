@@ -1,5 +1,5 @@
 ---
 title: "Farmaceutica"
 url: /raquira/farmaceutica/
-shop: farmacia
+shop: Drogerie
 ---

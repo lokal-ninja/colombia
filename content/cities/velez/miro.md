@@ -1,5 +1,5 @@
 ---
 title: "Miro"
 url: /velez/miro/
-shop: carnicero
+shop: Metzgerei
 ---

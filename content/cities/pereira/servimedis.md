@@ -1,5 +1,5 @@
 ---
 title: "ServiMedis"
 url: /pereira/servimedis/
-shop: farmacia
+shop: Drogerie
 ---

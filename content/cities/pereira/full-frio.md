@@ -1,5 +1,5 @@
 ---
 title: "Full Frio"
 url: /pereira/full-frio/
-shop: general
+shop: Allgemein
 ---

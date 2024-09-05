@@ -1,5 +1,5 @@
 ---
 title: "De Espacios y cerámicas"
 url: /pereira/de-espacios-y-ceramicas/
-shop: general
+shop: Allgemein
 ---

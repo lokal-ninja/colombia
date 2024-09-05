@@ -1,5 +1,5 @@
 ---
 title: "Electrogonzález"
 url: /popayan/electrogonzalez/
-shop: electrónica
+shop: Elektronik
 ---

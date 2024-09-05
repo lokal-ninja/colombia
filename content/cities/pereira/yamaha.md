@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /pereira/yamaha/
-shop: motocicleta
+shop: Motorrad
 ---

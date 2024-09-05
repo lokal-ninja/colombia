@@ -1,5 +1,5 @@
 ---
 title: "Renovando"
 url: /cucuta/renovando/
-shop: general
+shop: Allgemein
 ---

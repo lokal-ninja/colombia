@@ -1,5 +1,5 @@
 ---
 title: "Tennis"
 url: /dosquebradas/tennis/
-shop: ropa
+shop: Kleidung
 ---

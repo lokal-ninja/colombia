@@ -1,5 +1,5 @@
 ---
 title: "Juguemos"
 url: /popayan/juguemos/
-shop: lotería
+shop: Lotterie
 ---

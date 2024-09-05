@@ -1,5 +1,5 @@
 ---
 title: "Motos Arley C"
 url: /funza/motos-arley-c/
-shop: motocicleta
+shop: Motorrad
 ---

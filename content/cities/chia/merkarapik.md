@@ -1,5 +1,5 @@
 ---
 title: "Merkarapik"
 url: /chia/merkarapik/
-shop: supermercado
+shop: Supermarkt
 ---

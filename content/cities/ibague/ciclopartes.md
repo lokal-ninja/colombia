@@ -1,5 +1,5 @@
 ---
 title: "Ciclopartes"
 url: /ibague/ciclopartes/
-shop: bicicleta
+shop: Fahrrad
 ---

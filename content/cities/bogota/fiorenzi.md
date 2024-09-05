@@ -1,5 +1,5 @@
 ---
 title: "Fiorenzi"
 url: /bogota/fiorenzi/
-shop: zapatos
+shop: Schuhe
 ---

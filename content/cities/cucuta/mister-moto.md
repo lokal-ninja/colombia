@@ -1,5 +1,5 @@
 ---
 title: "Mister Moto"
 url: /cucuta/mister-moto/
-shop: grandes almacenes
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicitodo"
 url: /pereira/bicitodo/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latonería y Pintura Rápida Pintucar El Paisa"
 url: /bogota-d-c/latoneria-y-pintura-rapida-pintucar-el-paisa/
-shop: piezas de automóviles
+shop: Autoteile
 ---

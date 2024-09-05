@@ -1,5 +1,5 @@
 ---
 title: "MILUZMA"
 url: /chiquinquira/miluzma/
-shop: cosméticos
+shop: Kosmetik
 ---

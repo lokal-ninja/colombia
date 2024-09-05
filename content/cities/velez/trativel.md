@@ -1,5 +1,5 @@
 ---
 title: "Trativel"
 url: /velez/trativel/
-shop: ropa
+shop: Kleidung
 ---

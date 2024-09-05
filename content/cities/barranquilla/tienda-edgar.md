@@ -1,5 +1,5 @@
 ---
 title: "Tienda Edgar"
 url: /barranquilla/tienda-edgar/
-shop: comodidad
+shop: Lebensmittel
 ---

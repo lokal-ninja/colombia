@@ -1,5 +1,5 @@
 ---
 title: "Texturas"
 url: /pereira/texturas/
-shop: cama
+shop: Betten
 ---

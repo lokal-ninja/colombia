@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /salgar/arcoiris/
-shop: copyshop
+shop: Kopieren
 ---

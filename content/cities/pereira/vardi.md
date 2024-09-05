@@ -1,5 +1,5 @@
 ---
 title: "Vardí"
 url: /pereira/vardi/
-shop: coche
+shop: Autohaus
 ---

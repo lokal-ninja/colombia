@@ -1,5 +1,5 @@
 ---
 title: "Optiza Daluz"
 url: /san-gil/optiza-daluz/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén Mojica"
 url: /duitama/almacen-mojica/
-shop: hardware
+shop: Eisenwaren
 ---

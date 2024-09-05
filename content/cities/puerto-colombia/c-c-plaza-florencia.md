@@ -1,5 +1,5 @@
 ---
 title: "C.C. Plaza Florencia"
 url: /puerto-colombia/c-c-plaza-florencia/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

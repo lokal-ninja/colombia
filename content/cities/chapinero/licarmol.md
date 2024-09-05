@@ -1,5 +1,5 @@
 ---
 title: "Licarmol"
 url: /chapinero/licarmol/
-shop: alcohol
+shop: Spirituosen
 ---

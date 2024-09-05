@@ -1,5 +1,5 @@
 ---
 title: "Inversiones"
 url: /barrios-unidos/inversiones/
-shop: cocina
+shop: Küchen
 ---

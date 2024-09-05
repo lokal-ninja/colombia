@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /armenia/olimpica/
-shop: supermercado
+shop: Supermarkt
 ---

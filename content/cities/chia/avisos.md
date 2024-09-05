@@ -1,5 +1,5 @@
 ---
 title: "Avisos"
 url: /chia/avisos/
-shop: copyshop
+shop: Kopieren
 ---

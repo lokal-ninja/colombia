@@ -1,5 +1,5 @@
 ---
 title: "Chepes"
 url: /jenesano/chepes/
-shop: panadería
+shop: Bäckerei
 ---

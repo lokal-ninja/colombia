@@ -1,5 +1,5 @@
 ---
 title: "Comfandi"
 url: /jamundi/comfandi/
-shop: supermercado
+shop: Supermarkt
 ---

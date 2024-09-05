@@ -1,5 +1,5 @@
 ---
 title: "Paulinas"
 url: /manizales/paulinas/
-shop: libros
+shop: Bücher
 ---

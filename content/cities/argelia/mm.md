@@ -1,5 +1,5 @@
 ---
 title: "MM"
 url: /argelia/mm/
-shop: ropa
+shop: Kleidung
 ---

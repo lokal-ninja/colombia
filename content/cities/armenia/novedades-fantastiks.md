@@ -1,5 +1,5 @@
 ---
 title: "novedades fantastiks"
 url: /armenia/novedades-fantastiks/
-shop: cosméticos
+shop: Kosmetik
 ---

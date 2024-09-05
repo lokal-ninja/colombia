@@ -1,5 +1,5 @@
 ---
 title: "Jomafer"
 url: /funza/jomafer/
-shop: ropa
+shop: Kleidung
 ---

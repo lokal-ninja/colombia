@@ -1,5 +1,5 @@
 ---
 title: "almacen san antonio"
 url: /chiquinquira/almacen-san-antonio/
-shop: floristería
+shop: Blumen
 ---

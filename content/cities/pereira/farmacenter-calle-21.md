@@ -1,5 +1,5 @@
 ---
 title: "Farmacenter"
 url: /pereira/farmacenter-calle-21/
-shop: farmacia
+shop: Drogerie
 ---

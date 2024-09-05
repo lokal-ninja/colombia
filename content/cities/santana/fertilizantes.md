@@ -1,5 +1,5 @@
 ---
 title: "Fertilizantes"
 url: /santana/fertilizantes/
-shop: agraria
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maruc"
 url: /chia/maruc/
-shop: ropa
+shop: Kleidung
 ---

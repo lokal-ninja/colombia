@@ -1,5 +1,5 @@
 ---
 title: "Dinissan"
 url: /barranquilla/dinissan/
-shop: coche
+shop: Autohaus
 ---

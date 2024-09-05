@@ -1,5 +1,5 @@
 ---
 title: "Motolombia"
 url: /cali/motolombia/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /girardot/jumbo/
-shop: supermercado
+shop: Supermarkt
 ---

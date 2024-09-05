@@ -1,5 +1,5 @@
 ---
 title: "Mil"
 url: /bogota/mil/
-shop: panadería
+shop: Bäckerei
 ---

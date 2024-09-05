@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /buenaventura/olimpica/
-shop: supermercado
+shop: Supermarkt
 ---

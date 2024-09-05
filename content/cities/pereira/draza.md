@@ -1,5 +1,5 @@
 ---
 title: "D'Raza"
 url: /pereira/draza/
-shop: carnicero
+shop: Metzgerei
 ---

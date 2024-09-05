@@ -1,5 +1,5 @@
 ---
 title: "SURTIGOMEZ"
 url: /socha/surtigomez/
-shop: supermercado
+shop: Supermarkt
 ---

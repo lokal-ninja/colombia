@@ -1,5 +1,5 @@
 ---
 title: "MERKAMAR"
 url: /buenaventura/merkamar/
-shop: supermercado
+shop: Supermarkt
 ---

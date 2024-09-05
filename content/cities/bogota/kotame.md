@@ -1,5 +1,5 @@
 ---
 title: "Kotame"
 url: /bogota/kotame/
-shop: arte
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Judibasas"
 url: /bogota-d-c/judibasas/
-shop: decoración interior
+shop: Raumausstattung
 ---

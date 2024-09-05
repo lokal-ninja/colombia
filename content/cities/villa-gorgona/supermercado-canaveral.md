@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Cañaveral"
 url: /villa-gorgona/supermercado-canaveral/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surtifruver"
 url: /popayan/surtifruver/
-shop: frutería
+shop: Gemüse & Obst
 ---

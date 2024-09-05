@@ -1,5 +1,5 @@
 ---
 title: "Erica"
 url: /velez/erica/
-shop: carnicero
+shop: Metzgerei
 ---

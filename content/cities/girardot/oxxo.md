@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /girardot/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

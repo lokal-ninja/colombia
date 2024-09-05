@@ -1,5 +1,5 @@
 ---
 title: "Tecines"
 url: /chia/tecines/
-shop: ropa
+shop: Kleidung
 ---

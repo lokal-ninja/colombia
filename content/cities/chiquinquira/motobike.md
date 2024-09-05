@@ -1,5 +1,5 @@
 ---
 title: "motobike"
 url: /chiquinquira/motobike/
-shop: bicicleta
+shop: Fahrrad
 ---

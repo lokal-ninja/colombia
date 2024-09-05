@@ -1,5 +1,5 @@
 ---
 title: "CONFIDROGAS"
 url: /confines/confidrogas/
-shop: farmacia
+shop: Drogerie
 ---

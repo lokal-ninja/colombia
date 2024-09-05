@@ -1,5 +1,5 @@
 ---
 title: "Anais Anais"
 url: /bogota-d-c/anais-anais/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optic Fashion"
 url: /bogota-d-c/optic-fashion/
-shop: óptico
+shop: Optiker
 ---

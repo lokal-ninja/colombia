@@ -1,5 +1,5 @@
 ---
 title: "Serta"
 url: /bogota/serta/
-shop: cama
+shop: Betten
 ---

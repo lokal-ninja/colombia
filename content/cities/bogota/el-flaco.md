@@ -1,5 +1,5 @@
 ---
 title: "El Flaco"
 url: /bogota/el-flaco/
-shop: supermercado
+shop: Supermarkt
 ---

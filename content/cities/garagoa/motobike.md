@@ -1,5 +1,5 @@
 ---
 title: "Motobike"
 url: /garagoa/motobike/
-shop: motocicleta
+shop: Motorrad
 ---

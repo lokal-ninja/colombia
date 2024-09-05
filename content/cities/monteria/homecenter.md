@@ -1,5 +1,5 @@
 ---
 title: "Homecenter"
 url: /monteria/homecenter/
-shop: supermercado
+shop: Supermarkt
 ---

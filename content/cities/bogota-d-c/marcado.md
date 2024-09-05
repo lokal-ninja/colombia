@@ -1,5 +1,5 @@
 ---
 title: "Marcado"
 url: /bogota-d-c/marcado/
-shop: música
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SYM"
 url: /pereira/sym/
-shop: motocicleta
+shop: Motorrad
 ---

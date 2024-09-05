@@ -1,5 +1,5 @@
 ---
 title: "Cupcake"
 url: /chia/cupcake/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colpinturas"
 url: /cucuta/colpinturas/
-shop: hardware
+shop: Eisenwaren
 ---

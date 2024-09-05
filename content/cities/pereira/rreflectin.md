@@ -1,5 +1,5 @@
 ---
 title: "Rreflectin"
 url: /pereira/rreflectin/
-shop: general
+shop: Allgemein
 ---

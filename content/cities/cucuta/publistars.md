@@ -1,5 +1,5 @@
 ---
 title: "Publistars"
 url: /cucuta/publistars/
-shop: comodidad
+shop: Lebensmittel
 ---

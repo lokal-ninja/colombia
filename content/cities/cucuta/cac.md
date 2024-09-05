@@ -1,5 +1,5 @@
 ---
 title: "CAC"
 url: /cucuta/cac/
-shop: eléctrico
+shop: Elektrisch
 ---

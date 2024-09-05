@@ -1,5 +1,5 @@
 ---
 title: "Mundo Moto JM"
 url: /oiba/mundo-moto-jm/
-shop: motocicleta
+shop: Motorrad
 ---

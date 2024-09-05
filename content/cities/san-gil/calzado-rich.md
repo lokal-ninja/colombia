@@ -1,5 +1,5 @@
 ---
 title: "Calzado Rich"
 url: /san-gil/calzado-rich/
-shop: zapatos
+shop: Schuhe
 ---

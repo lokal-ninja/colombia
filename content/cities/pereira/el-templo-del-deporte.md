@@ -1,5 +1,5 @@
 ---
 title: "El Templo del Deporte"
 url: /pereira/el-templo-del-deporte/
-shop: ropa
+shop: Kleidung
 ---

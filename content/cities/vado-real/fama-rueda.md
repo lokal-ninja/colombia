@@ -1,5 +1,5 @@
 ---
 title: "Fama Rueda"
 url: /vado-real/fama-rueda/
-shop: carnicero
+shop: Metzgerei
 ---

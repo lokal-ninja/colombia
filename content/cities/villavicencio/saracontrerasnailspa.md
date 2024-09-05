@@ -1,5 +1,5 @@
 ---
 title: "SaraContrerasNailSpa"
 url: /villavicencio/saracontrerasnailspa/
-shop: cosméticos
+shop: Kosmetik
 ---

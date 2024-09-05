@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /chia/peluqueria/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baloto"
 url: /cucuta/baloto/
-shop: general
+shop: Allgemein
 ---

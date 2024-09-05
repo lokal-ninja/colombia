@@ -1,5 +1,5 @@
 ---
 title: "Foto Center"
 url: /bogota/foto-center/
-shop: foto
+shop: Foto
 ---

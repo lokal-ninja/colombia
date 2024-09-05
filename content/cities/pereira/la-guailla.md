@@ -1,5 +1,5 @@
 ---
 title: "La Guailla"
 url: /pereira/la-guailla/
-shop: general
+shop: Allgemein
 ---

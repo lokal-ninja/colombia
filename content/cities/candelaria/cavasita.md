@@ -1,5 +1,5 @@
 ---
 title: "Cavasita"
 url: /candelaria/cavasita/
-shop: comodidad
+shop: Lebensmittel
 ---

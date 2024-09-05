@@ -1,5 +1,5 @@
 ---
 title: "Tienda Capilar Divina Melena"
 url: /acacias/tienda-capilar-divina-melena/
-shop: peluquería
+shop: Friseur
 ---

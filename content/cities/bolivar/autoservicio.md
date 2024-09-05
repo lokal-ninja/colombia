@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio"
 url: /bolivar/autoservicio/
-shop: supermercado
+shop: Supermarkt
 ---

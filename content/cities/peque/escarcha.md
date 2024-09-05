@@ -1,5 +1,5 @@
 ---
 title: "Escarcha"
 url: /peque/escarcha/
-shop: alcohol
+shop: Spirituosen
 ---

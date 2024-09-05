@@ -1,5 +1,5 @@
 ---
 title: "Que"
 url: /pereira/que/
-shop: ropa
+shop: Kleidung
 ---

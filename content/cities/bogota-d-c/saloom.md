@@ -1,5 +1,5 @@
 ---
 title: "Saloom"
 url: /bogota-d-c/saloom/
-shop: cosméticos
+shop: Kosmetik
 ---

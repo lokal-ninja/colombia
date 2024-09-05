@@ -1,5 +1,5 @@
 ---
 title: "Digi Tech"
 url: /pereira/digi-tech/
-shop: copyshop
+shop: Kopieren
 ---

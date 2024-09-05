@@ -1,5 +1,5 @@
 ---
 title: "Autollave"
 url: /manizales/autollave/
-shop: hardware
+shop: Eisenwaren
 ---

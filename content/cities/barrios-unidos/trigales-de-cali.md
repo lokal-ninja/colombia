@@ -1,5 +1,5 @@
 ---
 title: "Trigales de Cali"
 url: /barrios-unidos/trigales-de-cali/
-shop: panadería
+shop: Bäckerei
 ---

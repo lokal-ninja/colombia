@@ -1,5 +1,5 @@
 ---
 title: "Bicicleteria"
 url: /bogota/bicicleteria/
-shop: bicicleta
+shop: Fahrrad
 ---

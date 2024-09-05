@@ -1,5 +1,5 @@
 ---
 title: "RB"
 url: /bogota/rb/
-shop: comodidad
+shop: Lebensmittel
 ---

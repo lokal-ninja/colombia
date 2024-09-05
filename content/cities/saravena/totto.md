@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /saravena/totto/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

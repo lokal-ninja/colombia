@@ -1,5 +1,5 @@
 ---
 title: "Creaciones Lizmar Moreno"
 url: /puerto-gaitan/creaciones-lizmar-moreno/
-shop: ropa
+shop: Kleidung
 ---

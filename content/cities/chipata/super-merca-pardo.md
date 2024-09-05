@@ -1,5 +1,5 @@
 ---
 title: "Super Merca-Pardo"
 url: /chipata/super-merca-pardo/
-shop: supermercado
+shop: Supermarkt
 ---

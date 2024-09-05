@@ -1,5 +1,5 @@
 ---
 title: "Surtivan"
 url: /pereira/surtivan/
-shop: piezas de automóviles
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /pereira/ferreteria/
-shop: general
+shop: Allgemein
 ---

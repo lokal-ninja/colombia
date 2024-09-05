@@ -1,5 +1,5 @@
 ---
 title: "Bronce Spa"
 url: /armenia/bronce-spa/
-shop: masaje
+shop: Massage
 ---

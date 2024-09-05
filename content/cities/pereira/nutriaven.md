@@ -1,5 +1,5 @@
 ---
 title: "NutriAven"
 url: /pereira/nutriaven/
-shop: general
+shop: Allgemein
 ---

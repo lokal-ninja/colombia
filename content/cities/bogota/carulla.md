@@ -1,5 +1,5 @@
 ---
 title: "Carulla"
 url: /bogota/carulla/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Bolivarense"
 url: /bolivar/plaza-bolivarense/
-shop: frutería
+shop: Gemüse & Obst
 ---

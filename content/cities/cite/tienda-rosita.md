@@ -1,5 +1,5 @@
 ---
 title: "Tienda Rosita"
 url: /cite/tienda-rosita/
-shop: general
+shop: Allgemein
 ---

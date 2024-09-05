@@ -1,5 +1,5 @@
 ---
 title: "Opalo"
 url: /pereira/opalo/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALCA"
 url: /san-gil/alca/
-shop: aparato
+shop: Haushaltsgeräte
 ---

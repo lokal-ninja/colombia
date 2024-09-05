@@ -1,5 +1,5 @@
 ---
 title: "DarSalud"
 url: /jamundi/darsalud/
-shop: farmacia
+shop: Drogerie
 ---

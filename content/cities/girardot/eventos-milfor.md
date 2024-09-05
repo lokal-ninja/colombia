@@ -1,5 +1,5 @@
 ---
 title: "Eventos Milfor"
 url: /girardot/eventos-milfor/
-shop: floristería
+shop: Blumen
 ---

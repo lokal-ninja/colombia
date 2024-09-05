@@ -1,5 +1,5 @@
 ---
 title: "Rapeluches"
 url: /pereira/rapeluches/
-shop: general
+shop: Allgemein
 ---

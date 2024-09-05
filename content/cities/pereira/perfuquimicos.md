@@ -1,5 +1,5 @@
 ---
 title: "PerfuQuimicos"
 url: /pereira/perfuquimicos/
-shop: perfumería
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CercaSur"
 url: /pasto/cercasur/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foton"
 url: /barranquilla/foton/
-shop: coche
+shop: Autohaus
 ---

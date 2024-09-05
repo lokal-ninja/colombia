@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /chiquinquira/peluqueria/
-shop: peluquería
+shop: Friseur
 ---

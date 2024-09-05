@@ -1,5 +1,5 @@
 ---
 title: "Tania sport"
 url: /amalfi/tania-sport/
-shop: ropa
+shop: Kleidung
 ---

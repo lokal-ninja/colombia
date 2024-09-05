@@ -1,5 +1,5 @@
 ---
 title: "Surtifruver"
 url: /garagoa/surtifruver/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /bogota/citroen/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "sushima"
 url: /riohacha-la-guajira/sushima/
-shop: supermercado
+shop: Supermarkt
 ---

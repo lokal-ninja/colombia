@@ -1,5 +1,5 @@
 ---
 title: "Stoners"
 url: /pereira/stoners/
-shop: cigarrillo electrónico
+shop: E-Zigaretten
 ---

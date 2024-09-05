@@ -1,5 +1,5 @@
 ---
 title: "MATTELSA"
 url: /buenaventura/mattelsa/
-shop: ropa
+shop: Kleidung
 ---

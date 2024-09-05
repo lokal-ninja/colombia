@@ -1,5 +1,5 @@
 ---
 title: "Zeus"
 url: /bogota/zeus/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stella"
 url: /velez/stella/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MI BODEGUITA INFANTIL"
 url: /socorro/mi-bodeguita-infantil/
-shop: ropa
+shop: Kleidung
 ---

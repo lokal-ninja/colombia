@@ -1,5 +1,5 @@
 ---
 title: "Electrofertas"
 url: /pereira/electrofertas/
-shop: electrónica
+shop: Elektronik
 ---

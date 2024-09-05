@@ -1,5 +1,5 @@
 ---
 title: "Motomovi"
 url: /bogota/motomovi/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sajer"
 url: /barrios-unidos/sajer/
-shop: piezas de automóviles
+shop: Autoteile
 ---

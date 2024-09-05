@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco"
 url: /bogota/lavaseco/
-shop: lavandería
+shop: Wäscherei
 ---

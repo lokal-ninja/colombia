@@ -1,5 +1,5 @@
 ---
 title: "Bike House"
 url: /ibague/bike-house/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /pereira/fraiche/
-shop: perfumería
+shop: Parfümerie
 ---

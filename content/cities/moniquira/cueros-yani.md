@@ -1,5 +1,5 @@
 ---
 title: "Cueros Yani"
 url: /moniquira/cueros-yani/
-shop: zapatos
+shop: Schuhe
 ---

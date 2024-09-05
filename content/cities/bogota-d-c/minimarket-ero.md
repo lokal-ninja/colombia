@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Ero"
 url: /bogota-d-c/minimarket-ero/
-shop: comodidad
+shop: Lebensmittel
 ---

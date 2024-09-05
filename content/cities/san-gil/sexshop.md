@@ -1,5 +1,5 @@
 ---
 title: "Sexshop"
 url: /san-gil/sexshop/
-shop: erótico
+shop: Erotik
 ---

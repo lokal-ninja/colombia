@@ -1,5 +1,5 @@
 ---
 title: "Ambar"
 url: /pereira/ambar/
-shop: cama
+shop: Betten
 ---

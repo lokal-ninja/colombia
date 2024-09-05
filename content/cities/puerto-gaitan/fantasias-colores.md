@@ -1,5 +1,5 @@
 ---
 title: "Fantasías Colores"
 url: /puerto-gaitan/fantasias-colores/
-shop: regalo
+shop: Andenken
 ---

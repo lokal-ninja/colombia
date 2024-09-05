@@ -1,5 +1,5 @@
 ---
 title: "Tostao’"
 url: /bogota/tostao/
-shop: bebidas
+shop: Getränke
 ---

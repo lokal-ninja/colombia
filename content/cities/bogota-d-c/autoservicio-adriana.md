@@ -1,5 +1,5 @@
 ---
 title: "AutoServicio Adriana"
 url: /bogota-d-c/autoservicio-adriana/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda naturista La Casa Verde"
 url: /barbosa/tienda-naturista-la-casa-verde/
-shop: suplementos nutricionales
+shop: Nahrungsergänzung
 ---

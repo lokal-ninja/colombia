@@ -1,5 +1,5 @@
 ---
 title: "Cociarte"
 url: /bogota/cociarte/
-shop: cocina
+shop: Küchen
 ---

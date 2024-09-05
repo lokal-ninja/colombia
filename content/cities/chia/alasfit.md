@@ -1,5 +1,5 @@
 ---
 title: "Alasfit"
 url: /chia/alasfit/
-shop: ropa
+shop: Kleidung
 ---

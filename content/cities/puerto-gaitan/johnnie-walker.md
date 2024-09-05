@@ -1,5 +1,5 @@
 ---
 title: "Johnnie Walker"
 url: /puerto-gaitan/johnnie-walker/
-shop: alcohol
+shop: Spirituosen
 ---

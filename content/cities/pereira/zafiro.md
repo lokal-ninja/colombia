@@ -1,5 +1,5 @@
 ---
 title: "Zafiro"
 url: /pereira/zafiro/
-shop: cama
+shop: Betten
 ---

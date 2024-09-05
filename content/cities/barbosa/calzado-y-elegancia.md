@@ -1,5 +1,5 @@
 ---
 title: "Calzado y elegancia"
 url: /barbosa/calzado-y-elegancia/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Duarte"
 url: /bogota-d-c/bicicletas-duarte/
-shop: bicicleta
+shop: Fahrrad
 ---

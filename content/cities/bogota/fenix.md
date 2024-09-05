@@ -1,5 +1,5 @@
 ---
 title: "Fénix"
 url: /bogota/fenix/
-shop: panadería
+shop: Bäckerei
 ---

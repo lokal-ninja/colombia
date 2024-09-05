@@ -1,5 +1,5 @@
 ---
 title: "FerreSant"
 url: /velez/ferresant/
-shop: hardware
+shop: Eisenwaren
 ---

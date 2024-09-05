@@ -1,5 +1,5 @@
 ---
 title: "Calzado Maricela"
 url: /pereira/calzado-maricela/
-shop: zapatos
+shop: Schuhe
 ---

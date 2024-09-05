@@ -1,5 +1,5 @@
 ---
 title: "Pretzel"
 url: /chia/pretzel/
-shop: panadería
+shop: Bäckerei
 ---

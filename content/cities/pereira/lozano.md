@@ -1,5 +1,5 @@
 ---
 title: "Lozano"
 url: /pereira/lozano/
-shop: alimentación sana
+shop: Bioladen
 ---

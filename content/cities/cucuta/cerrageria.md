@@ -1,5 +1,5 @@
 ---
 title: "cerrageria"
 url: /cucuta/cerrageria/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

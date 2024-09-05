@@ -1,5 +1,5 @@
 ---
 title: "Indupollo"
 url: /barranquilla/indupollo/
-shop: carnicero
+shop: Metzgerei
 ---

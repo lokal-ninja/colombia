@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio La Roca"
 url: /barbosa/autoservicio-la-roca/
-shop: supermercado
+shop: Supermarkt
 ---

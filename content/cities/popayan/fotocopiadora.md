@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadora"
 url: /popayan/fotocopiadora/
-shop: copyshop
+shop: Kopieren
 ---

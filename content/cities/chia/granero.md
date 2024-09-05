@@ -1,5 +1,5 @@
 ---
 title: "Granero"
 url: /chia/granero/
-shop: alcohol
+shop: Spirituosen
 ---

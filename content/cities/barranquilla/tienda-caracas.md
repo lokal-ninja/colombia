@@ -1,5 +1,5 @@
 ---
 title: "Tienda Caracas"
 url: /barranquilla/tienda-caracas/
-shop: comodidad
+shop: Lebensmittel
 ---

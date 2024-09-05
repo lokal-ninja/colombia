@@ -1,5 +1,5 @@
 ---
 title: "El Ed"
 url: /pereira/el-ed/
-shop: general
+shop: Allgemein
 ---

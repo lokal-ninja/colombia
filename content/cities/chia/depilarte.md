@@ -1,5 +1,5 @@
 ---
 title: "Depilarte"
 url: /chia/depilarte/
-shop: masaje
+shop: Massage
 ---

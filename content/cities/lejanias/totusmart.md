@@ -1,5 +1,5 @@
 ---
 title: "Totusmart"
 url: /lejanias/totusmart/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /chia/specialized/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria santana"
+title: "Ferretería Santana"
 url: /santana/ferreteria-santana/
-shop: hardware
+shop: Eisenwaren
 ---

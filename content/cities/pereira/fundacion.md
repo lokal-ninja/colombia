@@ -1,5 +1,5 @@
 ---
 title: "Fundacion"
 url: /pereira/fundacion/
-shop: general
+shop: Allgemein
 ---
