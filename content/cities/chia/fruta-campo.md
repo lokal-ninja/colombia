@@ -1,5 +1,5 @@
 ---
 title: "Fruta Campo"
 url: /chia/fruta-campo/
-shop: Gemüse & Obst
+shop: frutería
 ---

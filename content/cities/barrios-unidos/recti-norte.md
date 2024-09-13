@@ -1,5 +1,5 @@
 ---
 title: "Recti-norte"
 url: /barrios-unidos/recti-norte/
-shop: Autoteile
+shop: piezas de automóviles
 ---

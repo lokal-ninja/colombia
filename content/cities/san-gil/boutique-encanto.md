@@ -1,5 +1,5 @@
 ---
 title: "Boutique Encanto"
 url: /san-gil/boutique-encanto/
-shop: Kleidung
+shop: ropa
 ---

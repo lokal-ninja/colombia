@@ -1,5 +1,5 @@
 ---
 title: "Optica Zona Ocular"
 url: /chia/optica-zona-ocular/
-shop: Optiker
+shop: óptico
 ---

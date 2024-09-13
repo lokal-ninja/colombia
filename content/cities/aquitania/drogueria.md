@@ -1,5 +1,5 @@
 ---
 title: "Drogueria."
 url: /aquitania/drogueria/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Propartes"
 url: /pereira/propartes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

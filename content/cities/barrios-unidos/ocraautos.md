@@ -1,5 +1,5 @@
 ---
 title: "Ocraautos"
 url: /barrios-unidos/ocraautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

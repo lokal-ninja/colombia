@@ -1,5 +1,5 @@
 ---
 title: "Fuente de oro"
 url: /amalfi/fuente-de-oro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

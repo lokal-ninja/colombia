@@ -1,5 +1,5 @@
 ---
 title: "Laminar"
 url: /velez/laminar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

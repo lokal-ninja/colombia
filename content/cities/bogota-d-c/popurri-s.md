@@ -1,5 +1,5 @@
 ---
 title: "Popurri`s"
 url: /bogota-d-c/popurri-s/
-shop: Bäckerei
+shop: panadería
 ---

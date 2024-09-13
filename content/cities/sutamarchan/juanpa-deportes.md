@@ -1,5 +1,5 @@
 ---
 title: "Juanpa deportes"
 url: /sutamarchan/juanpa-deportes/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WasonCell"
 url: /pereira/wasoncell/
-shop: Handy
+shop: teléfono móvil
 ---

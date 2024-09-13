@@ -1,5 +1,5 @@
 ---
 title: "Tienda de telecomunicaciones"
 url: /cimitarra/tienda-de-telecomunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

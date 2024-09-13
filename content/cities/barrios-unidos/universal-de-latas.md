@@ -1,5 +1,5 @@
 ---
 title: "Universal De Latas"
 url: /barrios-unidos/universal-de-latas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

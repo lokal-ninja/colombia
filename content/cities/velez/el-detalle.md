@@ -1,5 +1,5 @@
 ---
 title: "El detalle"
 url: /velez/el-detalle/
-shop: Kramladen
+shop: tienda de variedades
 ---

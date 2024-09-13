@@ -1,5 +1,5 @@
 ---
 title: "Asodefall"
 url: /lejanias/asodefall/
-shop: Reisebüro
+shop: agencia de viajes
 ---

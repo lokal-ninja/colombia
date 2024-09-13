@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria Automotriz"
 url: /barrios-unidos/tapiceria-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

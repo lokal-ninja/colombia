@@ -1,5 +1,5 @@
 ---
 title: "Auto-Mejia"
 url: /pereira/auto-mejia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

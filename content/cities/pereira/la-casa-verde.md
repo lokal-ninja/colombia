@@ -1,5 +1,5 @@
 ---
 title: "La Casa Verde"
 url: /pereira/la-casa-verde/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades La Islita"
 url: /la-paz/variedades-la-islita/
-shop: Kramladen
+shop: tienda de variedades
 ---

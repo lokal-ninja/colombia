@@ -1,5 +1,5 @@
 ---
 title: "Autofrnacia Peugeot"
 url: /barrios-unidos/autofrnacia-peugeot/
-shop: Autoteile
+shop: piezas de automóviles
 ---

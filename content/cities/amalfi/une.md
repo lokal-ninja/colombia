@@ -1,5 +1,5 @@
 ---
 title: "UNE"
 url: /amalfi/une/
-shop: Handy
+shop: teléfono móvil
 ---

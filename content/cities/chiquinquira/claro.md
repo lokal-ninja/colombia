@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /chiquinquira/claro/
-shop: Handy
+shop: teléfono móvil
 ---

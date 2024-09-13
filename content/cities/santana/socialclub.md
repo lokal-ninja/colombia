@@ -1,5 +1,5 @@
 ---
 title: "SocialClub"
 url: /santana/socialclub/
-shop: Spiele
+shop: juegos
 ---

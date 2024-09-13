@@ -1,5 +1,5 @@
 ---
 title: "TIENDA LETICIA"
 url: /cerete/tienda-leticia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ercar"
 url: /barrios-unidos/ercar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

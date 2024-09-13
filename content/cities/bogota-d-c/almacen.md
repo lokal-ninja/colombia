@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /bogota-d-c/almacen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

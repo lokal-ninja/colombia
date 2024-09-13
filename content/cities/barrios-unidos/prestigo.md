@@ -1,5 +1,5 @@
 ---
 title: "Prestigo"
 url: /barrios-unidos/prestigo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

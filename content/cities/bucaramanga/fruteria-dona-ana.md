@@ -1,5 +1,5 @@
 ---
 title: "Fruteria Doña Ana"
 url: /bucaramanga/fruteria-dona-ana/
-shop: Gemüse & Obst
+shop: frutería
 ---

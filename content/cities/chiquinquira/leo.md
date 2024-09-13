@@ -1,5 +1,5 @@
 ---
 title: "Leo"
 url: /chiquinquira/leo/
-shop: Kleidung
+shop: ropa
 ---

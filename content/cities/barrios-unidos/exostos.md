@@ -1,5 +1,5 @@
 ---
 title: "Exostos"
 url: /barrios-unidos/exostos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

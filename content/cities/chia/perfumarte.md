@@ -1,5 +1,5 @@
 ---
 title: "Perfumarte"
 url: /chia/perfumarte/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confavel"
 url: /velez/confavel/
-shop: Kleidung
+shop: ropa
 ---

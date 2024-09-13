@@ -1,5 +1,5 @@
 ---
 title: "DEPORTIVOS"
 url: /argelia/deportivos/
-shop: Kleidung
+shop: ropa
 ---

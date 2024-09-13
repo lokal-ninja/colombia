@@ -1,5 +1,5 @@
 ---
 title: "Maranata"
 url: /cucuta-norte-de-santander/maranata/
-shop: Kramladen
+shop: tienda de variedades
 ---

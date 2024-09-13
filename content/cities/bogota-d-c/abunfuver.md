@@ -1,5 +1,5 @@
 ---
 title: "Abunfuver"
 url: /bogota-d-c/abunfuver/
-shop: Lebensmittel
+shop: comodidad
 ---

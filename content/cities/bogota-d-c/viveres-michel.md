@@ -1,5 +1,5 @@
 ---
 title: "Viveres Michel"
 url: /bogota-d-c/viveres-michel/
-shop: Lebensmittel
+shop: comodidad
 ---

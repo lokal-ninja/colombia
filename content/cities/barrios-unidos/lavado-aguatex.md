@@ -1,5 +1,5 @@
 ---
 title: "Lavado Aguatex"
 url: /barrios-unidos/lavado-aguatex/
-shop: Wäscherei
+shop: lavandería
 ---

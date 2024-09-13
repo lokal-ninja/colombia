@@ -1,5 +1,5 @@
 ---
 title: "Marité"
 url: /velez/marite/
-shop: Kleidung
+shop: ropa
 ---

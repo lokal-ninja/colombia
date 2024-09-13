@@ -1,5 +1,5 @@
 ---
 title: "La Veci A"
 url: /bogota-d-c/la-veci-a/
-shop: Lebensmittel
+shop: comodidad
 ---

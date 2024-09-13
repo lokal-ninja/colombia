@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /barranquilla/olimpica-carrera-26b/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALMACEN MADAYER"
 url: /socorro/almacen-madayer/
-shop: Kleidung
+shop: ropa
 ---

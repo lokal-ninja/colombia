@@ -1,5 +1,5 @@
 ---
 title: "Pañales Maba"
 url: /popayan/panales-maba/
-shop: Babysachen
+shop: artículos para bebés
 ---

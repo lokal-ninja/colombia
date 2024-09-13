@@ -1,5 +1,5 @@
 ---
 title: "Agromilenio"
 url: /aguazul-casanare/agromilenio/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /ricaurte/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén Variedades"
 url: /barbosa/almacen-variedades/
-shop: Kleidung
+shop: ropa
 ---

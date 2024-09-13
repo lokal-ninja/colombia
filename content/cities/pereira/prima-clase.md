@@ -1,5 +1,5 @@
 ---
 title: "Prima Clase"
 url: /pereira/prima-clase/
-shop: Allgemein
+shop: general
 ---

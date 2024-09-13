@@ -1,5 +1,5 @@
 ---
 title: "Estylos"
 url: /moniquira/estylos/
-shop: Schuhe
+shop: zapatos
 ---

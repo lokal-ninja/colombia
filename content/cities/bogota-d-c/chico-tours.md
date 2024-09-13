@@ -1,5 +1,5 @@
 ---
 title: "Chico Tours"
 url: /bogota-d-c/chico-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

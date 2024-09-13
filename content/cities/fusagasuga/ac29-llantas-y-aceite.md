@@ -1,5 +1,5 @@
 ---
 title: "Ac29-Llantas y aceite"
 url: /fusagasuga/ac29-llantas-y-aceite/
-shop: Autoteile
+shop: piezas de automóviles
 ---

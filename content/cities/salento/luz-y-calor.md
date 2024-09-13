@@ -1,5 +1,5 @@
 ---
 title: "Luz y Calor"
 url: /salento/luz-y-calor/
-shop: Kunst
+shop: arte
 ---

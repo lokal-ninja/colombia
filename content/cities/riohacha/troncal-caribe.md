@@ -1,5 +1,5 @@
 ---
 title: "TRONCAL CARIBE"
 url: /riohacha/troncal-caribe/
-shop: Supermarkt
+shop: supermercado
 ---

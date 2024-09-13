@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /bogota/dreams/
-shop: Friseur
+shop: peluquería
 ---

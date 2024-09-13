@@ -1,5 +1,5 @@
 ---
 title: "Avior Airlines"
 url: /bogota/avior-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

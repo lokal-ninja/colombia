@@ -1,5 +1,5 @@
 ---
 title: "Servientrega"
 url: /barrios-unidos/servientrega/
-shop: Autoteile
+shop: piezas de automóviles
 ---

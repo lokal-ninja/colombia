@@ -1,5 +1,5 @@
 ---
 title: "Pitlane"
 url: /barrios-unidos/pitlane/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chatarreria JM"
 url: /barrios-unidos/chatarreria-jm/
-shop: Autoteile
+shop: piezas de automóviles
 ---

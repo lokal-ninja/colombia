@@ -1,5 +1,5 @@
 ---
 title: "Radiadores"
 url: /chia/radiadores/
-shop: Autoteile
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Normandía"
 url: /bolivar/normandia/
-shop: Landwirtschaftlich
+shop: agraria
 ---

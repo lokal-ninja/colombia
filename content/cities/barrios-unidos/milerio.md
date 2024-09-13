@@ -1,5 +1,5 @@
 ---
 title: "Milerio"
 url: /barrios-unidos/milerio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

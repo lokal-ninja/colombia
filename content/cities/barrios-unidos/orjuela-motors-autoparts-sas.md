@@ -1,5 +1,5 @@
 ---
 title: "Orjuela Motors Autoparts Sas"
 url: /barrios-unidos/orjuela-motors-autoparts-sas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

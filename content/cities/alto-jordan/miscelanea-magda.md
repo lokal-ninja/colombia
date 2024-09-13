@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Magda"
 url: /alto-jordan/miscelanea-magda/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

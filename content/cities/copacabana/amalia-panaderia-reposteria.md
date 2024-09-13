@@ -1,5 +1,5 @@
 ---
 title: "Amalia Panadería Repostería"
 url: /copacabana/amalia-panaderia-reposteria/
-shop: Bäckerei
+shop: panadería
 ---

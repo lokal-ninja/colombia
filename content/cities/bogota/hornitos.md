@@ -1,5 +1,5 @@
 ---
 title: "Hornitos"
 url: /bogota/hornitos/
-shop: Bäckerei
+shop: panadería
 ---

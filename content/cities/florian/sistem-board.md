@@ -1,5 +1,5 @@
 ---
 title: "Sistem Board"
 url: /florian/sistem-board/
-shop: Computer
+shop: ordenador
 ---

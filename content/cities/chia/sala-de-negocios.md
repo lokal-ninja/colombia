@@ -1,5 +1,5 @@
 ---
 title: "Sala De Negocios"
 url: /chia/sala-de-negocios/
-shop: Allgemein
+shop: general
 ---

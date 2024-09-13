@@ -1,5 +1,5 @@
 ---
 title: "Norte"
 url: /cucuta/norte/
-shop: Eisenwaren
+shop: hardware
 ---

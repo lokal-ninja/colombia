@@ -1,5 +1,5 @@
 ---
 title: "Vidrios Bocata"
 url: /barrios-unidos/vidrios-bocata/
-shop: Autoteile
+shop: piezas de automóviles
 ---

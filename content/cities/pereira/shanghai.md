@@ -1,5 +1,5 @@
 ---
 title: "Shanghai"
 url: /pereira/shanghai/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

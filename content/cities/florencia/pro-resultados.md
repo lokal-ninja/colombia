@@ -1,5 +1,5 @@
 ---
 title: "Pro-Resultados"
 url: /florencia/pro-resultados/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

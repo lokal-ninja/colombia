@@ -1,5 +1,5 @@
 ---
 title: "ALMACEN VARIEDADES EL ARTE DE TU BELLEZA"
 url: /santander-de-quilichao/almacen-variedades-el-arte-de-tu-belleza/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

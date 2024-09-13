@@ -1,5 +1,5 @@
 ---
 title: "Jordi's"
 url: /chia/jordis/
-shop: Allgemein
+shop: general
 ---

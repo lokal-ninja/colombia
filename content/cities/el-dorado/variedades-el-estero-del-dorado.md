@@ -1,5 +1,5 @@
 ---
 title: "Variedades el Estero del dorado"
 url: /el-dorado/variedades-el-estero-del-dorado/
-shop: Supermarkt
+shop: supermercado
 ---

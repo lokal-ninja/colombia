@@ -1,5 +1,5 @@
 ---
 title: "Profamiliar"
 url: /pereira/profamiliar/
-shop: Drogerie
+shop: farmacia
 ---

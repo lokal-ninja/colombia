@@ -1,5 +1,5 @@
 ---
 title: "Imprepapel"
 url: /cucuta/imprepapel/
-shop: Allgemein
+shop: general
 ---

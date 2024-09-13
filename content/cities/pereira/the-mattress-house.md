@@ -1,5 +1,5 @@
 ---
 title: "The Mattress House"
 url: /pereira/the-mattress-house/
-shop: Betten
+shop: cama
 ---

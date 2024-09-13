@@ -1,5 +1,5 @@
 ---
 title: "CUATRO VIAS"
 url: /riohacha/cuatro-vias/
-shop: Zeitungen
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polarizados"
 url: /barrios-unidos/polarizados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

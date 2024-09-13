@@ -1,5 +1,5 @@
 ---
 title: "VARIEDADES GERONIMO Y YA"
 url: /socorro/variedades-geronimo-y-ya/
-shop: Dorfladen
+shop: tienda rural
 ---

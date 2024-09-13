@@ -1,5 +1,5 @@
 ---
 title: "Calzado Bucaramanga"
 url: /velez/calzado-bucaramanga/
-shop: Schuhe
+shop: zapatos
 ---

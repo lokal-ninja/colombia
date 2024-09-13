@@ -1,5 +1,5 @@
 ---
 title: "Mia Cucina"
 url: /bogota-d-c/mia-cucina/
-shop: Küchen
+shop: cocina
 ---

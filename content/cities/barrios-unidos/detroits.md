@@ -1,5 +1,5 @@
 ---
 title: "Detroit's"
 url: /barrios-unidos/detroits/
-shop: Autoteile
+shop: piezas de automóviles
 ---

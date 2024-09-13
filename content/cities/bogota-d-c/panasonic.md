@@ -1,5 +1,5 @@
 ---
 title: "Panasonic"
 url: /bogota-d-c/panasonic/
-shop: Elektronik
+shop: electrónica
 ---

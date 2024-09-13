@@ -1,5 +1,5 @@
 ---
 title: "Licores bochalema"
 url: /bochalema/licores-bochalema/
-shop: Spirituosen
+shop: alcohol
 ---

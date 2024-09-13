@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /soledad/makro/
-shop: Großhandel
+shop: mayorista
 ---

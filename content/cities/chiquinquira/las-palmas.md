@@ -1,5 +1,5 @@
 ---
 title: "las palmas"
 url: /chiquinquira/las-palmas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

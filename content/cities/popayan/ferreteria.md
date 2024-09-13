@@ -1,5 +1,5 @@
 ---
 title: "FERRETERIA"
 url: /popayan/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

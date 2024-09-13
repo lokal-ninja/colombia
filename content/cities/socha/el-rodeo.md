@@ -1,5 +1,5 @@
 ---
 title: "El Rodeo"
 url: /socha/el-rodeo/
-shop: Metzgerei
+shop: carnicero
 ---

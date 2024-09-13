@@ -1,5 +1,5 @@
 ---
 title: "Milfrenos"
 url: /barrios-unidos/milfrenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

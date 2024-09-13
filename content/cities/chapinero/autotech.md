@@ -1,5 +1,5 @@
 ---
 title: "Autotech"
 url: /chapinero/autotech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

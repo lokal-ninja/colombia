@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /sachica/tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

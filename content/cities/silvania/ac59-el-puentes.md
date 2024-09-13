@@ -1,5 +1,5 @@
 ---
 title: "AC59-El puentes"
 url: /silvania/ac59-el-puentes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

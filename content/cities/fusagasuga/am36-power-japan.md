@@ -1,5 +1,5 @@
 ---
 title: "Am36-Power japan"
 url: /fusagasuga/am36-power-japan/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celucenter"
 url: /lejanias/celucenter/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Angelus"
 url: /bogota/supermercado-angelus/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gran Plaza Bosa"
 url: /bosa/gran-plaza-bosa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

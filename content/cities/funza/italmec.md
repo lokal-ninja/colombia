@@ -1,5 +1,5 @@
 ---
 title: "ITALMEC"
 url: /funza/italmec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

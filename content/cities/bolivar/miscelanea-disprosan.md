@@ -1,5 +1,5 @@
 ---
 title: "Miscelanea Disprosan"
 url: /bolivar/miscelanea-disprosan/
-shop: Kramladen
+shop: tienda de variedades
 ---

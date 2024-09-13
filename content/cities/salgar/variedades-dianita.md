@@ -1,5 +1,5 @@
 ---
 title: "Variedades Dianita"
 url: /salgar/variedades-dianita/
-shop: Kramladen
+shop: tienda de variedades
 ---

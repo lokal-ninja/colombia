@@ -1,5 +1,5 @@
 ---
 title: "Delichicks"
 url: /chia/delichicks/
-shop: Feinkost
+shop: charcutería
 ---

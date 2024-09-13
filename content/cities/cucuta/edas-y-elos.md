@@ -1,5 +1,5 @@
 ---
 title: "Edas y Elos"
 url: /cucuta/edas-y-elos/
-shop: Kosmetik
+shop: cosméticos
 ---

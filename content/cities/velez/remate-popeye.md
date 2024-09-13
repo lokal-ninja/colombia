@@ -1,5 +1,5 @@
 ---
 title: "Remate Popeye"
 url: /velez/remate-popeye/
-shop: Kramladen
+shop: tienda de variedades
 ---

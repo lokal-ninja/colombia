@@ -1,5 +1,5 @@
 ---
 title: "manualidades soffi"
 url: /chiquinquira/manualidades-soffi/
-shop: Kramladen
+shop: tienda de variedades
 ---

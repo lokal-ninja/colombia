@@ -1,5 +1,5 @@
 ---
 title: "AldAuto"
 url: /barrios-unidos/aldauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

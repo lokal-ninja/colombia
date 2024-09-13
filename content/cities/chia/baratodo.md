@@ -1,5 +1,5 @@
 ---
 title: "Baratodo"
 url: /chia/baratodo/
-shop: Kramladen
+shop: tienda de variedades
 ---

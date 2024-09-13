@@ -1,5 +1,5 @@
 ---
 title: "TOTTO"
 url: /buenaventura/totto/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

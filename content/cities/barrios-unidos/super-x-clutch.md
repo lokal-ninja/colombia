@@ -1,5 +1,5 @@
 ---
 title: "Super X Clutch"
 url: /barrios-unidos/super-x-clutch/
-shop: Autoteile
+shop: piezas de automóviles
 ---

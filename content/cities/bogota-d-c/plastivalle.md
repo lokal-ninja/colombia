@@ -1,5 +1,5 @@
 ---
 title: "Plastivalle"
 url: /bogota-d-c/plastivalle/
-shop: Eisenwaren
+shop: hardware
 ---

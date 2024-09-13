@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /soledad/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wplay"
 url: /tierralta-cordoba/wplay/
-shop: Videothek
+shop: vídeo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pipiripan"
 url: /bogota-d-c/pipiripan/
-shop: Bäckerei
+shop: panadería
 ---

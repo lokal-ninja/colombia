@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria Park Way"
 url: /bogota/cigarreria-park-way/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Idime"
 url: /pereira/idime/
-shop: Allgemein
+shop: general
 ---

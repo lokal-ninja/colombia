@@ -1,5 +1,5 @@
 ---
 title: "Ortiz"
 url: /pereira/ortiz/
-shop: Autohaus
+shop: coche
 ---

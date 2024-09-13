@@ -1,5 +1,5 @@
 ---
 title: "La Nuevas Inglesa"
 url: /bogota-d-c/la-nuevas-inglesa/
-shop: Lebensmittel
+shop: comodidad
 ---

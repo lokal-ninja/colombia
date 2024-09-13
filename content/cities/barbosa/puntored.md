@@ -1,5 +1,5 @@
 ---
 title: "PuntoRed"
 url: /barbosa/puntored/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miscelenea Cositas"
 url: /pereira/miscelenea-cositas/
-shop: Kramladen
+shop: tienda de variedades
 ---

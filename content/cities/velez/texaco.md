@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /velez/texaco/
-shop: Eisenwaren
+shop: hardware
 ---

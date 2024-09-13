@@ -1,5 +1,5 @@
 ---
 title: "Gana"
 url: /peque/gana/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

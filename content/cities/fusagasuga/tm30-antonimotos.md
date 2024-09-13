@@ -1,5 +1,5 @@
 ---
 title: "TM30-Antonimotos"
 url: /fusagasuga/tm30-antonimotos/
-shop: Motorrad
+shop: motocicleta
 ---

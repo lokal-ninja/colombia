@@ -1,5 +1,5 @@
 ---
 title: "Mall Topacio"
 url: /manizales-caldas/mall-topacio/
-shop: Supermarkt
+shop: supermercado
 ---

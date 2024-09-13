@@ -1,5 +1,5 @@
 ---
 title: "Nagal"
 url: /barbosa/nagal/
-shop: Kleidung
+shop: ropa
 ---

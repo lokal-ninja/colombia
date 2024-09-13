@@ -1,5 +1,5 @@
 ---
 title: "Pan'D Chia"
 url: /chia/pand-chia/
-shop: Bäckerei
+shop: panadería
 ---

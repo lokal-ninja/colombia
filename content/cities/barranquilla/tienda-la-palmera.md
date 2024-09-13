@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Palmera"
 url: /barranquilla/tienda-la-palmera/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecanizados"
 url: /barrios-unidos/mecanizados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

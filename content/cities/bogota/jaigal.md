@@ -1,5 +1,5 @@
 ---
 title: "Jaigal"
 url: /bogota/jaigal/
-shop: Bäckerei
+shop: panadería
 ---

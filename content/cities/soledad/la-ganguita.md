@@ -1,5 +1,5 @@
 ---
 title: "La ganguita"
 url: /soledad/la-ganguita/
-shop: Kramladen
+shop: tienda de variedades
 ---

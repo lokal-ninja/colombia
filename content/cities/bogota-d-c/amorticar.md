@@ -1,5 +1,5 @@
 ---
 title: "Amorticar"
 url: /bogota-d-c/amorticar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades El Cristal"
 url: /la-paz/variedades-el-cristal/
-shop: Kramladen
+shop: tienda de variedades
 ---

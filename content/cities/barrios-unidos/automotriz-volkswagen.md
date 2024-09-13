@@ -1,5 +1,5 @@
 ---
 title: "Automotriz Volkswagen"
 url: /barrios-unidos/automotriz-volkswagen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

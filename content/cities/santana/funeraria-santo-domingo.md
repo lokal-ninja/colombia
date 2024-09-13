@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Santo Domingo"
 url: /santana/funeraria-santo-domingo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

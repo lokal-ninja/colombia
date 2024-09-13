@@ -1,5 +1,5 @@
 ---
 title: "Matisse"
 url: /bogota-d-c/matisse/
-shop: Schreibwaren
+shop: material de oficina
 ---

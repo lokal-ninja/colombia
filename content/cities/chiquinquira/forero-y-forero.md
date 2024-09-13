@@ -1,5 +1,5 @@
 ---
 title: "Forero y forero"
 url: /chiquinquira/forero-y-forero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

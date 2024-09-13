@@ -1,5 +1,5 @@
 ---
 title: "Auto Jeep"
 url: /pereira/auto-jeep/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CDA express"
 url: /bogota-d-c/cda-express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

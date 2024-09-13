@@ -1,5 +1,5 @@
 ---
 title: "Pisende"
 url: /medellin/pisende/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan Express"
 url: /bogota-d-c/pan-express/
-shop: Bäckerei
+shop: panadería
 ---

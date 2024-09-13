@@ -1,5 +1,5 @@
 ---
 title: "Paloverde"
 url: /pereira/paloverde/
-shop: Allgemein
+shop: general
 ---

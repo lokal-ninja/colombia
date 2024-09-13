@@ -1,5 +1,5 @@
 ---
 title: "Avianca"
 url: /pereira/avianca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

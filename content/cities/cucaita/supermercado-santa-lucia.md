@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Santa Lucia"
 url: /cucaita/supermercado-santa-lucia/
-shop: Supermarkt
+shop: supermercado
 ---

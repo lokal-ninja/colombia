@@ -1,5 +1,5 @@
 ---
 title: "Husqcarna"
 url: /pereira/husqcarna/
-shop: Allgemein
+shop: general
 ---

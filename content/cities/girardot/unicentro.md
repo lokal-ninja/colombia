@@ -1,5 +1,5 @@
 ---
 title: "Unicentro"
 url: /girardot/unicentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

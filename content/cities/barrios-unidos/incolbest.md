@@ -1,5 +1,5 @@
 ---
 title: "Incolbest"
 url: /barrios-unidos/incolbest/
-shop: Autoteile
+shop: piezas de automóviles
 ---

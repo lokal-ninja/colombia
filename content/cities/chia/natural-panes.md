@@ -1,5 +1,5 @@
 ---
 title: "Natural Panes"
 url: /chia/natural-panes/
-shop: Gemüse & Obst
+shop: frutería
 ---

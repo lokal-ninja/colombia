@@ -1,5 +1,5 @@
 ---
 title: "Papeles Pergamino"
 url: /chia/papeles-pergamino/
-shop: Schreibwaren
+shop: material de oficina
 ---

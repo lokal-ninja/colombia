@@ -1,5 +1,5 @@
 ---
 title: "Ploter"
 url: /bogota-d-c/ploter/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drogueria Inglesa"
 url: /cucuta/drogueria-inglesa/
-shop: Drogerie
+shop: farmacia
 ---

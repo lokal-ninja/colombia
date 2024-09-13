@@ -1,5 +1,5 @@
 ---
 title: "Tienda Andrey"
 url: /barbosa/tienda-andrey/
-shop: Lebensmittel
+shop: comodidad
 ---

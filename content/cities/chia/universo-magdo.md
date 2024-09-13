@@ -1,5 +1,5 @@
 ---
 title: "Universo Magdo"
 url: /chia/universo-magdo/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades D"
 url: /chia/variedades-d/
-shop: Kramladen
+shop: tienda de variedades
 ---

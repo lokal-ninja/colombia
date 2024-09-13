@@ -1,5 +1,5 @@
 ---
 title: "DisTintas"
 url: /pereira/distintas/
-shop: Elektronik
+shop: electrónica
 ---

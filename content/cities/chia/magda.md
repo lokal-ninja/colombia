@@ -1,5 +1,5 @@
 ---
 title: "Magda"
 url: /chia/magda/
-shop: Kleidung
+shop: ropa
 ---

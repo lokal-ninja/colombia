@@ -1,5 +1,5 @@
 ---
 title: "Celltronic"
 url: /chia/celltronic/
-shop: Handy
+shop: teléfono móvil
 ---

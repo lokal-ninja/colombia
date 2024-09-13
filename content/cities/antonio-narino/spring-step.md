@@ -1,5 +1,5 @@
 ---
 title: "Spring Step"
 url: /antonio-narino/spring-step/
-shop: Schuhe
+shop: zapatos
 ---

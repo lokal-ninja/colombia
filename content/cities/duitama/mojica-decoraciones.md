@@ -1,5 +1,5 @@
 ---
 title: "MOJICA DECORACIONES"
 url: /duitama/mojica-decoraciones/
-shop: Raumausstattung
+shop: decoración interior
 ---

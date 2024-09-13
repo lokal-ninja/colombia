@@ -1,5 +1,5 @@
 ---
 title: "Liz"
 url: /pereira/liz/
-shop: Blumen
+shop: floristería
 ---

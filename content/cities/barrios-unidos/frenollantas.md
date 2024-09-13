@@ -1,5 +1,5 @@
 ---
 title: "Frenollantas"
 url: /barrios-unidos/frenollantas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

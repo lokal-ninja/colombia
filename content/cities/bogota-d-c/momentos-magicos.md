@@ -1,5 +1,5 @@
 ---
 title: "Momentos Mágicos"
 url: /bogota-d-c/momentos-magicos/
-shop: Partyzubehör
+shop: fiesta
 ---

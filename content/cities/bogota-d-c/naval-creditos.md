@@ -1,5 +1,5 @@
 ---
 title: "Naval Creditos"
 url: /bogota-d-c/naval-creditos/
-shop: Elektronik
+shop: electrónica
 ---

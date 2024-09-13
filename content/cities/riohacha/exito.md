@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /riohacha/exito/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gennius Kids"
 url: /bogota/gennius-kids/
-shop: Kleidung
+shop: ropa
 ---

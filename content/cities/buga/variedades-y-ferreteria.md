@@ -1,5 +1,5 @@
 ---
 title: "Variedades y Ferretería"
 url: /buga/variedades-y-ferreteria/
-shop: Kramladen
+shop: tienda de variedades
 ---

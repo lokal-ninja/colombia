@@ -1,5 +1,5 @@
 ---
 title: "Isabel Faracica"
 url: /gameza/isabel-faracica/
-shop: Dorfladen
+shop: tienda rural
 ---

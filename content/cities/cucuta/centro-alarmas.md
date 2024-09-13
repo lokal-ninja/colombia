@@ -1,5 +1,5 @@
 ---
 title: "Centro Alarmas"
 url: /cucuta/centro-alarmas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecatronica"
 url: /barrios-unidos/mecatronica/
-shop: Autoteile
+shop: piezas de automóviles
 ---

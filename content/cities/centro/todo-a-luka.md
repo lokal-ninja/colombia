@@ -1,5 +1,5 @@
 ---
 title: "Todo a Luka"
 url: /centro/todo-a-luka/
-shop: Kramladen
+shop: tienda de variedades
 ---

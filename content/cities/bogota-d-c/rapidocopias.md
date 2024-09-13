@@ -1,5 +1,5 @@
 ---
 title: "Rapidocopias"
 url: /bogota-d-c/rapidocopias/
-shop: Schreibwaren
+shop: material de oficina
 ---

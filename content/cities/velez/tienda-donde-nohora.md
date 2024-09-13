@@ -1,5 +1,5 @@
 ---
 title: "Tienda Donde Nohora"
 url: /velez/tienda-donde-nohora/
-shop: Lebensmittel
+shop: comodidad
 ---

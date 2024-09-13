@@ -1,5 +1,5 @@
 ---
 title: "Tienda Danny"
 url: /monteria/tienda-danny/
-shop: Supermarkt
+shop: supermercado
 ---

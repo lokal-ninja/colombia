@@ -1,5 +1,5 @@
 ---
 title: "OnlyPets"
 url: /bogota-d-c/onlypets/
-shop: Tiere
+shop: mascotas
 ---

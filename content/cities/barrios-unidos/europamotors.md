@@ -1,5 +1,5 @@
 ---
 title: "Europamotors"
 url: /barrios-unidos/europamotors/
-shop: Autoteile
+shop: piezas de automóviles
 ---

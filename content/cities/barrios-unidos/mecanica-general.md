@@ -1,5 +1,5 @@
 ---
 title: "Mecanica General"
 url: /barrios-unidos/mecanica-general/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

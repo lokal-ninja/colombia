@@ -1,5 +1,5 @@
 ---
 title: "La Divisa"
 url: /comuna-3-manrique/la-divisa/
-shop: Spirituosen
+shop: alcohol
 ---

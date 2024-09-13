@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /chia/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

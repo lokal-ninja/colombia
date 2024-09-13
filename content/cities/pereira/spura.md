@@ -1,5 +1,5 @@
 ---
 title: "Spura"
 url: /pereira/spura/
-shop: Allgemein
+shop: general
 ---

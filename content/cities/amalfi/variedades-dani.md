@@ -1,5 +1,5 @@
 ---
 title: "Variedades Dani"
 url: /amalfi/variedades-dani/
-shop: Kramladen
+shop: tienda de variedades
 ---

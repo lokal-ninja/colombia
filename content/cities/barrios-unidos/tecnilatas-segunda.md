@@ -1,5 +1,5 @@
 ---
 title: "Tecnilatas Segunda"
 url: /barrios-unidos/tecnilatas-segunda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

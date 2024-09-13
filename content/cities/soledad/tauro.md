@@ -1,5 +1,5 @@
 ---
 title: "TAURO"
 url: /soledad/tauro/
-shop: Warenhaus
+shop: grandes almacenes
 ---

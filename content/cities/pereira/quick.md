@@ -1,5 +1,5 @@
 ---
 title: "Quick"
 url: /pereira/quick/
-shop: Elektronik
+shop: electrónica
 ---

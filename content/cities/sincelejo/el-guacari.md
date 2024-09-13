@@ -1,5 +1,5 @@
 ---
 title: "El guacari"
 url: /sincelejo/el-guacari/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

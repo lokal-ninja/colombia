@@ -1,5 +1,5 @@
 ---
 title: "Luxotica"
 url: /bogota-d-c/luxotica/
-shop: Optiker
+shop: óptico
 ---

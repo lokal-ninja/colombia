@@ -1,5 +1,5 @@
 ---
 title: "Valentina Sport"
 url: /pereira/valentina-sport/
-shop: Schuhe
+shop: zapatos
 ---

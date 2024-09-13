@@ -1,5 +1,5 @@
 ---
 title: "Jormary"
 url: /bogota/jormary/
-shop: Tiere
+shop: mascotas
 ---

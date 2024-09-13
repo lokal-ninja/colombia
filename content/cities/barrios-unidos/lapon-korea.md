@@ -1,5 +1,5 @@
 ---
 title: "Lapon Korea"
 url: /barrios-unidos/lapon-korea/
-shop: Autoteile
+shop: piezas de automóviles
 ---

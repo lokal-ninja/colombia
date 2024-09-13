@@ -1,5 +1,5 @@
 ---
 title: "Las cuatro B"
 url: /soledad/las-cuatro-b/
-shop: Kramladen
+shop: tienda de variedades
 ---

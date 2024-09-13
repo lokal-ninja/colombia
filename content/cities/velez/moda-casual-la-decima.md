@@ -1,5 +1,5 @@
 ---
 title: "Moda Casual La décima"
 url: /velez/moda-casual-la-decima/
-shop: Kleidung
+shop: ropa
 ---

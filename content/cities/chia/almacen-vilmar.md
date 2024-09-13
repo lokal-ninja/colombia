@@ -1,5 +1,5 @@
 ---
 title: "Almacén Vilmar"
 url: /chia/almacen-vilmar/
-shop: Kleidung
+shop: ropa
 ---

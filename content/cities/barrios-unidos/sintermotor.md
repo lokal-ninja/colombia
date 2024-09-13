@@ -1,5 +1,5 @@
 ---
 title: "Sintermotor"
 url: /barrios-unidos/sintermotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

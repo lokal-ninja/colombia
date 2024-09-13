@@ -1,5 +1,5 @@
 ---
 title: "Celuaccesorios JS"
 url: /puerto-gaitan/celuaccesorios-js/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COOFARMA"
 url: /socorro/coofarma/
-shop: Drogerie
+shop: farmacia
 ---

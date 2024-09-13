@@ -1,5 +1,5 @@
 ---
 title: "DROGUERIA POPULAR"
 url: /socorro/drogueria-popular/
-shop: Drogerie
+shop: farmacia
 ---

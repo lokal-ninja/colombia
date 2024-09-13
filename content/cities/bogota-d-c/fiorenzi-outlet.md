@@ -1,5 +1,5 @@
 ---
 title: "Fiorenzi Outlet"
 url: /bogota-d-c/fiorenzi-outlet/
-shop: Kleidung
+shop: ropa
 ---

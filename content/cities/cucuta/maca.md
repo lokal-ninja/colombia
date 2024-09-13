@@ -1,5 +1,5 @@
 ---
 title: "MACA"
 url: /cucuta/maca/
-shop: Bäckerei
+shop: panadería
 ---

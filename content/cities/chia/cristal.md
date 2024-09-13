@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
 url: /chia/cristal/
-shop: Kosmetik
+shop: cosméticos
 ---

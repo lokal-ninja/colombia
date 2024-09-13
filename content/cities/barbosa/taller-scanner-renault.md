@@ -1,5 +1,5 @@
 ---
 title: "Taller Scanner Renault"
 url: /barbosa/taller-scanner-renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

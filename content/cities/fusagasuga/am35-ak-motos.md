@@ -1,5 +1,5 @@
 ---
 title: "AM35-Ak motos"
 url: /fusagasuga/am35-ak-motos/
-shop: Motorrad
+shop: motocicleta
 ---

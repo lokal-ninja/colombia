@@ -1,5 +1,5 @@
 ---
 title: "iShop"
 url: /pereira/ishop/
-shop: Handy
+shop: teléfono móvil
 ---

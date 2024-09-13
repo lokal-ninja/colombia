@@ -1,5 +1,5 @@
 ---
 title: "Autoelectricos"
 url: /barrios-unidos/autoelectricos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Montallantas Fabio"
 url: /lejanias/montallantas-fabio/
-shop: Allgemein
+shop: general
 ---

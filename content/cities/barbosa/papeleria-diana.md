@@ -1,5 +1,5 @@
 ---
 title: "Papelería Diana"
 url: /barbosa/papeleria-diana/
-shop: Schreibwaren
+shop: material de oficina
 ---

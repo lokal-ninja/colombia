@@ -1,5 +1,5 @@
 ---
 title: "oriana"
 url: /bogota/oriana/
-shop: Möbel
+shop: muebles
 ---

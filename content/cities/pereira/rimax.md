@@ -1,5 +1,5 @@
 ---
 title: "Rimax"
 url: /pereira/rimax/
-shop: Kramladen
+shop: tienda de variedades
 ---

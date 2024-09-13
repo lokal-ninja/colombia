@@ -1,5 +1,5 @@
 ---
 title: "Horus"
 url: /chia/horus/
-shop: Kosmetik
+shop: cosméticos
 ---

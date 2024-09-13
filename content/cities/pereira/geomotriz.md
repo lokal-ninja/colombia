@@ -1,5 +1,5 @@
 ---
 title: "GeoMotriz"
 url: /pereira/geomotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Velotax"
 url: /cucuta/velotax/
-shop: Allgemein
+shop: general
 ---

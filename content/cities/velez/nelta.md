@@ -1,5 +1,5 @@
 ---
 title: "Nelta"
 url: /velez/nelta/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

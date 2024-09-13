@@ -1,5 +1,5 @@
 ---
 title: "Outlet Cars"
 url: /barrios-unidos/outlet-cars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

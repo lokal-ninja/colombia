@@ -1,5 +1,5 @@
 ---
 title: "Comunicaciones Barbie."
 url: /bogota/comunicaciones-barbie/
-shop: Schreibwaren
+shop: material de oficina
 ---

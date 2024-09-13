@@ -1,5 +1,5 @@
 ---
 title: "Mauro Frenos"
 url: /pereira/mauro-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

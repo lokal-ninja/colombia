@@ -1,5 +1,5 @@
 ---
 title: "Lacteos Kennedy"
 url: /pereira/lacteos-kennedy/
-shop: Allgemein
+shop: general
 ---

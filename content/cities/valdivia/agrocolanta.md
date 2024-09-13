@@ -1,5 +1,5 @@
 ---
 title: "Agrocolanta"
 url: /valdivia/agrocolanta/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Impresión Digital"
 url: /cucuta/impresion-digital/
-shop: Allgemein
+shop: general
 ---

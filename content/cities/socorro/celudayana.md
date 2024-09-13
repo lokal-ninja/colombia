@@ -1,5 +1,5 @@
 ---
 title: "CELUDAYANA"
 url: /socorro/celudayana/
-shop: Handy
+shop: teléfono móvil
 ---

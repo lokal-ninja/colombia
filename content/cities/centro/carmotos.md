@@ -1,5 +1,5 @@
 ---
 title: "Carmotos"
 url: /centro/carmotos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

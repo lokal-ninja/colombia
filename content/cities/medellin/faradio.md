@@ -1,5 +1,5 @@
 ---
 title: "FARADIO"
 url: /medellin/faradio/
-shop: Kramladen
+shop: tienda de variedades
 ---

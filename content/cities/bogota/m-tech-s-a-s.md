@@ -1,5 +1,5 @@
 ---
 title: "M-Tech S.A.S."
 url: /bogota/m-tech-s-a-s/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

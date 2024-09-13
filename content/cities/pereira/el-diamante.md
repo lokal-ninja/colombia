@@ -1,5 +1,5 @@
 ---
 title: "El Diamante"
 url: /pereira/el-diamante/
-shop: Schmuck
+shop: joyería
 ---

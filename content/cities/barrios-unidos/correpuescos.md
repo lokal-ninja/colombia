@@ -1,5 +1,5 @@
 ---
 title: "Correpuescos"
 url: /barrios-unidos/correpuescos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

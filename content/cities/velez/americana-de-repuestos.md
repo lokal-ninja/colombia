@@ -1,5 +1,5 @@
 ---
 title: "Americana de Repuestos"
 url: /velez/americana-de-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

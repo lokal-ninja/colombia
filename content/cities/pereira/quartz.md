@@ -1,5 +1,5 @@
 ---
 title: "Quartz"
 url: /pereira/quartz/
-shop: Schmuck
+shop: joyería
 ---

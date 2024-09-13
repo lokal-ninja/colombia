@@ -1,5 +1,5 @@
 ---
 title: "Sanando"
 url: /pereira/sanando/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

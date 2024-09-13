@@ -1,5 +1,5 @@
 ---
 title: "Indulglass"
 url: /barrios-unidos/indulglass/
-shop: Autoteile
+shop: piezas de automóviles
 ---

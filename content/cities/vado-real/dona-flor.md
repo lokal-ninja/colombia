@@ -1,5 +1,5 @@
 ---
 title: "DOÑA FLOR"
 url: /vado-real/dona-flor/
-shop: Supermarkt
+shop: supermercado
 ---

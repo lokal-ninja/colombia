@@ -1,5 +1,5 @@
 ---
 title: "Pasinga"
 url: /chia/pasinga/
-shop: Friseur
+shop: peluquería
 ---

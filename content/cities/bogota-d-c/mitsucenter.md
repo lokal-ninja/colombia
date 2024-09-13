@@ -1,5 +1,5 @@
 ---
 title: "Mitsucenter"
 url: /bogota-d-c/mitsucenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

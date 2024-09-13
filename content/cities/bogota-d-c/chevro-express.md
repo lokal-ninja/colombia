@@ -1,5 +1,5 @@
 ---
 title: "Chevro Express"
 url: /bogota-d-c/chevro-express/
-shop: Autoteile
+shop: piezas de automóviles
 ---

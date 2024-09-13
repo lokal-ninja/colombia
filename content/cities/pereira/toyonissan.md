@@ -1,5 +1,5 @@
 ---
 title: "ToyoNissan"
 url: /pereira/toyonissan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

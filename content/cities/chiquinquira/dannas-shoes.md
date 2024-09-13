@@ -1,5 +1,5 @@
 ---
 title: "Dannas shoes"
 url: /chiquinquira/dannas-shoes/
-shop: Schuhe
+shop: zapatos
 ---

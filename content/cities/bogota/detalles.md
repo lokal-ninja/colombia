@@ -1,5 +1,5 @@
 ---
 title: "Detalles"
 url: /bogota/detalles/
-shop: Schreibwaren
+shop: material de oficina
 ---

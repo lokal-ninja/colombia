@@ -1,5 +1,5 @@
 ---
 title: "Parabricentro Zipaquira"
 url: /zipaquira/parabricentro-zipaquira/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

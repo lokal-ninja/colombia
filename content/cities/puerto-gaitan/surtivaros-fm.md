@@ -1,5 +1,5 @@
 ---
 title: "Surtivaros FM"
 url: /puerto-gaitan/surtivaros-fm/
-shop: Motorrad
+shop: motocicleta
 ---

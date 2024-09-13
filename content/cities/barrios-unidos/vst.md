@@ -1,5 +1,5 @@
 ---
 title: "VST"
 url: /barrios-unidos/vst/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porcicarnes"
 url: /rionegro/porcicarnes/
-shop: Metzgerei
+shop: carnicero
 ---

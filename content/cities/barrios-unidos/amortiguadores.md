@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
 url: /barrios-unidos/amortiguadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

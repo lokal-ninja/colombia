@@ -1,5 +1,5 @@
 ---
 title: "MOTOCULTOR"
 url: /socorro/motocultor/
-shop: Motorrad
+shop: motocicleta
 ---

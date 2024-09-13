@@ -1,5 +1,5 @@
 ---
 title: "CLARO VARIEDADES"
 url: /buenaventura/claro-variedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

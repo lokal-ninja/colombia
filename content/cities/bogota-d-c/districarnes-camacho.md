@@ -1,5 +1,5 @@
 ---
 title: "Districarnes Camacho"
 url: /bogota-d-c/districarnes-camacho/
-shop: Metzgerei
+shop: carnicero
 ---

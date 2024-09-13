@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /fusagasuga/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

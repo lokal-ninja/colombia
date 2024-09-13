@@ -1,5 +1,5 @@
 ---
 title: "Motochispas"
 url: /garagoa/motochispas/
-shop: Motorrad
+shop: motocicleta
 ---

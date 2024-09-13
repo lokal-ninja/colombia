@@ -1,5 +1,5 @@
 ---
 title: "Infinix Servicio Technico"
 url: /bogota/infinix-servicio-technico/
-shop: Handy
+shop: teléfono móvil
 ---

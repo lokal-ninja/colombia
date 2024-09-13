@@ -1,5 +1,5 @@
 ---
 title: "Autofanam"
 url: /barrios-unidos/autofanam/
-shop: Autoteile
+shop: piezas de automóviles
 ---

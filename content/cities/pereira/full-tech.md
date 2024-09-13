@@ -1,5 +1,5 @@
 ---
 title: "Full Tech"
 url: /pereira/full-tech/
-shop: Handy
+shop: teléfono móvil
 ---

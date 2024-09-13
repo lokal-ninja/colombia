@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /buga/claro/
-shop: Handy
+shop: teléfono móvil
 ---

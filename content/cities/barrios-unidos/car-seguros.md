@@ -1,5 +1,5 @@
 ---
 title: "Car Seguros"
 url: /barrios-unidos/car-seguros/
-shop: Autoteile
+shop: piezas de automóviles
 ---

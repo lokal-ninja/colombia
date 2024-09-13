@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /bogota/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

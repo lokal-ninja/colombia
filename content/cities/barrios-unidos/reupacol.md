@@ -1,5 +1,5 @@
 ---
 title: "Reupacol"
 url: /barrios-unidos/reupacol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

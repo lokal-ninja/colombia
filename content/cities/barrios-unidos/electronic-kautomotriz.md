@@ -1,5 +1,5 @@
 ---
 title: "Electronic Kautomotriz"
 url: /barrios-unidos/electronic-kautomotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lumiluz JM"
 url: /bogota-d-c/lumiluz-jm/
-shop: Lampen
+shop: lámparas
 ---

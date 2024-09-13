@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /pereira/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

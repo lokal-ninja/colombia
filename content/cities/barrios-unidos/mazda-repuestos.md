@@ -1,5 +1,5 @@
 ---
 title: "Mazda Repuestos"
 url: /barrios-unidos/mazda-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

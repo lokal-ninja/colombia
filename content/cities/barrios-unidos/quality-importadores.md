@@ -1,5 +1,5 @@
 ---
 title: "Quality Importadores"
 url: /barrios-unidos/quality-importadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

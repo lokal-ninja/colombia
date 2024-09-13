@@ -1,5 +1,5 @@
 ---
 title: "Motopits"
 url: /popayan/motopits/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

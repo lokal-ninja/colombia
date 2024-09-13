@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /mosquera/totto/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

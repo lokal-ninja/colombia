@@ -1,5 +1,5 @@
 ---
 title: "Gimautos"
 url: /barrios-unidos/gimautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

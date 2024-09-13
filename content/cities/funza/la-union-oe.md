@@ -1,5 +1,5 @@
 ---
 title: "La Unión Oe"
 url: /funza/la-union-oe/
-shop: Eisenwaren
+shop: hardware
 ---

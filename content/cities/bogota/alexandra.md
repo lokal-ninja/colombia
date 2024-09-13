@@ -1,5 +1,5 @@
 ---
 title: "Alexandra"
 url: /bogota/alexandra/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

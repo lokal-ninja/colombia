@@ -1,5 +1,5 @@
 ---
 title: "La Favorita"
 url: /ayapel/la-favorita/
-shop: Supermarkt
+shop: supermercado
 ---

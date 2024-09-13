@@ -1,5 +1,5 @@
 ---
 title: "Curiocity"
 url: /velez/curiocity/
-shop: Schreibwaren
+shop: material de oficina
 ---

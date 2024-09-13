@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /velez/luna/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /barrios-unidos/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

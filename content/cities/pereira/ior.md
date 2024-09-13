@@ -1,5 +1,5 @@
 ---
 title: "IOR"
 url: /pereira/ior/
-shop: Allgemein
+shop: general
 ---

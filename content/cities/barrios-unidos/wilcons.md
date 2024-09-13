@@ -1,5 +1,5 @@
 ---
 title: "Wilcons"
 url: /barrios-unidos/wilcons/
-shop: Kleidung
+shop: ropa
 ---

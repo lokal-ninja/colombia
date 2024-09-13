@@ -1,5 +1,5 @@
 ---
 title: "NATURAL SHOP"
 url: /buenaventura/natural-shop/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Gran Plaza San Antonio"
 url: /pitalito/centro-comercial-gran-plaza-san-antonio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CELULARES"
 url: /argelia/celulares/
-shop: Elektronik
+shop: electrónica
 ---

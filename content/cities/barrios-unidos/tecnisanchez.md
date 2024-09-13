@@ -1,5 +1,5 @@
 ---
 title: "Tecnisanchez"
 url: /barrios-unidos/tecnisanchez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

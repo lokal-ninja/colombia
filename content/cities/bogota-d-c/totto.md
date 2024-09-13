@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /bogota-d-c/totto/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

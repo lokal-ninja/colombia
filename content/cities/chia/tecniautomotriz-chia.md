@@ -1,5 +1,5 @@
 ---
 title: "Tecniautomotríz Chía"
 url: /chia/tecniautomotriz-chia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ENVIGADO"
 url: /san-vicente-de-chucuri/envigado/
-shop: Kleidung
+shop: ropa
 ---

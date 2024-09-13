@@ -1,5 +1,5 @@
 ---
 title: "Gabriel Resortes"
 url: /pereira/gabriel-resortes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MultiClean"
 url: /bogota/multiclean/
-shop: Drogerie
+shop: farmacia
 ---

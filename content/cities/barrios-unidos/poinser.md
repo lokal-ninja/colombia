@@ -1,5 +1,5 @@
 ---
 title: "Poinser"
 url: /barrios-unidos/poinser/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Esquina Lar"
 url: /bogota-d-c/la-esquina-lar/
-shop: Getränke
+shop: bebidas
 ---

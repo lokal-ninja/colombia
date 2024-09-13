@@ -1,5 +1,5 @@
 ---
 title: "DistriVan"
 url: /pereira/distrivan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

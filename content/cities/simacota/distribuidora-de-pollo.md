@@ -1,5 +1,5 @@
 ---
 title: "DISTRIBUIDORA DE POLLO"
 url: /simacota/distribuidora-de-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gustapan"
 url: /palmira/gustapan/
-shop: Bäckerei
+shop: panadería
 ---

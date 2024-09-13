@@ -1,5 +1,5 @@
 ---
 title: "JER"
 url: /siachoque/jer/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Oasis"
 url: /girardot/el-oasis/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

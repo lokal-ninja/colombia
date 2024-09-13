@@ -1,5 +1,5 @@
 ---
 title: "Fedecafé"
 url: /barranquilla/fedecafe/
-shop: Handy
+shop: teléfono móvil
 ---

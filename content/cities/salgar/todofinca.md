@@ -1,5 +1,5 @@
 ---
 title: "Todofinca"
 url: /salgar/todofinca/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto Casco Pereira"
 url: /pereira/moto-casco-pereira/
-shop: Allgemein
+shop: general
 ---

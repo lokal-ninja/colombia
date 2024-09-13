@@ -1,5 +1,5 @@
 ---
 title: "REFORESTAR"
 url: /argelia-barrio-el-recreo/reforestar/
-shop: Garten-Center
+shop: centro de jardinería
 ---

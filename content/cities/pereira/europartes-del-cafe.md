@@ -1,5 +1,5 @@
 ---
 title: "EuroPartes del Café"
 url: /pereira/europartes-del-cafe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Justo Bueno"
 url: /sabaneta-antioquia/justo-bueno/
-shop: Supermarkt
+shop: supermercado
 ---

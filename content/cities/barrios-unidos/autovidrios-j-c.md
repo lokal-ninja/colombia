@@ -1,5 +1,5 @@
 ---
 title: "Autovidrios J.C"
 url: /barrios-unidos/autovidrios-j-c/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

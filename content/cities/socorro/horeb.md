@@ -1,5 +1,5 @@
 ---
 title: "HOREB"
 url: /socorro/horeb/
-shop: Bäckerei
+shop: panadería
 ---

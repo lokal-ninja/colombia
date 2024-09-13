@@ -1,5 +1,5 @@
 ---
 title: "Carrocerías Districar"
 url: /soledad/carrocerias-districar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

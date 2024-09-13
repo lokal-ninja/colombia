@@ -1,5 +1,5 @@
 ---
 title: "CELULLARAES"
 url: /argelia/celullaraes/
-shop: Haushaltsgeräte
+shop: aparato
 ---

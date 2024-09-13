@@ -1,5 +1,5 @@
 ---
 title: "Consuerte"
 url: /el-castillo/consuerte/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

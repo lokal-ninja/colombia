@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Central"
 url: /peque/miscelanea-central/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galvanicrom Cromados"
 url: /barrios-unidos/galvanicrom-cromados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

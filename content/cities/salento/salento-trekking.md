@@ -1,5 +1,5 @@
 ---
 title: "Salento Trekking"
 url: /salento/salento-trekking/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exostos Y Silenciadores"
 url: /bogota-d-c/exostos-y-silenciadores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

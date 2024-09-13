@@ -1,5 +1,5 @@
 ---
 title: "Lili Pink"
 url: /bogota-d-c/lili-pink/
-shop: Kleidung
+shop: ropa
 ---

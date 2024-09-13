@@ -1,5 +1,5 @@
 ---
 title: "Karol"
 url: /velez/karol/
-shop: Handy
+shop: teléfono móvil
 ---

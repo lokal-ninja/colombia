@@ -1,5 +1,5 @@
 ---
 title: "Exitazo 63"
 url: /bogota-d-c/exitazo-63/
-shop: Kramladen
+shop: tienda de variedades
 ---

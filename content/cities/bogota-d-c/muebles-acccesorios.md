@@ -1,5 +1,5 @@
 ---
 title: "Muebles Acccesorios"
 url: /bogota-d-c/muebles-acccesorios/
-shop: Möbel
+shop: muebles
 ---

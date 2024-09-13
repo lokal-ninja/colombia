@@ -1,5 +1,5 @@
 ---
 title: "FERRETERIA SURTITODO"
 url: /cabecera-municipal-argelia-cauca/ferreteria-surtitodo/
-shop: Eisenwaren
+shop: hardware
 ---

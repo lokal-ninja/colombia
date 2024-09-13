@@ -1,5 +1,5 @@
 ---
 title: "Don Bob"
 url: /bogota/don-bob/
-shop: Lebensmittel
+shop: comodidad
 ---

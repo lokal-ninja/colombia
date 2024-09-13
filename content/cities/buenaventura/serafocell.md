@@ -1,5 +1,5 @@
 ---
 title: "SERAFOCELL"
 url: /buenaventura/serafocell/
-shop: Handy
+shop: teléfono móvil
 ---

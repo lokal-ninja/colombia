@@ -1,5 +1,5 @@
 ---
 title: "Coprocoom"
 url: /chiquinquira/coprocoom/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /sevilla/tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

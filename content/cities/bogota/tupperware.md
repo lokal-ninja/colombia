@@ -1,5 +1,5 @@
 ---
 title: "Tupperware"
 url: /bogota/tupperware/
-shop: Dorfladen
+shop: tienda rural
 ---

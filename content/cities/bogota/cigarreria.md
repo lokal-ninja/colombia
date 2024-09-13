@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria"
 url: /bogota/cigarreria/
-shop: Spirituosen
+shop: alcohol
 ---

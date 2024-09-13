@@ -1,5 +1,5 @@
 ---
 title: "Impercascos"
 url: /pereira/impercascos/
-shop: Allgemein
+shop: general
 ---

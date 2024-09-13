@@ -1,5 +1,5 @@
 ---
 title: "Sevenexostos"
 url: /bogota-d-c/sevenexostos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Roperito"
 url: /chia/el-roperito/
-shop: Babysachen
+shop: artículos para bebés
 ---

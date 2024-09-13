@@ -1,5 +1,5 @@
 ---
 title: "Honda Motercycles"
 url: /granada/honda-motercycles/
-shop: Motorrad
+shop: motocicleta
 ---

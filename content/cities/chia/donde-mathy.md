@@ -1,5 +1,5 @@
 ---
 title: "Donde Mathy"
 url: /chia/donde-mathy/
-shop: Lebensmittel
+shop: comodidad
 ---

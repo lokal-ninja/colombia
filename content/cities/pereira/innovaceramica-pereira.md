@@ -1,5 +1,5 @@
 ---
 title: "Innovaceramica Pereira"
 url: /pereira/innovaceramica-pereira/
-shop: Allgemein
+shop: general
 ---

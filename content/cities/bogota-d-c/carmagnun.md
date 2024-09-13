@@ -1,5 +1,5 @@
 ---
 title: "Carmagnun"
 url: /bogota-d-c/carmagnun/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pixell"
 url: /velez/pixell/
-shop: Foto
+shop: foto
 ---

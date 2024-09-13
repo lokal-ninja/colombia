@@ -1,5 +1,5 @@
 ---
 title: "Almacen Brisas de Pamplonita"
 url: /belen/almacen-brisas-de-pamplonita/
-shop: Schreibwaren
+shop: material de oficina
 ---

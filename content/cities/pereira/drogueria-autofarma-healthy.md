@@ -1,5 +1,5 @@
 ---
 title: "Droguería AutoFarma Healthy"
 url: /pereira/drogueria-autofarma-healthy/
-shop: Drogerie
+shop: farmacia
 ---

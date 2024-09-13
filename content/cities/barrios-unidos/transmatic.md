@@ -1,5 +1,5 @@
 ---
 title: "Transmatic"
 url: /barrios-unidos/transmatic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

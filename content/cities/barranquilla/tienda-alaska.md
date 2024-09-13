@@ -1,5 +1,5 @@
 ---
 title: "Tienda Alaska"
 url: /barranquilla/tienda-alaska/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MERCA EXPRESS"
 url: /socorro/merca-express/
-shop: Supermarkt
+shop: supermercado
 ---

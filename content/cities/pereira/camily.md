@@ -1,5 +1,5 @@
 ---
 title: "Camily"
 url: /pereira/camily/
-shop: Kleidung
+shop: ropa
 ---

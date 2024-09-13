@@ -1,5 +1,5 @@
 ---
 title: "Fercauchos"
 url: /barrios-unidos/fercauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

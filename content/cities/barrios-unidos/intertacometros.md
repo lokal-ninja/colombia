@@ -1,5 +1,5 @@
 ---
 title: "Intertacometros"
 url: /barrios-unidos/intertacometros/
-shop: Autoteile
+shop: piezas de automóviles
 ---

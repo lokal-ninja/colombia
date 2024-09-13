@@ -1,5 +1,5 @@
 ---
 title: "Tecnicars"
 url: /barrios-unidos/tecnicars/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

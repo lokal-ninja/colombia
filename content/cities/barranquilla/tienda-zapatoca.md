@@ -1,5 +1,5 @@
 ---
 title: "Tienda Zapatoca"
 url: /barranquilla/tienda-zapatoca/
-shop: Lebensmittel
+shop: comodidad
 ---

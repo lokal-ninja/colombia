@@ -1,5 +1,5 @@
 ---
 title: "Mocawa Plaza"
 url: /armenia/mocawa-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

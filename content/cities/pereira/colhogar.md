@@ -1,5 +1,5 @@
 ---
 title: "ColHogar"
 url: /pereira/colhogar/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller star"
 url: /amalfi/taller-star/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

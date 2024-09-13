@@ -1,5 +1,5 @@
 ---
 title: "Bolsas Fashion"
 url: /pereira/bolsas-fashion/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

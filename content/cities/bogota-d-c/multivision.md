@@ -1,5 +1,5 @@
 ---
 title: "Multivision"
 url: /bogota-d-c/multivision/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frespan"
 url: /valledupar/frespan/
-shop: Bäckerei
+shop: panadería
 ---

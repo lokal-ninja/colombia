@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /pereira/ara-carrera-27/
-shop: Supermarkt
+shop: supermercado
 ---

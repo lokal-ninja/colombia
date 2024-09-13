@@ -1,5 +1,5 @@
 ---
 title: "Las Cristales"
 url: /bogota-d-c/las-cristales/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "fruver de nueva granada"
 url: /bogota/fruver-de-nueva-granada/
-shop: Supermarkt
+shop: supermercado
 ---

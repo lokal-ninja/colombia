@@ -1,5 +1,5 @@
 ---
 title: "Renol Parts"
 url: /barrios-unidos/renol-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

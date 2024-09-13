@@ -1,5 +1,5 @@
 ---
 title: "Pico"
 url: /velez/pico/
-shop: Kramladen
+shop: tienda de variedades
 ---

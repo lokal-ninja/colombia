@@ -1,5 +1,5 @@
 ---
 title: "GammaColor"
 url: /velez/gammacolor/
-shop: Elektronik
+shop: electrónica
 ---

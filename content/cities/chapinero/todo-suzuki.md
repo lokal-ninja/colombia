@@ -1,5 +1,5 @@
 ---
 title: "Todo Suzuki"
 url: /chapinero/todo-suzuki/
-shop: Autoteile
+shop: piezas de automóviles
 ---

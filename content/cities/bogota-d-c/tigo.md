@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /bogota-d-c/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

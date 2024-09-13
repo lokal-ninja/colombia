@@ -1,5 +1,5 @@
 ---
 title: "ALFA"
 url: /cali/alfa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

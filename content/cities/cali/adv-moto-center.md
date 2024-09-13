@@ -1,5 +1,5 @@
 ---
 title: "ADV MOTO CENTER"
 url: /cali/adv-moto-center/
-shop: Autoteile
+shop: piezas de automóviles
 ---

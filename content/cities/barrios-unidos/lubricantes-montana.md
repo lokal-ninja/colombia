@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Montana"
 url: /barrios-unidos/lubricantes-montana/
-shop: Autoteile
+shop: piezas de automóviles
 ---

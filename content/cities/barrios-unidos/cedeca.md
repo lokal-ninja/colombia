@@ -1,5 +1,5 @@
 ---
 title: "Cedeca"
 url: /barrios-unidos/cedeca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

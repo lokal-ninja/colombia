@@ -1,5 +1,5 @@
 ---
 title: "Primera clase"
 url: /bogota/primera-clase/
-shop: Schreibwaren
+shop: material de oficina
 ---

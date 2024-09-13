@@ -1,5 +1,5 @@
 ---
 title: "Credimovil grupo uma"
 url: /barbosa/credimovil-grupo-uma/
-shop: Motorrad
+shop: motocicleta
 ---

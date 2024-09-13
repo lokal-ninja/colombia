@@ -1,5 +1,5 @@
 ---
 title: "Pafo"
 url: /velez/pafo/
-shop: Getränke
+shop: bebidas
 ---

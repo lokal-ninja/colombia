@@ -1,5 +1,5 @@
 ---
 title: "Bajaj"
 url: /pereira/bajaj/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacen Agropecuario"
 url: /barbosa/almacen-agropecuario/
-shop: Landwirtschaftlich
+shop: agraria
 ---

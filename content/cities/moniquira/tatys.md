@@ -1,5 +1,5 @@
 ---
 title: "Tatys"
 url: /moniquira/tatys/
-shop: Schreibwaren
+shop: material de oficina
 ---

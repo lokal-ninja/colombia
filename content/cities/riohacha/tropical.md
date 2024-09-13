@@ -1,5 +1,5 @@
 ---
 title: "TROPICAL"
 url: /riohacha/tropical/
-shop: Autohaus
+shop: coche
 ---

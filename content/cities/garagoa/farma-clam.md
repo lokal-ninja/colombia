@@ -1,5 +1,5 @@
 ---
 title: "Farma clam"
 url: /garagoa/farma-clam/
-shop: Drogerie
+shop: farmacia
 ---

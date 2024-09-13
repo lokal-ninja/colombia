@@ -1,5 +1,5 @@
 ---
 title: "colchones Spring"
 url: /girardot/colchones-spring/
-shop: Betten
+shop: cama
 ---

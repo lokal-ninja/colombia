@@ -1,5 +1,5 @@
 ---
 title: "Sabana Pan"
 url: /sabaneta-antioquia/sabana-pan/
-shop: Bäckerei
+shop: panadería
 ---

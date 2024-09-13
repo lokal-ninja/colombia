@@ -1,5 +1,5 @@
 ---
 title: "Mac Pollo"
 url: /chia/mac-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

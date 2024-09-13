@@ -1,5 +1,5 @@
 ---
 title: "Ferresoluciones"
 url: /funza/ferresoluciones/
-shop: Eisenwaren
+shop: hardware
 ---

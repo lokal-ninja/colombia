@@ -1,5 +1,5 @@
 ---
 title: "Salvamentos"
 url: /barrios-unidos/salvamentos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

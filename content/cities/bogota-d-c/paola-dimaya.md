@@ -1,5 +1,5 @@
 ---
 title: "Paola Dimaya"
 url: /bogota-d-c/paola-dimaya/
-shop: Kleidung
+shop: ropa
 ---

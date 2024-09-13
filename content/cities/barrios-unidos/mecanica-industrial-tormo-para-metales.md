@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Industrial Tormo Para Metales"
 url: /barrios-unidos/mecanica-industrial-tormo-para-metales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

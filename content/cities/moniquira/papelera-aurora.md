@@ -1,5 +1,5 @@
 ---
 title: "Papelerá Aurora"
 url: /moniquira/papelera-aurora/
-shop: Schreibwaren
+shop: material de oficina
 ---

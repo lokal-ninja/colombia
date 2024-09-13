@@ -1,5 +1,5 @@
 ---
 title: "Auto Lujos y Repuestos el 7"
 url: /bogota-d-c/auto-lujos-y-repuestos-el-7/
-shop: Autoteile
+shop: piezas de automóviles
 ---

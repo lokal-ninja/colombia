@@ -1,5 +1,5 @@
 ---
 title: "ARO SAFETY STORE"
 url: /tauramena/aro-safety-store/
-shop: Kramladen
+shop: tienda de variedades
 ---

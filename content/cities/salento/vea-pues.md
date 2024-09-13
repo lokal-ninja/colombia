@@ -1,5 +1,5 @@
 ---
 title: "Vea Pues"
 url: /salento/vea-pues/
-shop: Kunst
+shop: arte
 ---

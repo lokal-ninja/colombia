@@ -1,5 +1,5 @@
 ---
 title: "Tm67-Taller spa"
 url: /fusagasuga/tm67-taller-spa/
-shop: Motorrad
+shop: motocicleta
 ---

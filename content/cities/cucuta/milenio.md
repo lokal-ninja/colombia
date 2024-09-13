@@ -1,5 +1,5 @@
 ---
 title: "Milenio"
 url: /cucuta/milenio/
-shop: Schreibwaren
+shop: material de oficina
 ---

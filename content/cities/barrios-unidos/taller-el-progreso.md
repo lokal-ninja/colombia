@@ -1,5 +1,5 @@
 ---
 title: "Taller El Progreso"
 url: /barrios-unidos/taller-el-progreso/
-shop: Autoteile
+shop: piezas de automóviles
 ---

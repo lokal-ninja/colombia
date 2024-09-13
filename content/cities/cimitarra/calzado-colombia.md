@@ -1,5 +1,5 @@
 ---
 title: "Calzado Colombia"
 url: /cimitarra/calzado-colombia/
-shop: Schuhe
+shop: zapatos
 ---

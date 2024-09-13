@@ -1,5 +1,5 @@
 ---
 title: "Dotaciones Sandra"
 url: /comuna-8/dotaciones-sandra/
-shop: Kleidung
+shop: ropa
 ---

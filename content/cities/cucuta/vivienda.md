@@ -1,5 +1,5 @@
 ---
 title: "vivienda"
 url: /cucuta/vivienda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

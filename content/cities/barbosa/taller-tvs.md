@@ -1,5 +1,5 @@
 ---
 title: "Taller TVS"
 url: /barbosa/taller-tvs/
-shop: Motorrad
+shop: motocicleta
 ---

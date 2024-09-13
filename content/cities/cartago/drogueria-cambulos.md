@@ -1,5 +1,5 @@
 ---
 title: "Drogueria Cambulos"
 url: /cartago/drogueria-cambulos/
-shop: Drogerie
+shop: farmacia
 ---

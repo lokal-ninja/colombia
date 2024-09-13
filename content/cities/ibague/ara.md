@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /ibague/ara/
-shop: Supermarkt
+shop: supermercado
 ---

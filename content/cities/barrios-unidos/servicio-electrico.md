@@ -1,5 +1,5 @@
 ---
 title: "Servicio Electrico"
 url: /barrios-unidos/servicio-electrico/
-shop: Autoteile
+shop: piezas de automóviles
 ---

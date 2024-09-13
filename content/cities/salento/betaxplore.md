@@ -1,5 +1,5 @@
 ---
 title: "BetaXplore"
 url: /salento/betaxplore/
-shop: Reisebüro
+shop: agencia de viajes
 ---

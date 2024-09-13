@@ -1,5 +1,5 @@
 ---
 title: "Sata"
 url: /barrios-unidos/sata/
-shop: Autoteile
+shop: piezas de automóviles
 ---

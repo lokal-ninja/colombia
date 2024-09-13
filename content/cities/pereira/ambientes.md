@@ -1,5 +1,5 @@
 ---
 title: "Ambientes"
 url: /pereira/ambientes/
-shop: Raumausstattung
+shop: decoración interior
 ---

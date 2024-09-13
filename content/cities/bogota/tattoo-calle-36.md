@@ -1,5 +1,5 @@
 ---
 title: "tattoo"
 url: /bogota/tattoo-calle-36/
-shop: Tattoo
+shop: tatuaje
 ---

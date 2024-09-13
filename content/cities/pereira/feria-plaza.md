@@ -1,5 +1,5 @@
 ---
 title: "Feria Plaza"
 url: /pereira/feria-plaza/
-shop: Kleidung
+shop: ropa
 ---

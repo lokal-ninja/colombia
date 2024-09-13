@@ -1,5 +1,5 @@
 ---
 title: "CENTRO NATURISTA"
 url: /buenaventura/centro-naturista/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

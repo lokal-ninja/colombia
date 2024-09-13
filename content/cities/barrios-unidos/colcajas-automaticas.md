@@ -1,5 +1,5 @@
 ---
 title: "Colcajas Automáticas"
 url: /barrios-unidos/colcajas-automaticas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

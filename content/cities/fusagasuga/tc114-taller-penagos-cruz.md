@@ -1,5 +1,5 @@
 ---
 title: "TC114-Taller penagos cruz"
 url: /fusagasuga/tc114-taller-penagos-cruz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

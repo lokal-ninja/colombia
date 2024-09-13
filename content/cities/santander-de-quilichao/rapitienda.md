@@ -1,5 +1,5 @@
 ---
 title: "RAPITIENDA"
 url: /santander-de-quilichao/rapitienda/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "strowberry"
 url: /bogota-d-c/strowberry/
-shop: Lebensmittel
+shop: comodidad
 ---

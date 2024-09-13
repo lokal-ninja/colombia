@@ -1,5 +1,5 @@
 ---
 title: "Droguería San Carlos"
 url: /pereira/drogueria-san-carlos/
-shop: Drogerie
+shop: farmacia
 ---

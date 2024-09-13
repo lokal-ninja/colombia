@@ -1,5 +1,5 @@
 ---
 title: "El del Celular"
 url: /pereira/el-del-celular/
-shop: Handy
+shop: teléfono móvil
 ---

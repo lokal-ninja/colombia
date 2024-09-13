@@ -1,5 +1,5 @@
 ---
 title: "Full Accesorios"
 url: /pereira/full-accesorios/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

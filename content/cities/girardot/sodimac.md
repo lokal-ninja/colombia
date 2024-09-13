@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /girardot/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

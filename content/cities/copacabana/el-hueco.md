@@ -1,5 +1,5 @@
 ---
 title: "El Hueco"
 url: /copacabana/el-hueco/
-shop: Schreibwaren
+shop: material de oficina
 ---

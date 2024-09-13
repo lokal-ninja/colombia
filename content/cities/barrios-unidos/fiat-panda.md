@@ -1,5 +1,5 @@
 ---
 title: "Fiat Panda"
 url: /barrios-unidos/fiat-panda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

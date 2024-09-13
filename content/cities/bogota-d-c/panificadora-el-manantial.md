@@ -1,5 +1,5 @@
 ---
 title: "Panificadora El Manantial"
 url: /bogota-d-c/panificadora-el-manantial/
-shop: Bäckerei
+shop: panadería
 ---

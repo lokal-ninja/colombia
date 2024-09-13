@@ -1,5 +1,5 @@
 ---
 title: "Almacen Maxpies"
 url: /san-gil/almacen-maxpies/
-shop: Schuhe
+shop: zapatos
 ---

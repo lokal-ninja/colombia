@@ -1,5 +1,5 @@
 ---
 title: "Cerezuela"
 url: /copacabana/cerezuela/
-shop: Kleidung
+shop: ropa
 ---

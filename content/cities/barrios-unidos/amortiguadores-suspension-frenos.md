@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores Suspension Frenos"
 url: /barrios-unidos/amortiguadores-suspension-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

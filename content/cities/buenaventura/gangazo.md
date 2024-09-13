@@ -1,5 +1,5 @@
 ---
 title: "GANGAZO"
 url: /buenaventura/gangazo/
-shop: Kramladen
+shop: tienda de variedades
 ---

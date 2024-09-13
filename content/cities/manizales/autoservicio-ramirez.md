@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Ramírez"
 url: /manizales/autoservicio-ramirez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

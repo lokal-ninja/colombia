@@ -1,5 +1,5 @@
 ---
 title: "Brilla"
 url: /pereira/brilla/
-shop: Leiher
+shop: prestamista
 ---

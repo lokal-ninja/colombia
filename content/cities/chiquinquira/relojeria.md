@@ -1,5 +1,5 @@
 ---
 title: "RELOJERIA"
 url: /chiquinquira/relojeria/
-shop: Uhren
+shop: relojes
 ---

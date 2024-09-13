@@ -1,5 +1,5 @@
 ---
 title: "La Paz"
 url: /cucuta/la-paz/
-shop: Bestattungen
+shop: directores de funerarias
 ---

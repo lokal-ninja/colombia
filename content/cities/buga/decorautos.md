@@ -1,5 +1,5 @@
 ---
 title: "DecorAutos"
 url: /buga/decorautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

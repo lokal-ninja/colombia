@@ -1,5 +1,5 @@
 ---
 title: "Proverepuestos"
 url: /barrios-unidos/proverepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

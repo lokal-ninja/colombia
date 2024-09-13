@@ -1,5 +1,5 @@
 ---
 title: "DISTRIBUIDORA LA QUINTA"
 url: /simacota/distribuidora-la-quinta/
-shop: Großhandel
+shop: mayorista
 ---

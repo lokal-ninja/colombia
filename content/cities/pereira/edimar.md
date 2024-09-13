@@ -1,5 +1,5 @@
 ---
 title: "Edimar"
 url: /pereira/edimar/
-shop: Elektronik
+shop: electrónica
 ---

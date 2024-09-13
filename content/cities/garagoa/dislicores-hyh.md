@@ -1,5 +1,5 @@
 ---
 title: "Dislicores hyh"
 url: /garagoa/dislicores-hyh/
-shop: Spirituosen
+shop: alcohol
 ---

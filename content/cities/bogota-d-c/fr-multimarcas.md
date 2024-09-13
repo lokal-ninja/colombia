@@ -1,5 +1,5 @@
 ---
 title: "FR Multimarcas"
 url: /bogota-d-c/fr-multimarcas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

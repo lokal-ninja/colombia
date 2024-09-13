@@ -1,5 +1,5 @@
 ---
 title: "Teleservicios"
 url: /chipata/teleservicios/
-shop: Handy
+shop: teléfono móvil
 ---

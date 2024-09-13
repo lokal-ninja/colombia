@@ -1,5 +1,5 @@
 ---
 title: "Domus"
 url: /bogota/domus/
-shop: Küchen
+shop: cocina
 ---

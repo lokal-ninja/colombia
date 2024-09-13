@@ -1,5 +1,5 @@
 ---
 title: "Baterías"
 url: /bogota-d-c/baterias/
-shop: Eisenwaren
+shop: hardware
 ---

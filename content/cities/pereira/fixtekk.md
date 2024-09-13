@@ -1,5 +1,5 @@
 ---
 title: "Fixtekk"
 url: /pereira/fixtekk/
-shop: Kopieren
+shop: copyshop
 ---

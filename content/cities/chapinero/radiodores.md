@@ -1,5 +1,5 @@
 ---
 title: "Radiodores"
 url: /chapinero/radiodores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Montecristo"
 url: /velez/funeraria-montecristo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

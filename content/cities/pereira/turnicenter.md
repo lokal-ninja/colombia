@@ -1,5 +1,5 @@
 ---
 title: "Turnicenter"
 url: /pereira/turnicenter/
-shop: Autoteile
+shop: piezas de automóviles
 ---

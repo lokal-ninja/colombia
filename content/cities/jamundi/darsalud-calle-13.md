@@ -1,5 +1,5 @@
 ---
 title: "DarSalud"
 url: /jamundi/darsalud-calle-13/
-shop: Supermarkt
+shop: supermercado
 ---

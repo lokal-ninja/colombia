@@ -1,5 +1,5 @@
 ---
 title: "El Sembrador libreria"
 url: /santiago-de-cali/el-sembrador-libreria/
-shop: Bücher
+shop: libros
 ---

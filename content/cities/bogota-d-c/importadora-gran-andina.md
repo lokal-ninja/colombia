@@ -1,5 +1,5 @@
 ---
 title: "Importadora Gran Andina"
 url: /bogota-d-c/importadora-gran-andina/
-shop: Autoteile
+shop: piezas de automóviles
 ---

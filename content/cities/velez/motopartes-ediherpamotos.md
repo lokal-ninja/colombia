@@ -1,5 +1,5 @@
 ---
 title: "Motopartes Ediherpamotos"
 url: /velez/motopartes-ediherpamotos/
-shop: Motorrad
+shop: motocicleta
 ---

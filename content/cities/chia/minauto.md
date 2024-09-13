@@ -1,5 +1,5 @@
 ---
 title: "Minauto"
 url: /chia/minauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

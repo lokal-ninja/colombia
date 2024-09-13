@@ -1,5 +1,5 @@
 ---
 title: "TC139-Taller maus"
 url: /silvania/tc139-taller-maus/
-shop: Autoteile
+shop: piezas de automóviles
 ---

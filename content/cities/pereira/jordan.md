@@ -1,5 +1,5 @@
 ---
 title: "Jordán"
 url: /pereira/jordan/
-shop: Allgemein
+shop: general
 ---

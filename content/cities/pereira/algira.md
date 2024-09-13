@@ -1,5 +1,5 @@
 ---
 title: "Algira"
 url: /pereira/algira/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

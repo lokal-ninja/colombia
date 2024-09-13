@@ -1,5 +1,5 @@
 ---
 title: "Dordinadora"
 url: /pereira/dordinadora/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /bogota/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

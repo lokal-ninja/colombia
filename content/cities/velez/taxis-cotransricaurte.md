@@ -1,5 +1,5 @@
 ---
 title: "Taxis Cotransricaurte"
 url: /velez/taxis-cotransricaurte/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avisos"
 url: /barbosa/avisos/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aragón Nails"
 url: /bogota/aragon-nails/
-shop: Kosmetik
+shop: cosméticos
 ---

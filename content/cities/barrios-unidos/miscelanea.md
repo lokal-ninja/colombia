@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea"
 url: /barrios-unidos/miscelanea/
-shop: Schreibwaren
+shop: material de oficina
 ---

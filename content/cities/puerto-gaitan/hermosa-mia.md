@@ -1,5 +1,5 @@
 ---
 title: "Hermosa Mía"
 url: /puerto-gaitan/hermosa-mia/
-shop: Kleidung
+shop: ropa
 ---

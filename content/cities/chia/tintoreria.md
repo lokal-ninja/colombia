@@ -1,5 +1,5 @@
 ---
 title: "Tintoreria"
 url: /chia/tintoreria/
-shop: Wäscherei
+shop: lavandería
 ---

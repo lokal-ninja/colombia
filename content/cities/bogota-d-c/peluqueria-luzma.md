@@ -1,5 +1,5 @@
 ---
 title: "Peluquería LuzMa"
 url: /bogota-d-c/peluqueria-luzma/
-shop: Friseur
+shop: peluquería
 ---

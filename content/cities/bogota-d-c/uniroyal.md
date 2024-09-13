@@ -1,5 +1,5 @@
 ---
 title: "Uniroyal"
 url: /bogota-d-c/uniroyal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

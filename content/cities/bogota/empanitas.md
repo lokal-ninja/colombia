@@ -1,5 +1,5 @@
 ---
 title: "EmPanitas"
 url: /bogota/empanitas/
-shop: Bäckerei
+shop: panadería
 ---

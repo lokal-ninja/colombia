@@ -1,5 +1,5 @@
 ---
 title: "Germuelles"
 url: /barrios-unidos/germuelles/
-shop: Autoteile
+shop: piezas de automóviles
 ---

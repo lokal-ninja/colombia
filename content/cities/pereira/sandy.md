@@ -1,5 +1,5 @@
 ---
 title: "Sandy"
 url: /pereira/sandy/
-shop: Kleidung
+shop: ropa
 ---

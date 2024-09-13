@@ -1,5 +1,5 @@
 ---
 title: "Tecni Sport"
 url: /bogota-d-c/tecni-sport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

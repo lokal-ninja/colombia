@@ -1,5 +1,5 @@
 ---
 title: "Olga Look"
 url: /bogota-d-c/olga-look/
-shop: Friseur
+shop: peluquería
 ---

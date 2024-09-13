@@ -1,5 +1,5 @@
 ---
 title: "Jimmy"
 url: /funza/jimmy/
-shop: Tiere
+shop: mascotas
 ---

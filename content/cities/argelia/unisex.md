@@ -1,5 +1,5 @@
 ---
 title: "UNISEX"
 url: /argelia/unisex/
-shop: Friseur
+shop: peluquería
 ---

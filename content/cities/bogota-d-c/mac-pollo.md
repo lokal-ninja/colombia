@@ -1,5 +1,5 @@
 ---
 title: "Mac Pollo"
 url: /bogota-d-c/mac-pollo/
-shop: Computer
+shop: ordenador
 ---

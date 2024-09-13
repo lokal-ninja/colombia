@@ -1,5 +1,5 @@
 ---
 title: "Italcom"
 url: /pereira/italcom/
-shop: Allgemein
+shop: general
 ---

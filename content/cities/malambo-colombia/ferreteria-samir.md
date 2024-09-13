@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Samir"
 url: /malambo-colombia/ferreteria-samir/
-shop: Eisenwaren
+shop: hardware
 ---

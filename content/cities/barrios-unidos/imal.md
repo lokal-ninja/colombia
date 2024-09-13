@@ -1,5 +1,5 @@
 ---
 title: "Imal"
 url: /barrios-unidos/imal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

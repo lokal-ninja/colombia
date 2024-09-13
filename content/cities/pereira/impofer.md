@@ -1,5 +1,5 @@
 ---
 title: "Impofer"
 url: /pereira/impofer/
-shop: Allgemein
+shop: general
 ---

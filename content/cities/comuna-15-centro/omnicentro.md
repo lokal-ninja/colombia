@@ -1,5 +1,5 @@
 ---
 title: "Omnicentro"
 url: /comuna-15-centro/omnicentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

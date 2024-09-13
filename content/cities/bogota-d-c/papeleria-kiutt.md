@@ -1,5 +1,5 @@
 ---
 title: "Papelería Kiutt"
 url: /bogota-d-c/papeleria-kiutt/
-shop: Schreibwaren
+shop: material de oficina
 ---

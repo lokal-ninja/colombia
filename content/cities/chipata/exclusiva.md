@@ -1,5 +1,5 @@
 ---
 title: "Exclusiva"
 url: /chipata/exclusiva/
-shop: Kleidung
+shop: ropa
 ---

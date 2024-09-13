@@ -1,5 +1,5 @@
 ---
 title: "K'Jas"
 url: /barrios-unidos/kjas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

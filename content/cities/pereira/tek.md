@@ -1,5 +1,5 @@
 ---
 title: "Tek"
 url: /pereira/tek/
-shop: Elektronik
+shop: electrónica
 ---

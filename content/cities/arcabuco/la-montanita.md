@@ -1,5 +1,5 @@
 ---
 title: "La Montañita"
 url: /arcabuco/la-montanita/
-shop: Bäckerei
+shop: panadería
 ---

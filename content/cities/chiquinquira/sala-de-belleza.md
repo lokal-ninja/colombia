@@ -1,5 +1,5 @@
 ---
 title: "Sala de belleza"
 url: /chiquinquira/sala-de-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

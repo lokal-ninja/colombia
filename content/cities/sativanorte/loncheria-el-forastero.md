@@ -1,5 +1,5 @@
 ---
 title: "Lonchería El forastero"
 url: /sativanorte/loncheria-el-forastero/
-shop: Bäckerei
+shop: panadería
 ---

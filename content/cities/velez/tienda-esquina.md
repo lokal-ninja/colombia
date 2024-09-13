@@ -1,5 +1,5 @@
 ---
 title: "Tienda Esquina"
 url: /velez/tienda-esquina/
-shop: Lebensmittel
+shop: comodidad
 ---

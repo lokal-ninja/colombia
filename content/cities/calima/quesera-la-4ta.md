@@ -1,5 +1,5 @@
 ---
 title: "quesera la 4ta"
 url: /calima/quesera-la-4ta/
-shop: Getränke
+shop: bebidas
 ---

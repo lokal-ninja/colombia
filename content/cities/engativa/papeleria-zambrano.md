@@ -1,5 +1,5 @@
 ---
 title: "Papeleria zambrano"
 url: /engativa/papeleria-zambrano/
-shop: Schreibwaren
+shop: material de oficina
 ---

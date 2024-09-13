@@ -1,5 +1,5 @@
 ---
 title: "funeraria nesagaviria"
 url: /riohacha/funeraria-nesagaviria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

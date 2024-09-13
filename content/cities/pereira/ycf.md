@@ -1,5 +1,5 @@
 ---
 title: "YCF"
 url: /pereira/ycf/
-shop: Autoteile
+shop: piezas de automóviles
 ---

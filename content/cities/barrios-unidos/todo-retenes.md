@@ -1,5 +1,5 @@
 ---
 title: "Todo Retenes"
 url: /barrios-unidos/todo-retenes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

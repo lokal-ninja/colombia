@@ -1,5 +1,5 @@
 ---
 title: "Antíllana"
 url: /bogota-d-c/antillana/
-shop: Bäckerei
+shop: panadería
 ---

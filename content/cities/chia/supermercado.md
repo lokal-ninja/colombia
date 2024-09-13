@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /chia/supermercado/
-shop: Supermarkt
+shop: supermercado
 ---

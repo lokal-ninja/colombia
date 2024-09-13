@@ -1,5 +1,5 @@
 ---
 title: "Faicol"
 url: /barrios-unidos/faicol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

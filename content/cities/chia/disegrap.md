@@ -1,5 +1,5 @@
 ---
 title: "Disegrap"
 url: /chia/disegrap/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

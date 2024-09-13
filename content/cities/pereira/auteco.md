@@ -1,5 +1,5 @@
 ---
 title: "Auteco"
 url: /pereira/auteco/
-shop: Motorrad
+shop: motocicleta
 ---

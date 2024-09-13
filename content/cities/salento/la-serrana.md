@@ -1,5 +1,5 @@
 ---
 title: "La Serrana"
 url: /salento/la-serrana/
-shop: Allgemein
+shop: general
 ---

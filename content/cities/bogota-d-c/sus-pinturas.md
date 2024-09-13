@@ -1,5 +1,5 @@
 ---
 title: "Sus Pinturas"
 url: /bogota-d-c/sus-pinturas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

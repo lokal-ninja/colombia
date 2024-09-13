@@ -1,5 +1,5 @@
 ---
 title: "Electroautos"
 url: /pereira/electroautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

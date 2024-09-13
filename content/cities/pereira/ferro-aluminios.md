@@ -1,5 +1,5 @@
 ---
 title: "Ferro Aluminios"
 url: /pereira/ferro-aluminios/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duque"
 url: /pereira/duque/
-shop: Schuhe
+shop: zapatos
 ---

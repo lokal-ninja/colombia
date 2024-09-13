@@ -1,5 +1,5 @@
 ---
 title: "AC58-artes electricos e inyeccion"
 url: /fusagasuga/ac58-artes-electricos-e-inyeccion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

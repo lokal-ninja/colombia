@@ -1,5 +1,5 @@
 ---
 title: "VARIEDADES RK"
 url: /buenaventura/variedades-rk/
-shop: Kramladen
+shop: tienda de variedades
 ---

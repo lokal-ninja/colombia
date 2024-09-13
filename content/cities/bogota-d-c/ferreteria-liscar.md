@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Liscar"
 url: /bogota-d-c/ferreteria-liscar/
-shop: Eisenwaren
+shop: hardware
 ---

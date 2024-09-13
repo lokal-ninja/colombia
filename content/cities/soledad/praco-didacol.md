@@ -1,5 +1,5 @@
 ---
 title: "Praco Didacol"
 url: /soledad/praco-didacol/
-shop: Autohaus
+shop: coche
 ---

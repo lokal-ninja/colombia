@@ -1,5 +1,5 @@
 ---
 title: "Choricatos"
 url: /bogota-d-c/choricatos/
-shop: Bestattungen
+shop: directores de funerarias
 ---

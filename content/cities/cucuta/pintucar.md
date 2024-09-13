@@ -1,5 +1,5 @@
 ---
 title: "Pintucar"
 url: /cucuta/pintucar/
-shop: Allgemein
+shop: general
 ---

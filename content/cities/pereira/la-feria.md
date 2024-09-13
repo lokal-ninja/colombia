@@ -1,5 +1,5 @@
 ---
 title: "La Feria"
 url: /pereira/la-feria/
-shop: Kramladen
+shop: tienda de variedades
 ---

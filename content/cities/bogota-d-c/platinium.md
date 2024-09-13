@@ -1,5 +1,5 @@
 ---
 title: "Platinium"
 url: /bogota-d-c/platinium/
-shop: Kleidung
+shop: ropa
 ---

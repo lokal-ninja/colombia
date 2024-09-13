@@ -1,5 +1,5 @@
 ---
 title: "Audilujos"
 url: /pereira/audilujos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

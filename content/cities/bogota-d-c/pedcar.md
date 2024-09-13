@@ -1,5 +1,5 @@
 ---
 title: "PedCar"
 url: /bogota-d-c/pedcar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

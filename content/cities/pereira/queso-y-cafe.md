@@ -1,5 +1,5 @@
 ---
 title: "Queso y Café"
 url: /pereira/queso-y-cafe/
-shop: Bäckerei
+shop: panadería
 ---

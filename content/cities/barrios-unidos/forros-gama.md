@@ -1,5 +1,5 @@
 ---
 title: "Forros Gama"
 url: /barrios-unidos/forros-gama/
-shop: Autoteile
+shop: piezas de automóviles
 ---

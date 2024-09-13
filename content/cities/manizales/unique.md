@@ -1,5 +1,5 @@
 ---
 title: "Uniquê"
 url: /manizales/unique/
-shop: Modehaus
+shop: tienda
 ---

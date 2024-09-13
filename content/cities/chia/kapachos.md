@@ -1,5 +1,5 @@
 ---
 title: "Kapachos"
 url: /chia/kapachos/
-shop: Allgemein
+shop: general
 ---

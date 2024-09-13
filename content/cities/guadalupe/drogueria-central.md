@@ -1,5 +1,5 @@
 ---
 title: "DROGUERIA CENTRAL"
 url: /guadalupe/drogueria-central/
-shop: Drogerie
+shop: farmacia
 ---

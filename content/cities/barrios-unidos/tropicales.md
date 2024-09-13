@@ -1,5 +1,5 @@
 ---
 title: "Tropicales"
 url: /barrios-unidos/tropicales/
-shop: Instrumente
+shop: instrumento musical
 ---

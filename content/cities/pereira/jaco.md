@@ -1,5 +1,5 @@
 ---
 title: "Jaco"
 url: /pereira/jaco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

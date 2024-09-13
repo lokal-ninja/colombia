@@ -1,5 +1,5 @@
 ---
 title: "Droxi"
 url: /bogota/droxi/
-shop: Lebensmittel
+shop: comodidad
 ---

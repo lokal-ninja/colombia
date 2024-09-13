@@ -1,5 +1,5 @@
 ---
 title: "Pequeñines"
 url: /chiquinquira/pequenines/
-shop: Babysachen
+shop: artículos para bebés
 ---

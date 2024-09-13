@@ -1,5 +1,5 @@
 ---
 title: "good year"
 url: /garagoa/good-year/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

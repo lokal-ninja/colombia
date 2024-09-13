@@ -1,5 +1,5 @@
 ---
 title: "El Ciclon"
 url: /bogota/el-ciclon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

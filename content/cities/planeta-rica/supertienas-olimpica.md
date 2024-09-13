@@ -1,5 +1,5 @@
 ---
 title: "Supertienas Olimpica"
 url: /planeta-rica/supertienas-olimpica/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Perfumería"
 url: /pereira/la-perfumeria/
-shop: Parfümerie
+shop: perfumería
 ---

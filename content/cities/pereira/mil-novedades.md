@@ -1,5 +1,5 @@
 ---
 title: "Mil Novedades"
 url: /pereira/mil-novedades/
-shop: Kramladen
+shop: tienda de variedades
 ---

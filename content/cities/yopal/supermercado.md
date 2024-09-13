@@ -1,5 +1,5 @@
 ---
 title: "Supermercado."
 url: /yopal/supermercado/
-shop: Supermarkt
+shop: supermercado
 ---

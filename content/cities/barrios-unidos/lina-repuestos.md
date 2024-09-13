@@ -1,5 +1,5 @@
 ---
 title: "Lina Repuestos"
 url: /barrios-unidos/lina-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

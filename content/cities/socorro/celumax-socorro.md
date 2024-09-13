@@ -1,5 +1,5 @@
 ---
 title: "CELUMAX SOCORRO"
 url: /socorro/celumax-socorro/
-shop: Handy
+shop: teléfono móvil
 ---

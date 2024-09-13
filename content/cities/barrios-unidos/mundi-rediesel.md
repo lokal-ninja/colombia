@@ -1,5 +1,5 @@
 ---
 title: "Mundi Rediesel"
 url: /barrios-unidos/mundi-rediesel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Nico"
 url: /bogota/minimercado-nico/
-shop: Lebensmittel
+shop: comodidad
 ---

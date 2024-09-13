@@ -1,5 +1,5 @@
 ---
 title: "Refrigeracion Automotriz"
 url: /barrios-unidos/refrigeracion-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

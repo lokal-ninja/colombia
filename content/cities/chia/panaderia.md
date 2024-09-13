@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /chia/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

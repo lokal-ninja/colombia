@@ -1,5 +1,5 @@
 ---
 title: "Aviatur"
 url: /bogota-d-c/aviatur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

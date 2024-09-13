@@ -1,5 +1,5 @@
 ---
 title: "Comuicaciones"
 url: /bogota/comuicaciones/
-shop: Schreibwaren
+shop: material de oficina
 ---

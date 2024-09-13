@@ -1,5 +1,5 @@
 ---
 title: "El oasis Charcuteria"
 url: /amalfi/el-oasis-charcuteria/
-shop: Kramladen
+shop: tienda de variedades
 ---

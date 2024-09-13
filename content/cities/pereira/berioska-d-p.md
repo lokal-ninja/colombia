@@ -1,5 +1,5 @@
 ---
 title: "Berioska D.P."
 url: /pereira/berioska-d-p/
-shop: Spiele
+shop: juegos
 ---

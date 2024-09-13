@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /moniquira/tienda/
-shop: Lebensmittel
+shop: comodidad
 ---

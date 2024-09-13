@@ -1,5 +1,5 @@
 ---
 title: "Tobias"
 url: /sardinata/tobias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

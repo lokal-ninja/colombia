@@ -1,5 +1,5 @@
 ---
 title: "Viva Mall"
 url: /barranquilla/viva-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Las palmitas"
 url: /la-plata/las-palmitas/
-shop: Lebensmittel
+shop: comodidad
 ---

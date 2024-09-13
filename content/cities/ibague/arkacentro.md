@@ -1,5 +1,5 @@
 ---
 title: "Arkacentro"
 url: /ibague/arkacentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siniescar"
 url: /barrios-unidos/siniescar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

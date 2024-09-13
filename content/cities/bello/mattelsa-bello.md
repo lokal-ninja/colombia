@@ -1,5 +1,5 @@
 ---
 title: "Mattelsa Bello"
 url: /bello/mattelsa-bello/
-shop: Kleidung
+shop: ropa
 ---

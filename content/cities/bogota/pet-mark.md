@@ -1,5 +1,5 @@
 ---
 title: "Pet-Mark"
 url: /bogota/pet-mark/
-shop: Tiere
+shop: mascotas
 ---

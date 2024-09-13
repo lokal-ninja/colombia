@@ -1,5 +1,5 @@
 ---
 title: "Frenos"
 url: /barrios-unidos/frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

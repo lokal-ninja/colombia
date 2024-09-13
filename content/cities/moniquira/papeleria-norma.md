@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Norma"
 url: /moniquira/papeleria-norma/
-shop: Schreibwaren
+shop: material de oficina
 ---

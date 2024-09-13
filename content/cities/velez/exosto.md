@@ -1,5 +1,5 @@
 ---
 title: "Exosto"
 url: /velez/exosto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

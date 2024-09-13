@@ -1,5 +1,5 @@
 ---
 title: "Sony Internacional de Electronica"
 url: /bogota-d-c/sony-internacional-de-electronica/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panaderia El Padrino"
 url: /malambo/panaderia-el-padrino/
-shop: Bäckerei
+shop: panadería
 ---

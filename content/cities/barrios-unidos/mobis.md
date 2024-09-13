@@ -1,5 +1,5 @@
 ---
 title: "Mobis"
 url: /barrios-unidos/mobis/
-shop: Autoteile
+shop: piezas de automóviles
 ---

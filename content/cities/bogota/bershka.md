@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /bogota/bershka/
-shop: Kleidung
+shop: ropa
 ---

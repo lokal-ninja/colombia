@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel"
 url: /bogota/emmanuel/
-shop: Andenken
+shop: regalo
 ---

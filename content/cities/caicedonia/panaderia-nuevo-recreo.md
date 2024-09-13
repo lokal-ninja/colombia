@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Nuevo Recreo"
 url: /caicedonia/panaderia-nuevo-recreo/
-shop: Bäckerei
+shop: panadería
 ---

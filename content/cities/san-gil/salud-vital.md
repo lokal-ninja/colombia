@@ -1,5 +1,5 @@
 ---
 title: "Salud Vital"
 url: /san-gil/salud-vital/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

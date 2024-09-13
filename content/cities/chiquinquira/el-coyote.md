@@ -1,5 +1,5 @@
 ---
 title: "El Coyote"
 url: /chiquinquira/el-coyote/
-shop: Eisenwaren
+shop: hardware
 ---

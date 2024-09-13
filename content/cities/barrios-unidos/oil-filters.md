@@ -1,5 +1,5 @@
 ---
 title: "Oil Filters"
 url: /barrios-unidos/oil-filters/
-shop: Autoteile
+shop: piezas de automóviles
 ---

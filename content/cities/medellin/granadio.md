@@ -1,5 +1,5 @@
 ---
 title: "Granadio"
 url: /medellin/granadio/
-shop: Lebensmittel
+shop: comodidad
 ---

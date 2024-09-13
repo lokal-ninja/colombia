@@ -1,5 +1,5 @@
 ---
 title: "Jireh"
 url: /bogota/jireh/
-shop: Lebensmittel
+shop: comodidad
 ---

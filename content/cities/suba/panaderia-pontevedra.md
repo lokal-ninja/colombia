@@ -1,5 +1,5 @@
 ---
 title: "Panadería pontevedra"
 url: /suba/panaderia-pontevedra/
-shop: Bäckerei
+shop: panadería
 ---

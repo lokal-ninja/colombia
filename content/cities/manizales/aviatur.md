@@ -1,5 +1,5 @@
 ---
 title: "Aviatur"
 url: /manizales/aviatur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cauchos JE"
 url: /barbosa/cauchos-je/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exitos"
 url: /garagoa/exitos/
-shop: Schreibwaren
+shop: material de oficina
 ---

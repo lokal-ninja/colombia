@@ -1,5 +1,5 @@
 ---
 title: "Empicar"
 url: /pereira/empicar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

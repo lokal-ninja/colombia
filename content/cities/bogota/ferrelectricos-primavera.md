@@ -1,5 +1,5 @@
 ---
 title: "Ferreléctricos Primavera."
 url: /bogota/ferrelectricos-primavera/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kartornillos"
 url: /bogota-d-c/kartornillos/
-shop: Eisenwaren
+shop: hardware
 ---

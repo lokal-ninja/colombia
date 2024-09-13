@@ -1,5 +1,5 @@
 ---
 title: "Makkro Mil"
 url: /pereira/makkro-mil/
-shop: Kramladen
+shop: tienda de variedades
 ---

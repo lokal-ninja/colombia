@@ -1,5 +1,5 @@
 ---
 title: "Lili Pink"
 url: /bucaramanga/lili-pink/
-shop: Kleidung
+shop: ropa
 ---

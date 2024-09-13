@@ -1,5 +1,5 @@
 ---
 title: "Champions Barber"
 url: /armenia/champions-barber/
-shop: Friseur
+shop: peluquería
 ---

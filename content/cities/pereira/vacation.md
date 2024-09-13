@@ -1,5 +1,5 @@
 ---
 title: "Vacation"
 url: /pereira/vacation/
-shop: Reisebüro
+shop: agencia de viajes
 ---

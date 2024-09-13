@@ -1,5 +1,5 @@
 ---
 title: "Ferretodo"
 url: /cimitarra/ferretodo/
-shop: Eisenwaren
+shop: hardware
 ---

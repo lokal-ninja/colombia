@@ -1,5 +1,5 @@
 ---
 title: "pollos vica"
 url: /pasto/pollos-vica/
-shop: Supermarkt
+shop: supermercado
 ---

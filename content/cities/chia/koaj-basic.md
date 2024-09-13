@@ -1,5 +1,5 @@
 ---
 title: "Koaj Basic"
 url: /chia/koaj-basic/
-shop: Kleidung
+shop: ropa
 ---

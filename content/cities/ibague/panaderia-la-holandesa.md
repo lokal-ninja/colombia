@@ -1,5 +1,5 @@
 ---
 title: "Panadería La Holandesa"
 url: /ibague/panaderia-la-holandesa/
-shop: Bäckerei
+shop: panadería
 ---

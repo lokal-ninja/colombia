@@ -1,5 +1,5 @@
 ---
 title: "Electrónica"
 url: /barrios-unidos/electronica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Racing"
 url: /bogota-d-c/racing/
-shop: Motorrad
+shop: motocicleta
 ---

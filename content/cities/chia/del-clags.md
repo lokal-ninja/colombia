@@ -1,5 +1,5 @@
 ---
 title: "Del Clags"
 url: /chia/del-clags/
-shop: Kleidung
+shop: ropa
 ---

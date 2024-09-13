@@ -1,5 +1,5 @@
 ---
 title: "Colchones Furatena"
 url: /barrios-unidos/colchones-furatena/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gana"
 url: /amalfi/gana/
-shop: Lotterie
+shop: lotería
 ---

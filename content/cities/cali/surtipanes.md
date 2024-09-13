@@ -1,5 +1,5 @@
 ---
 title: "Surtipanes"
 url: /cali/surtipanes/
-shop: Bäckerei
+shop: panadería
 ---

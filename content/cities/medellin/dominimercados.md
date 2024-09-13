@@ -1,5 +1,5 @@
 ---
 title: "DOMINIMERCADOS"
 url: /medellin/dominimercados/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mabeto Bike"
 url: /armenia/mabeto-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

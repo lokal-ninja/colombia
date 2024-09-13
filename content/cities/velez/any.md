@@ -1,5 +1,5 @@
 ---
 title: "Any"
 url: /velez/any/
-shop: Kleidung
+shop: ropa
 ---

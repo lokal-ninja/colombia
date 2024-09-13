@@ -1,5 +1,5 @@
 ---
 title: "Centromah"
 url: /barrios-unidos/centromah/
-shop: Autoteile
+shop: piezas de automóviles
 ---

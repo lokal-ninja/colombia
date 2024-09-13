@@ -1,5 +1,5 @@
 ---
 title: "Homecenter"
 url: /barranquilla/homecenter/
-shop: Warenhaus
+shop: grandes almacenes
 ---

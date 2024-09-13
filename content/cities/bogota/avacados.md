@@ -1,5 +1,5 @@
 ---
 title: "Avacados"
 url: /bogota/avacados/
-shop: Supermarkt
+shop: supermercado
 ---

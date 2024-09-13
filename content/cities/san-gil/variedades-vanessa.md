@@ -1,5 +1,5 @@
 ---
 title: "Variedades Vanessa"
 url: /san-gil/variedades-vanessa/
-shop: Kramladen
+shop: tienda de variedades
 ---

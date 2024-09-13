@@ -1,5 +1,5 @@
 ---
 title: "Halley"
 url: /bogota-d-c/halley/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

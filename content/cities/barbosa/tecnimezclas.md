@@ -1,5 +1,5 @@
 ---
 title: "Tecnimezclas"
 url: /barbosa/tecnimezclas/
-shop: Farben
+shop: pintura
 ---

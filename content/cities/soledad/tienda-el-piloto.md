@@ -1,5 +1,5 @@
 ---
 title: "Tienda El Piloto"
 url: /soledad/tienda-el-piloto/
-shop: Lebensmittel
+shop: comodidad
 ---

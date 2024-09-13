@@ -1,5 +1,5 @@
 ---
 title: "Energy Star"
 url: /barrios-unidos/energy-star/
-shop: Lampen
+shop: lámparas
 ---

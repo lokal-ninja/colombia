@@ -1,5 +1,5 @@
 ---
 title: "Multimarcas Chevroletluv"
 url: /pereira/multimarcas-chevroletluv/
-shop: Autoteile
+shop: piezas de automóviles
 ---

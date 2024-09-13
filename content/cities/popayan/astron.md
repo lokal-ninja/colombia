@@ -1,5 +1,5 @@
 ---
 title: "Astron"
 url: /popayan/astron/
-shop: Elektronik
+shop: electrónica
 ---

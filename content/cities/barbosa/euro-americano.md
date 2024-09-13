@@ -1,5 +1,5 @@
 ---
 title: "Euro Americano"
 url: /barbosa/euro-americano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

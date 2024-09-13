@@ -1,5 +1,5 @@
 ---
 title: "Libreria Ediciones Hispanicas"
 url: /sabaneta-antioquia/libreria-ediciones-hispanicas/
-shop: Bücher
+shop: libros
 ---

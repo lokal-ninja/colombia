@@ -1,5 +1,5 @@
 ---
 title: "Lafam"
 url: /pereira/lafam/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juanppis"
 url: /amalfi/juanppis/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morflex"
 url: /pereira/morflex/
-shop: Betten
+shop: cama
 ---

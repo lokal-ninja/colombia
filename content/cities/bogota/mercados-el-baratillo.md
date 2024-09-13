@@ -1,5 +1,5 @@
 ---
 title: "Mercados el Baratillo"
 url: /bogota/mercados-el-baratillo/
-shop: Supermarkt
+shop: supermercado
 ---

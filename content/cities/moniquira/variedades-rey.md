@@ -1,5 +1,5 @@
 ---
 title: "Variedades rey"
 url: /moniquira/variedades-rey/
-shop: Schreibwaren
+shop: material de oficina
 ---

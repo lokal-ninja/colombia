@@ -1,5 +1,5 @@
 ---
 title: "Eternit"
 url: /bogota-d-c/eternit/
-shop: Eisenwaren
+shop: hardware
 ---

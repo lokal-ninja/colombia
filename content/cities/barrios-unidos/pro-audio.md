@@ -1,5 +1,5 @@
 ---
 title: "Pro Audio"
 url: /barrios-unidos/pro-audio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

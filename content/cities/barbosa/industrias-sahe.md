@@ -1,5 +1,5 @@
 ---
 title: "Industrias Sahe"
 url: /barbosa/industrias-sahe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

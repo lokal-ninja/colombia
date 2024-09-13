@@ -1,5 +1,5 @@
 ---
 title: "Modelo"
 url: /saravena/modelo/
-shop: Supermarkt
+shop: supermercado
 ---

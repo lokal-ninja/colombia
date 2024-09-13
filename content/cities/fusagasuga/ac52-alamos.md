@@ -1,5 +1,5 @@
 ---
 title: "AC52-Alamos"
 url: /fusagasuga/ac52-alamos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

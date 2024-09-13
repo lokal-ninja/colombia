@@ -1,5 +1,5 @@
 ---
 title: "Caras Lindas"
 url: /riohacha-la-guajira/caras-lindas/
-shop: Kramladen
+shop: tienda de variedades
 ---

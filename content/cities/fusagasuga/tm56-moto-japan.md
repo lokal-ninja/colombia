@@ -1,5 +1,5 @@
 ---
 title: "TM56-Moto Japan"
 url: /fusagasuga/tm56-moto-japan/
-shop: Motorrad
+shop: motocicleta
 ---

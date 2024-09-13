@@ -1,5 +1,5 @@
 ---
 title: "Macoly"
 url: /bogota-d-c/macoly/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

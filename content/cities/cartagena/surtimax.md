@@ -1,5 +1,5 @@
 ---
 title: "Surtimax"
 url: /cartagena/surtimax/
-shop: Supermarkt
+shop: supermercado
 ---

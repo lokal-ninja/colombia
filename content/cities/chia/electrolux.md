@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /chia/electrolux/
-shop: Elektronik
+shop: electrónica
 ---

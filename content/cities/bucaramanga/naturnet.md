@@ -1,5 +1,5 @@
 ---
 title: "Naturnet"
 url: /bucaramanga/naturnet/
-shop: Warenhaus
+shop: grandes almacenes
 ---

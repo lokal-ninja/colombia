@@ -1,5 +1,5 @@
 ---
 title: "Mazda motovalle"
 url: /suba/mazda-motovalle/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Mega Pulgurito"
 url: /pereira/el-mega-pulgurito/
-shop: Kramladen
+shop: tienda de variedades
 ---

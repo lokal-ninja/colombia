@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /popayan/mazda/
-shop: Autohaus
+shop: coche
 ---

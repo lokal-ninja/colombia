@@ -1,5 +1,5 @@
 ---
 title: "LilyPink"
 url: /barrios-unidos/lilypink/
-shop: Kleidung
+shop: ropa
 ---

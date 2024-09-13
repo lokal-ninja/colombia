@@ -1,5 +1,5 @@
 ---
 title: "TC45-Tecnidiesel"
 url: /fusagasuga/tc45-tecnidiesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

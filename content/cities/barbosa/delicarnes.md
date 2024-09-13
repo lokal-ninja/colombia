@@ -1,5 +1,5 @@
 ---
 title: "Delicarnes"
 url: /barbosa/delicarnes/
-shop: Metzgerei
+shop: carnicero
 ---

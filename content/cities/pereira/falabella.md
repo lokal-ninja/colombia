@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /pereira/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

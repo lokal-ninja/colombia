@@ -1,5 +1,5 @@
 ---
 title: "Linser Auto"
 url: /bogota-d-c/linser-auto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

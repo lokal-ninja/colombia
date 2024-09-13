@@ -1,5 +1,5 @@
 ---
 title: "TROPIKAL"
 url: /buenaventura/tropikal/
-shop: Allgemein
+shop: general
 ---

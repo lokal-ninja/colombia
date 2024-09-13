@@ -1,5 +1,5 @@
 ---
 title: "Mundial De Espejos y Lujos"
 url: /barrios-unidos/mundial-de-espejos-y-lujos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

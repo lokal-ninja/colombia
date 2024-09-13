@@ -1,5 +1,5 @@
 ---
 title: "cacharreria"
 url: /bogota/cacharreria/
-shop: Kramladen
+shop: tienda de variedades
 ---

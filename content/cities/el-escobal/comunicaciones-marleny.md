@@ -1,5 +1,5 @@
 ---
 title: "comunicaciones marleny"
 url: /el-escobal/comunicaciones-marleny/
-shop: Handy
+shop: teléfono móvil
 ---

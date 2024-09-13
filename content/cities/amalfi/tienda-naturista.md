@@ -1,5 +1,5 @@
 ---
 title: "Tienda naturista"
 url: /amalfi/tienda-naturista/
-shop: Kramladen
+shop: tienda de variedades
 ---

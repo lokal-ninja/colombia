@@ -1,5 +1,5 @@
 ---
 title: "Papleria y recargas"
 url: /bogota/papleria-y-recargas/
-shop: Schreibwaren
+shop: material de oficina
 ---

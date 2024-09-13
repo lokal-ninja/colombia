@@ -1,5 +1,5 @@
 ---
 title: "Muebles Suarez"
 url: /pereira/muebles-suarez-carrera-7/
-shop: Möbel
+shop: muebles
 ---

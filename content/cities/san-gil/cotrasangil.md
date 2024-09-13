@@ -1,5 +1,5 @@
 ---
 title: "Cotrasangil"
 url: /san-gil/cotrasangil/
-shop: Tickets
+shop: entradas
 ---

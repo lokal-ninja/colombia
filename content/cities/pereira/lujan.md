@@ -1,5 +1,5 @@
 ---
 title: "Lujan"
 url: /pereira/lujan/
-shop: Allgemein
+shop: general
 ---

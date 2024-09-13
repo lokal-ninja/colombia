@@ -1,5 +1,5 @@
 ---
 title: "Ludi"
 url: /velez/ludi/
-shop: Friseur
+shop: peluquería
 ---

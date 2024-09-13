@@ -1,5 +1,5 @@
 ---
 title: "Decoraciones Family Home"
 url: /pereira/decoraciones-family-home/
-shop: Betten
+shop: cama
 ---

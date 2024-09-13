@@ -1,5 +1,5 @@
 ---
 title: "Aranzautos"
 url: /pereira/aranzautos/
-shop: Autohaus
+shop: coche
 ---

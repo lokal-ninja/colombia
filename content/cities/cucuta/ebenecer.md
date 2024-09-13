@@ -1,5 +1,5 @@
 ---
 title: "Ebenecer"
 url: /cucuta/ebenecer/
-shop: Supermarkt
+shop: supermercado
 ---

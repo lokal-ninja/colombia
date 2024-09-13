@@ -1,5 +1,5 @@
 ---
 title: "Variedades platino"
 url: /don-matias/variedades-platino/
-shop: Allgemein
+shop: general
 ---

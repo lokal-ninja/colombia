@@ -1,5 +1,5 @@
 ---
 title: "Surtimos Salsamentaria"
 url: /pereira/surtimos-salsamentaria/
-shop: Supermarkt
+shop: supermercado
 ---

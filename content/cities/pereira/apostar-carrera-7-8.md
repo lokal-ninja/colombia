@@ -1,5 +1,5 @@
 ---
 title: "Apostar"
 url: /pereira/apostar-carrera-7-8/
-shop: Lotterie
+shop: lotería
 ---

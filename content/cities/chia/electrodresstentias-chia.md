@@ -1,5 +1,5 @@
 ---
 title: "Electrodresstentias Chia"
 url: /chia/electrodresstentias-chia/
-shop: Eisenwaren
+shop: hardware
 ---

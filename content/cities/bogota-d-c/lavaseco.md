@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco"
 url: /bogota-d-c/lavaseco/
-shop: Allgemein
+shop: general
 ---

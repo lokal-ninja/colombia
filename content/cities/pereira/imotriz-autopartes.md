@@ -1,5 +1,5 @@
 ---
 title: "iMotriz Autopartes"
 url: /pereira/imotriz-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

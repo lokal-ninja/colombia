@@ -1,5 +1,5 @@
 ---
 title: "La Rebaja"
 url: /pereira/la-rebaja-calle-18/
-shop: Drogerie
+shop: farmacia
 ---

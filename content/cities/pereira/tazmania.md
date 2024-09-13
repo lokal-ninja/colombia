@@ -1,5 +1,5 @@
 ---
 title: "Tazmania"
 url: /pereira/tazmania/
-shop: Allgemein
+shop: general
 ---

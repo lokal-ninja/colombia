@@ -1,5 +1,5 @@
 ---
 title: "Ryasa"
 url: /barrios-unidos/ryasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

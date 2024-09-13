@@ -1,5 +1,5 @@
 ---
 title: "Juesar"
 url: /barrios-unidos/juesar/
-shop: Kräuter
+shop: herbolario
 ---

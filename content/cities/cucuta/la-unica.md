@@ -1,5 +1,5 @@
 ---
 title: "La Unica"
 url: /cucuta/la-unica/
-shop: Schreibwaren
+shop: material de oficina
 ---

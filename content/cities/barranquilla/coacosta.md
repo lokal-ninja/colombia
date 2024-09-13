@@ -1,5 +1,5 @@
 ---
 title: "Coacosta"
 url: /barranquilla/coacosta/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UNISEX"
 url: /cabecera-municipal-argelia-cauca/unisex/
-shop: Friseur
+shop: peluquería
 ---

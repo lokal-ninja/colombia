@@ -1,5 +1,5 @@
 ---
 title: "Magma"
 url: /barrios-unidos/magma/
-shop: Autoteile
+shop: piezas de automóviles
 ---

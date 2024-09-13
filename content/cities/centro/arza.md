@@ -1,5 +1,5 @@
 ---
 title: "Arza"
 url: /centro/arza/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MaxCerámica"
 url: /pereira/maxceramica/
-shop: Allgemein
+shop: general
 ---

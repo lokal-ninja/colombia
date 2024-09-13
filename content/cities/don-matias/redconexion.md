@@ -1,5 +1,5 @@
 ---
 title: "Redconexion"
 url: /don-matias/redconexion/
-shop: Schreibwaren
+shop: material de oficina
 ---

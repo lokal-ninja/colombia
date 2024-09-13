@@ -1,5 +1,5 @@
 ---
 title: "Copyserve"
 url: /pereira/copyserve/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Ara - Villa Estadio"
 url: /soledad-colombia/tienda-ara-villa-estadio/
-shop: Supermarkt
+shop: supermercado
 ---

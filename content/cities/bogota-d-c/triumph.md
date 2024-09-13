@@ -1,5 +1,5 @@
 ---
 title: "Triumph"
 url: /bogota-d-c/triumph/
-shop: Motorrad
+shop: motocicleta
 ---

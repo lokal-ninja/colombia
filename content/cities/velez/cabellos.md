@@ -1,5 +1,5 @@
 ---
 title: "Cabellos"
 url: /velez/cabellos/
-shop: Friseur
+shop: peluquería
 ---

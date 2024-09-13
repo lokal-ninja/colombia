@@ -1,5 +1,5 @@
 ---
 title: "Cromado Zincado"
 url: /barrios-unidos/cromado-zincado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

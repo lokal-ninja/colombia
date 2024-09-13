@@ -1,5 +1,5 @@
 ---
 title: "Almacén Sucre"
 url: /amalfi/almacen-sucre/
-shop: Kramladen
+shop: tienda de variedades
 ---

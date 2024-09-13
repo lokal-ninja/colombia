@@ -1,5 +1,5 @@
 ---
 title: "Car Sound"
 url: /armenia/car-sound/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

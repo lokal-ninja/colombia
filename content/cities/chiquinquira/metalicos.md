@@ -1,5 +1,5 @@
 ---
 title: "Metalicos"
 url: /chiquinquira/metalicos/
-shop: Reifen
+shop: neumáticos
 ---

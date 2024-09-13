@@ -1,5 +1,5 @@
 ---
 title: "repuestos Ubacol"
 url: /barrios-unidos/repuestos-ubacol-carrera-28/
-shop: Autoteile
+shop: piezas de automóviles
 ---

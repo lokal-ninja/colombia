@@ -1,5 +1,5 @@
 ---
 title: "Olímpica - Villa Sevilla"
 url: /barranquilla/olimpica-villa-sevilla/
-shop: Supermarkt
+shop: supermercado
 ---

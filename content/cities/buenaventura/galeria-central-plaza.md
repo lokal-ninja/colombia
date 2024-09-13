@@ -1,5 +1,5 @@
 ---
 title: "GALERIA CENTRAL PLAZA"
 url: /buenaventura/galeria-central-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

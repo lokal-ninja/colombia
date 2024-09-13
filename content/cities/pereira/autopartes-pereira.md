@@ -1,5 +1,5 @@
 ---
 title: "AutoPartes Pereira"
 url: /pereira/autopartes-pereira/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pirotecnia Vaquero"
 url: /restrepo/pirotecnia-vaquero/
-shop: Pyrotechnik
+shop: pirotecnia
 ---

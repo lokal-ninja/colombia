@@ -1,5 +1,5 @@
 ---
 title: "La Canasta"
 url: /simacota/la-canasta/
-shop: Lebensmittel
+shop: comodidad
 ---

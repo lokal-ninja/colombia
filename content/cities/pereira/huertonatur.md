@@ -1,5 +1,5 @@
 ---
 title: "Huertonatur"
 url: /pereira/huertonatur/
-shop: Allgemein
+shop: general
 ---

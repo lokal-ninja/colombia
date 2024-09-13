@@ -1,5 +1,5 @@
 ---
 title: "Global"
 url: /pereira/global/
-shop: Autoteile
+shop: piezas de automóviles
 ---

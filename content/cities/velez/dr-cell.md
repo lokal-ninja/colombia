@@ -1,5 +1,5 @@
 ---
 title: "Dr. Cell"
 url: /velez/dr-cell/
-shop: Handy
+shop: teléfono móvil
 ---

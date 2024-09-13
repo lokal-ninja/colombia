@@ -1,5 +1,5 @@
 ---
 title: "CELULARES EL PAISA"
 url: /simacota/celulares-el-paisa/
-shop: Handy
+shop: teléfono móvil
 ---

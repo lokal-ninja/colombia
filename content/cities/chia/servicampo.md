@@ -1,5 +1,5 @@
 ---
 title: "Servicampo"
 url: /chia/servicampo/
-shop: Landwirtschaftlich
+shop: agraria
 ---

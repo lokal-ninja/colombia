@@ -1,5 +1,5 @@
 ---
 title: "Moldepartes"
 url: /barrios-unidos/moldepartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

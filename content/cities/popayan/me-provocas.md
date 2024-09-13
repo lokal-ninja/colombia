@@ -1,5 +1,5 @@
 ---
 title: "Me Provocas"
 url: /popayan/me-provocas/
-shop: Erotik
+shop: erótico
 ---

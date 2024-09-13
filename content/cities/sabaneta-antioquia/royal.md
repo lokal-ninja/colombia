@@ -1,5 +1,5 @@
 ---
 title: "Royal"
 url: /sabaneta-antioquia/royal/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

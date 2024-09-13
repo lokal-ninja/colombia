@@ -1,5 +1,5 @@
 ---
 title: "Colwagen"
 url: /chapinero/colwagen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

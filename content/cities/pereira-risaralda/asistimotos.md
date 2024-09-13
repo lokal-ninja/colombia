@@ -1,5 +1,5 @@
 ---
 title: "Asistimotos"
 url: /pereira-risaralda/asistimotos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

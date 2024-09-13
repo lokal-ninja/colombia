@@ -1,5 +1,5 @@
 ---
 title: "Car-Moviles"
 url: /barrios-unidos/car-moviles/
-shop: Autoteile
+shop: piezas de automóviles
 ---

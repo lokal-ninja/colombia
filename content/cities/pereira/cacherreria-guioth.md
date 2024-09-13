@@ -1,5 +1,5 @@
 ---
 title: "Cacherreria Guioth"
 url: /pereira/cacherreria-guioth/
-shop: Kramladen
+shop: tienda de variedades
 ---

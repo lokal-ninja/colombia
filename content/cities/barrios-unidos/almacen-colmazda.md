@@ -1,5 +1,5 @@
 ---
 title: "Almacen Colmazda"
 url: /barrios-unidos/almacen-colmazda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

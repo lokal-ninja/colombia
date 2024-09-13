@@ -1,5 +1,5 @@
 ---
 title: "Padicar'z"
 url: /barrios-unidos/padicarz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

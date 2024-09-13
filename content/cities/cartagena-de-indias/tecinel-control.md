@@ -1,5 +1,5 @@
 ---
 title: "Tecinel Control"
 url: /cartagena-de-indias/tecinel-control/
-shop: Maschinen
+shop: maquinaria
 ---

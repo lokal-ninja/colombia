@@ -1,5 +1,5 @@
 ---
 title: "Megamas - Los Robles"
 url: /soledad/megamas-los-robles/
-shop: Leiher
+shop: prestamista
 ---

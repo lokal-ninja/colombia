@@ -1,5 +1,5 @@
 ---
 title: "Montallantas Los Anacos"
 url: /cite/montallantas-los-anacos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

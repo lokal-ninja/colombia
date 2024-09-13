@@ -1,5 +1,5 @@
 ---
 title: "Central Cerámico"
 url: /pereira/central-ceramico/
-shop: Raumausstattung
+shop: decoración interior
 ---

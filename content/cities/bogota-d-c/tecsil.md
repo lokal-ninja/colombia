@@ -1,5 +1,5 @@
 ---
 title: "Tecsil"
 url: /bogota-d-c/tecsil/
-shop: Eisenwaren
+shop: hardware
 ---

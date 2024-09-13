@@ -1,5 +1,5 @@
 ---
 title: "Viajes Coffee"
 url: /ibague/viajes-coffee/
-shop: Reisebüro
+shop: agencia de viajes
 ---

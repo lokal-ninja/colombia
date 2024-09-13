@@ -1,5 +1,5 @@
 ---
 title: "DecorHome"
 url: /pereira/decorhome/
-shop: Raumausstattung
+shop: decoración interior
 ---

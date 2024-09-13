@@ -1,5 +1,5 @@
 ---
 title: "Tienda Estevez"
 url: /bogota/tienda-estevez/
-shop: Kiosk
+shop: quiosco
 ---

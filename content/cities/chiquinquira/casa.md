@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /chiquinquira/casa/
-shop: Leiher
+shop: prestamista
 ---

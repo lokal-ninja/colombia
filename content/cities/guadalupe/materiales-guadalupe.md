@@ -1,5 +1,5 @@
 ---
 title: "MATERIALES GUADALUPE"
 url: /guadalupe/materiales-guadalupe/
-shop: Eisenwaren
+shop: hardware
 ---

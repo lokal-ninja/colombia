@@ -1,5 +1,5 @@
 ---
 title: "TRILLOZ PRINCIPAL"
 url: /socorro/trilloz-principal/
-shop: Bäckerei
+shop: panadería
 ---

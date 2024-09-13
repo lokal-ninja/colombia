@@ -1,5 +1,5 @@
 ---
 title: "Nuestra Señora de Chiquinquira"
 url: /bogota-d-c/nuestra-senora-de-chiquinquira/
-shop: Religion
+shop: religión
 ---

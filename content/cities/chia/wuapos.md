@@ -1,5 +1,5 @@
 ---
 title: "Wuapo's"
 url: /chia/wuapos/
-shop: Kleidung
+shop: ropa
 ---

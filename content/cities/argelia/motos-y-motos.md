@@ -1,5 +1,5 @@
 ---
 title: "MOTOS Y MOTOS"
 url: /argelia/motos-y-motos/
-shop: Motorrad
+shop: motocicleta
 ---

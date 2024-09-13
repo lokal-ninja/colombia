@@ -1,5 +1,5 @@
 ---
 title: "Surtimax la Serrania"
 url: /la-macarena/surtimax-la-serrania/
-shop: Supermarkt
+shop: supermercado
 ---

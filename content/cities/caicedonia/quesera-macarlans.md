@@ -1,5 +1,5 @@
 ---
 title: "Quesera Macarlan''s"
 url: /caicedonia/quesera-macarlans/
-shop: Käse
+shop: queso
 ---

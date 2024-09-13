@@ -1,5 +1,5 @@
 ---
 title: "burbujas"
 url: /chapinero/burbujas/
-shop: Wäscherei
+shop: lavandería
 ---

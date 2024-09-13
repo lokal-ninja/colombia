@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /monteria/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madel"
 url: /chia/madel/
-shop: Fußböden
+shop: suelos
 ---

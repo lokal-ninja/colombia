@@ -1,5 +1,5 @@
 ---
 title: "DMC Women"
 url: /pereira/dmc-women/
-shop: Kleidung
+shop: ropa
 ---

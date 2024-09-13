@@ -1,5 +1,5 @@
 ---
 title: "Marco-Mazda"
 url: /barrios-unidos/marco-mazda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

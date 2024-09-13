@@ -1,5 +1,5 @@
 ---
 title: "Pihin's"
 url: /pereira/pihins/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /barranquilla/ara/
-shop: Supermarkt
+shop: supermercado
 ---

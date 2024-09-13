@@ -1,5 +1,5 @@
 ---
 title: "Rta"
 url: /bogota-d-c/rta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

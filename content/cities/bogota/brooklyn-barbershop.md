@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Barbershop"
 url: /bogota/brooklyn-barbershop/
-shop: Friseur
+shop: peluquería
 ---

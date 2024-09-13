@@ -1,5 +1,5 @@
 ---
 title: "Center Cauchos"
 url: /barrios-unidos/center-cauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

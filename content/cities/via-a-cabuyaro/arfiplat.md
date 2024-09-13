@@ -1,5 +1,5 @@
 ---
 title: "Arfiplat"
 url: /via-a-cabuyaro/arfiplat/
-shop: Basteln
+shop: artesanía
 ---

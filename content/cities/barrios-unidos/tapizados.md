@@ -1,5 +1,5 @@
 ---
 title: "Tapizados"
 url: /barrios-unidos/tapizados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

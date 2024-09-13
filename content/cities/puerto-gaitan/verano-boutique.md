@@ -1,5 +1,5 @@
 ---
 title: "Verano Boutique"
 url: /puerto-gaitan/verano-boutique/
-shop: Kleidung
+shop: ropa
 ---

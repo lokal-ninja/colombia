@@ -1,5 +1,5 @@
 ---
 title: "electrorutos garagoa"
 url: /garagoa/electrorutos-garagoa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

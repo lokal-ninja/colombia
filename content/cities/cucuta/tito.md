@@ -1,5 +1,5 @@
 ---
 title: "TITO"
 url: /cucuta/tito/
-shop: Eisenwaren
+shop: hardware
 ---

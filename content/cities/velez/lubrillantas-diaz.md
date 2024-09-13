@@ -1,5 +1,5 @@
 ---
 title: "Lubrillantas Diaz"
 url: /velez/lubrillantas-diaz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

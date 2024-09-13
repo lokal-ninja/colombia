@@ -1,5 +1,5 @@
 ---
 title: "Ambientes Cerámicos"
 url: /barbosa/ambientes-ceramicos/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

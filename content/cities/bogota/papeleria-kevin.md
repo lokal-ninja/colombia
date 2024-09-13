@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Kevin"
 url: /bogota/papeleria-kevin/
-shop: Schreibwaren
+shop: material de oficina
 ---

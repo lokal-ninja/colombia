@@ -1,5 +1,5 @@
 ---
 title: "HyM"
 url: /chia/hym/
-shop: Eisenwaren
+shop: hardware
 ---

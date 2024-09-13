@@ -1,5 +1,5 @@
 ---
 title: "Angie"
 url: /velez/angie/
-shop: Kramladen
+shop: tienda de variedades
 ---

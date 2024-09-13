@@ -1,5 +1,5 @@
 ---
 title: "Construmars"
 url: /barbosa/construmars/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

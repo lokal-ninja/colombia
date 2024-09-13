@@ -1,5 +1,5 @@
 ---
 title: "BC Batercol"
 url: /barrios-unidos/bc-batercol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

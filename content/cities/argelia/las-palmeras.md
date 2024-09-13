@@ -1,5 +1,5 @@
 ---
 title: "LAS PALMERAS"
 url: /argelia/las-palmeras/
-shop: Lebensmittel
+shop: comodidad
 ---

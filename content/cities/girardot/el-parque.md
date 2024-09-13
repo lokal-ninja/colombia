@@ -1,5 +1,5 @@
 ---
 title: "El Parque"
 url: /girardot/el-parque/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

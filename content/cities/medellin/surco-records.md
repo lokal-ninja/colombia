@@ -1,5 +1,5 @@
 ---
 title: "Surco Records"
 url: /medellin/surco-records/
-shop: Musik
+shop: música
 ---

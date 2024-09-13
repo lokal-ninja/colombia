@@ -1,5 +1,5 @@
 ---
 title: "MASCOTECNO"
 url: /medellin/mascotecno/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coortiendas"
 url: /bogota/coortiendas/
-shop: Lebensmittel
+shop: comodidad
 ---

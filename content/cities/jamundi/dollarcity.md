@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /jamundi/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

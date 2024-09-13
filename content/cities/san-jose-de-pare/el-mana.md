@@ -1,5 +1,5 @@
 ---
 title: "El Mana"
 url: /san-jose-de-pare/el-mana/
-shop: Bäckerei
+shop: panadería
 ---

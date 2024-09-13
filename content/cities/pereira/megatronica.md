@@ -1,5 +1,5 @@
 ---
 title: "Megatrónica"
 url: /pereira/megatronica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

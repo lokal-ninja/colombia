@@ -1,5 +1,5 @@
 ---
 title: "Oxford"
 url: /pereira/oxford/
-shop: Schuhe
+shop: zapatos
 ---

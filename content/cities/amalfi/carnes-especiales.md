@@ -1,5 +1,5 @@
 ---
 title: "Carnes especiales"
 url: /amalfi/carnes-especiales/
-shop: Metzgerei
+shop: carnicero
 ---

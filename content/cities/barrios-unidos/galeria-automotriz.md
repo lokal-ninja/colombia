@@ -1,5 +1,5 @@
 ---
 title: "Galeria Automotriz"
 url: /barrios-unidos/galeria-automotriz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guero"
 url: /pereira/guero/
-shop: Handy
+shop: teléfono móvil
 ---

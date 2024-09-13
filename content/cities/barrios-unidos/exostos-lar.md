@@ -1,5 +1,5 @@
 ---
 title: "Exostos-Lar"
 url: /barrios-unidos/exostos-lar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

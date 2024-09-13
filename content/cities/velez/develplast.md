@@ -1,5 +1,5 @@
 ---
 title: "Develplast"
 url: /velez/develplast/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio el Ahorro"
 url: /castilla-la-nueva/autoservicio-el-ahorro/
-shop: Supermarkt
+shop: supermercado
 ---

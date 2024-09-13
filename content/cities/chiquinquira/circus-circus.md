@@ -1,5 +1,5 @@
 ---
 title: "Circus Circus"
 url: /chiquinquira/circus-circus/
-shop: Babysachen
+shop: artículos para bebés
 ---

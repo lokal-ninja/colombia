@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /guasca/ara/
-shop: Supermarkt
+shop: supermercado
 ---

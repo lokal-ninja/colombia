@@ -1,5 +1,5 @@
 ---
 title: "CASA BLANCA STORE"
 url: /buenaventura/casa-blanca-store/
-shop: Spirituosen
+shop: alcohol
 ---

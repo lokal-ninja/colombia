@@ -1,5 +1,5 @@
 ---
 title: "Energiteca"
 url: /pereira/energiteca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lanplast"
 url: /barrios-unidos/lanplast/
-shop: Dorfladen
+shop: tienda rural
 ---

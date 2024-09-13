@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /chia/vulcanizadora/
-shop: Reifen
+shop: neumáticos
 ---

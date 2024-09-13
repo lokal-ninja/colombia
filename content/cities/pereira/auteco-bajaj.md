@@ -1,5 +1,5 @@
 ---
 title: "Auteco Bajaj"
 url: /pereira/auteco-bajaj/
-shop: Allgemein
+shop: general
 ---

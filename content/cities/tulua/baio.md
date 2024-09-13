@@ -1,5 +1,5 @@
 ---
 title: "Baio"
 url: /tulua/baio/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estrena"
 url: /barrios-unidos/estrena/
-shop: Dorfladen
+shop: tienda rural
 ---

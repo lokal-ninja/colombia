@@ -1,5 +1,5 @@
 ---
 title: "Valentina"
 url: /centro/valentina/
-shop: Friseur
+shop: peluquería
 ---

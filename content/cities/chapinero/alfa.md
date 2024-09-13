@@ -1,5 +1,5 @@
 ---
 title: "Alfa"
 url: /chapinero/alfa/
-shop: Fußböden
+shop: suelos
 ---

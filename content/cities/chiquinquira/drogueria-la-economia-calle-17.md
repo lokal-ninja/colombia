@@ -1,5 +1,5 @@
 ---
 title: "Drogueria La Economia"
 url: /chiquinquira/drogueria-la-economia-calle-17/
-shop: Drogerie
+shop: farmacia
 ---

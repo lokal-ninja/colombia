@@ -1,5 +1,5 @@
 ---
 title: "Palacio's Nails"
 url: /pereira/palacios-nails/
-shop: Kosmetik
+shop: cosméticos
 ---

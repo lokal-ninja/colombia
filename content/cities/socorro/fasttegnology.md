@@ -1,5 +1,5 @@
 ---
 title: "FASTTEGNOLOGY"
 url: /socorro/fasttegnology/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Cortes"
 url: /barrios-unidos/autoservicio-cortes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

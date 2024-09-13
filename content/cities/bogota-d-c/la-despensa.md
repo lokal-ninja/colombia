@@ -1,5 +1,5 @@
 ---
 title: "La Despensa"
 url: /bogota-d-c/la-despensa/
-shop: Supermarkt
+shop: supermercado
 ---

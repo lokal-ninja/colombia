@@ -1,5 +1,5 @@
 ---
 title: "Maloka"
 url: /medellin/maloka/
-shop: Lebensmittel
+shop: comodidad
 ---

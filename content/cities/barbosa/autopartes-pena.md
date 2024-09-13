@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Peña"
 url: /barbosa/autopartes-pena/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ikata"
 url: /chia/ikata/
-shop: Allgemein
+shop: general
 ---

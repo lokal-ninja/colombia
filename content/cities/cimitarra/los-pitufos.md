@@ -1,5 +1,5 @@
 ---
 title: "Los Pitufos"
 url: /cimitarra/los-pitufos/
-shop: Kramladen
+shop: tienda de variedades
 ---

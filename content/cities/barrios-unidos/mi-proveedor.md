@@ -1,5 +1,5 @@
 ---
 title: "Mi Proveedor"
 url: /barrios-unidos/mi-proveedor/
-shop: Eisenwaren
+shop: hardware
 ---

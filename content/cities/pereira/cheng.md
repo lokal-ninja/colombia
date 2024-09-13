@@ -1,5 +1,5 @@
 ---
 title: "Cheng"
 url: /pereira/cheng/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

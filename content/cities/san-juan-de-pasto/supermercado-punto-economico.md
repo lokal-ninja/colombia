@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Punto Economico"
 url: /san-juan-de-pasto/supermercado-punto-economico/
-shop: Supermarkt
+shop: supermercado
 ---

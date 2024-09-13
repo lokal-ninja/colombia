@@ -1,5 +1,5 @@
 ---
 title: "soluciones tegnologicas"
 url: /socorro/soluciones-tegnologicas/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "envia"
 url: /chiquinquira/envia/
-shop: Schreibwaren
+shop: material de oficina
 ---

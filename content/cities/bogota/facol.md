@@ -1,5 +1,5 @@
 ---
 title: "Facol"
 url: /bogota/facol/
-shop: Kleidung
+shop: ropa
 ---

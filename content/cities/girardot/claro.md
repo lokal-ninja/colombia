@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /girardot/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturalma"
 url: /pereira/naturalma/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

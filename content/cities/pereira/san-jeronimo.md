@@ -1,5 +1,5 @@
 ---
 title: "San Jeronimo"
 url: /pereira/san-jeronimo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

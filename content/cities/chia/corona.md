@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /chia/corona/
-shop: Badezimmer
+shop: cuarto de baño
 ---

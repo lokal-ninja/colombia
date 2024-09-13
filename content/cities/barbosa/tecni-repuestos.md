@@ -1,5 +1,5 @@
 ---
 title: "Tecni Repuestos"
 url: /barbosa/tecni-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

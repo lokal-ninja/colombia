@@ -1,5 +1,5 @@
 ---
 title: "Pan Especial"
 url: /sabaneta-antioquia/pan-especial/
-shop: Bäckerei
+shop: panadería
 ---

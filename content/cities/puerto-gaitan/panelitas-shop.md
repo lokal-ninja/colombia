@@ -1,5 +1,5 @@
 ---
 title: "Panelitas Shop"
 url: /puerto-gaitan/panelitas-shop/
-shop: Handy
+shop: teléfono móvil
 ---

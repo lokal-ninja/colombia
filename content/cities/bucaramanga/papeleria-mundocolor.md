@@ -1,5 +1,5 @@
 ---
 title: "Papelería MundoColor"
 url: /bucaramanga/papeleria-mundocolor/
-shop: Schreibwaren
+shop: material de oficina
 ---

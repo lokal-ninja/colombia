@@ -1,5 +1,5 @@
 ---
 title: "Shibumiteca JA"
 url: /barrios-unidos/shibumiteca-ja/
-shop: Autoteile
+shop: piezas de automóviles
 ---

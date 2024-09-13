@@ -1,5 +1,5 @@
 ---
 title: "florencia"
 url: /bogota-d-c/florencia/
-shop: Supermarkt
+shop: supermercado
 ---

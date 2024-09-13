@@ -1,5 +1,5 @@
 ---
 title: "Optica Myvision"
 url: /barrios-unidos/optica-myvision/
-shop: Optiker
+shop: óptico
 ---

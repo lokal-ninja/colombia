@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria - mercadany"
 url: /engativa/cigarreria-mercadany/
-shop: Kramladen
+shop: tienda de variedades
 ---

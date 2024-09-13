@@ -1,5 +1,5 @@
 ---
 title: "TC77-Serviauto"
 url: /serviauto/tc77-serviauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

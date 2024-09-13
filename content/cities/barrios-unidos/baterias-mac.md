@@ -1,5 +1,5 @@
 ---
 title: "Baterias MAC"
 url: /barrios-unidos/baterias-mac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

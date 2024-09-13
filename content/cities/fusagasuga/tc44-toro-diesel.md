@@ -1,5 +1,5 @@
 ---
 title: "TC44-Toro diesel"
 url: /fusagasuga/tc44-toro-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

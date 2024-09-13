@@ -1,5 +1,5 @@
 ---
 title: "Papelería Horizonte"
 url: /barbosa/papeleria-horizonte/
-shop: Schreibwaren
+shop: material de oficina
 ---

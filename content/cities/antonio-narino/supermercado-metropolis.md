@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Metropolis"
 url: /antonio-narino/supermercado-metropolis/
-shop: Supermarkt
+shop: supermercado
 ---

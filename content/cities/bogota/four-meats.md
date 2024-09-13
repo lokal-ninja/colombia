@@ -1,5 +1,5 @@
 ---
 title: "Four Meats"
 url: /bogota/four-meats/
-shop: Metzgerei
+shop: carnicero
 ---

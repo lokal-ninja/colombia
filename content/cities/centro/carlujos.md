@@ -1,5 +1,5 @@
 ---
 title: "Carlujos"
 url: /centro/carlujos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multistop"
 url: /barrios-unidos/multistop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

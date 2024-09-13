@@ -1,5 +1,5 @@
 ---
 title: "TC100-Laboratorio sincrodiesel"
 url: /fusagasuga/tc100-laboratorio-sincrodiesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

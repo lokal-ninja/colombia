@@ -1,5 +1,5 @@
 ---
 title: "Calzado Elba"
 url: /barbosa/calzado-elba/
-shop: Schuhe
+shop: zapatos
 ---

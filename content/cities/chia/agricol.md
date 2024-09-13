@@ -1,5 +1,5 @@
 ---
 title: "Agricol"
 url: /chia/agricol/
-shop: Landwirtschaftlich
+shop: agraria
 ---

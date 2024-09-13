@@ -1,5 +1,5 @@
 ---
 title: "Donde Moi"
 url: /chia/donde-moi/
-shop: Supermarkt
+shop: supermercado
 ---

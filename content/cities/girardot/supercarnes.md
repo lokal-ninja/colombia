@@ -1,5 +1,5 @@
 ---
 title: "Supercarnes"
 url: /girardot/supercarnes/
-shop: Metzgerei
+shop: carnicero
 ---

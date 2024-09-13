@@ -1,5 +1,5 @@
 ---
 title: "Laferre"
 url: /barrios-unidos/laferre/
-shop: Autoteile
+shop: piezas de automóviles
 ---

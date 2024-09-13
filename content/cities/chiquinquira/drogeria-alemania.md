@@ -1,5 +1,5 @@
 ---
 title: "Drogeria Alemania"
 url: /chiquinquira/drogeria-alemania/
-shop: Drogerie
+shop: farmacia
 ---

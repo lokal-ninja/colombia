@@ -1,5 +1,5 @@
 ---
 title: "Importadora Chevromotor"
 url: /barrios-unidos/importadora-chevromotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

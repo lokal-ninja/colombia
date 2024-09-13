@@ -1,5 +1,5 @@
 ---
 title: "Vani Over"
 url: /pereira/vani-over/
-shop: Reisebüro
+shop: agencia de viajes
 ---

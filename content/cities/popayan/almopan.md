@@ -1,5 +1,5 @@
 ---
 title: "Almopán"
 url: /popayan/almopan/
-shop: Konditorei
+shop: pastelería
 ---

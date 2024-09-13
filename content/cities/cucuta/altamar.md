@@ -1,5 +1,5 @@
 ---
 title: "Altamar"
 url: /cucuta/altamar/
-shop: Supermarkt
+shop: supermercado
 ---

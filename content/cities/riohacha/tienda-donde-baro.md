@@ -1,5 +1,5 @@
 ---
 title: "tienda donde baro"
 url: /riohacha/tienda-donde-baro/
-shop: Lebensmittel
+shop: comodidad
 ---

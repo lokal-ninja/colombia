@@ -1,5 +1,5 @@
 ---
 title: "Respuestos e Impresiones"
 url: /puerto-araujo/respuestos-e-impresiones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McA"
 url: /bogota/mca/
-shop: Modehaus
+shop: tienda
 ---

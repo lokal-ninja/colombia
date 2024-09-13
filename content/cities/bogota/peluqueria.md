@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /bogota/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

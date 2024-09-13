@@ -1,5 +1,5 @@
 ---
 title: "Estrellas del Cabello"
 url: /bogota/estrellas-del-cabello/
-shop: Friseur
+shop: peluquería
 ---

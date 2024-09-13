@@ -1,5 +1,5 @@
 ---
 title: "Tool Store"
 url: /pereira/tool-store/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accesorios Max Moto"
 url: /barbosa/accesorios-max-moto/
-shop: Allgemein
+shop: general
 ---

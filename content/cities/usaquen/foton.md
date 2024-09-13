@@ -1,5 +1,5 @@
 ---
 title: "Foton"
 url: /usaquen/foton/
-shop: Autohaus
+shop: coche
 ---

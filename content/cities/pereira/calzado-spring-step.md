@@ -1,5 +1,5 @@
 ---
 title: "Calzado Spring Step"
 url: /pereira/calzado-spring-step/
-shop: Schuhe
+shop: zapatos
 ---

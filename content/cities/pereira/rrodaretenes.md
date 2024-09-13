@@ -1,5 +1,5 @@
 ---
 title: "Rrodaretenes"
 url: /pereira/rrodaretenes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

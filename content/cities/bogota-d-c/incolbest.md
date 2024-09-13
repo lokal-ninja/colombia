@@ -1,5 +1,5 @@
 ---
 title: "Incolbest"
 url: /bogota-d-c/incolbest/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

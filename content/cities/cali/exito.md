@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /cali/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

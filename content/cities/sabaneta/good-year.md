@@ -1,5 +1,5 @@
 ---
 title: "Good Year"
 url: /sabaneta/good-year/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

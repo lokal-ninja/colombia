@@ -1,5 +1,5 @@
 ---
 title: "TISU"
 url: /bogota/tisu/
-shop: Schreibwaren
+shop: material de oficina
 ---

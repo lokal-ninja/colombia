@@ -1,5 +1,5 @@
 ---
 title: "La católica"
 url: /girardot/la-catolica/
-shop: Schreibwaren
+shop: material de oficina
 ---

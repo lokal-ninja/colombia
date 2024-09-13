@@ -1,5 +1,5 @@
 ---
 title: "MetroAcabados"
 url: /barbosa/metroacabados/
-shop: Fliesen
+shop: baldosas
 ---

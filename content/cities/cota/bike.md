@@ -1,5 +1,5 @@
 ---
 title: "Bike"
 url: /cota/bike/
-shop: Fahrrad
+shop: bicicleta
 ---

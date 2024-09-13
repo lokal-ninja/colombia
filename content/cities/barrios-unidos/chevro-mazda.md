@@ -1,5 +1,5 @@
 ---
 title: "Chevro-Mazda"
 url: /barrios-unidos/chevro-mazda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

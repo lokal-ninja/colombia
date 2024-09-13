@@ -1,5 +1,5 @@
 ---
 title: "Magifoto"
 url: /pereira/magifoto/
-shop: Kopieren
+shop: copyshop
 ---

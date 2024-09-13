@@ -1,5 +1,5 @@
 ---
 title: "Dalinet . comunicaciones"
 url: /engativa/dalinet-comunicaciones/
-shop: Kramladen
+shop: tienda de variedades
 ---

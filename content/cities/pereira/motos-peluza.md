@@ -1,5 +1,5 @@
 ---
 title: "Motos Peluza"
 url: /pereira/motos-peluza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

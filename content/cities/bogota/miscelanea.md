@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea"
 url: /bogota/miscelanea/
-shop: Schreibwaren
+shop: material de oficina
 ---

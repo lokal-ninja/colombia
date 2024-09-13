@@ -1,5 +1,5 @@
 ---
 title: "DISFRACES SEXYS EN IBAGUE"
 url: /ibague/disfraces-sexys-en-ibague/
-shop: Warenhaus
+shop: grandes almacenes
 ---

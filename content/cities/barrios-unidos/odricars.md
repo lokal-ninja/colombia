@@ -1,5 +1,5 @@
 ---
 title: "Odricars"
 url: /barrios-unidos/odricars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

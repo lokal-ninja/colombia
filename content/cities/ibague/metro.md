@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /ibague/metro/
-shop: Supermarkt
+shop: supermercado
 ---

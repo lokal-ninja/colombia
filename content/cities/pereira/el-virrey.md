@@ -1,5 +1,5 @@
 ---
 title: "El Virrey"
 url: /pereira/el-virrey/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciclichor"
 url: /chia/ciclichor/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speed Forros"
 url: /pereira/speed-forros/
-shop: Allgemein
+shop: general
 ---

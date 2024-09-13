@@ -1,5 +1,5 @@
 ---
 title: "Drogeria"
 url: /chiquinquira/drogeria/
-shop: Drogerie
+shop: farmacia
 ---

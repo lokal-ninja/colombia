@@ -1,5 +1,5 @@
 ---
 title: "Bogocleta"
 url: /bogota-d-c/bogocleta/
-shop: Fahrrad
+shop: bicicleta
 ---

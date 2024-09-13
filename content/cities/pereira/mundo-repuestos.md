@@ -1,5 +1,5 @@
 ---
 title: "Mundo Repuestos"
 url: /pereira/mundo-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

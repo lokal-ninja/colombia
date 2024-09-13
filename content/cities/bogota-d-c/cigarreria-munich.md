@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria Munich"
 url: /bogota-d-c/cigarreria-munich/
-shop: Tabak
+shop: tabaco
 ---

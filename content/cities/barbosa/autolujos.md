@@ -1,5 +1,5 @@
 ---
 title: "Autolujos"
 url: /barbosa/autolujos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

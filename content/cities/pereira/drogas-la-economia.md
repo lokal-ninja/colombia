@@ -1,5 +1,5 @@
 ---
 title: "Drogas la Economia"
 url: /pereira/drogas-la-economia/
-shop: Drogerie
+shop: farmacia
 ---

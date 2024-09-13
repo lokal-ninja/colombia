@@ -1,5 +1,5 @@
 ---
 title: "Standard Compraventa"
 url: /pereira/standard-compraventa/
-shop: Leiher
+shop: prestamista
 ---

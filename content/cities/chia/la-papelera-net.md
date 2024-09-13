@@ -1,5 +1,5 @@
 ---
 title: "La Papelera.Net"
 url: /chia/la-papelera-net/
-shop: Schreibwaren
+shop: material de oficina
 ---

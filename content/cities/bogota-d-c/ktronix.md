@@ -1,5 +1,5 @@
 ---
 title: "Ktronix"
 url: /bogota-d-c/ktronix/
-shop: Elektronik
+shop: electrónica
 ---

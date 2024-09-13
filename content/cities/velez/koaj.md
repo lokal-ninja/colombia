@@ -1,5 +1,5 @@
 ---
 title: "Koaj"
 url: /velez/koaj/
-shop: Kleidung
+shop: ropa
 ---

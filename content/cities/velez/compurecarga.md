@@ -1,5 +1,5 @@
 ---
 title: "CompuRecarga"
 url: /velez/compurecarga/
-shop: Schreibwaren
+shop: material de oficina
 ---

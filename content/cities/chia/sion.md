@@ -1,5 +1,5 @@
 ---
 title: "Sion"
 url: /chia/sion/
-shop: Allgemein
+shop: general
 ---

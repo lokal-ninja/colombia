@@ -1,5 +1,5 @@
 ---
 title: "Miscelanea Yoly's"
 url: /velez/miscelanea-yolys/
-shop: Kramladen
+shop: tienda de variedades
 ---

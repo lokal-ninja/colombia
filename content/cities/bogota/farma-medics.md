@@ -1,5 +1,5 @@
 ---
 title: "FarMa Medics"
 url: /bogota/farma-medics/
-shop: Drogerie
+shop: farmacia
 ---

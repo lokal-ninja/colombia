@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /medellin/jumbo/
-shop: Supermarkt
+shop: supermercado
 ---

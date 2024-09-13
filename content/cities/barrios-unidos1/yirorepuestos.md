@@ -1,5 +1,5 @@
 ---
 title: "Yirorepuestos"
 url: /barrios-unidos1/yirorepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

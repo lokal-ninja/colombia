@@ -1,5 +1,5 @@
 ---
 title: "Energy"
 url: /barrios-unidos/energy/
-shop: Autoteile
+shop: piezas de automóviles
 ---

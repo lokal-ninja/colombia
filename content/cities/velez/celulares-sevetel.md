@@ -1,5 +1,5 @@
 ---
 title: "Celulares Sevetel"
 url: /velez/celulares-sevetel/
-shop: Handy
+shop: teléfono móvil
 ---

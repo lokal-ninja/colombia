@@ -1,5 +1,5 @@
 ---
 title: "Importadora Celeste"
 url: /barrios-unidos/importadora-celeste/
-shop: Autoteile
+shop: piezas de automóviles
 ---

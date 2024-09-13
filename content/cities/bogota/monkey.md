@@ -1,5 +1,5 @@
 ---
 title: "MONKEY"
 url: /bogota/monkey/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreinox Valledupar"
 url: /valledupar/ferreinox-valledupar/
-shop: Eisenwaren
+shop: hardware
 ---

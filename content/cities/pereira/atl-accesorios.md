@@ -1,5 +1,5 @@
 ---
 title: "ATL Accesorios"
 url: /pereira/atl-accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

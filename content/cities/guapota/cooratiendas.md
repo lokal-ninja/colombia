@@ -1,5 +1,5 @@
 ---
 title: "COORATIENDAS"
 url: /guapota/cooratiendas/
-shop: Supermarkt
+shop: supermercado
 ---

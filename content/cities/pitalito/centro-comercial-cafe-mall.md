@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Café Mall"
 url: /pitalito/centro-comercial-cafe-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

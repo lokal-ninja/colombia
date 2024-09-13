@@ -1,5 +1,5 @@
 ---
 title: "Catacreativa"
 url: /armenia/catacreativa/
-shop: Kunst
+shop: arte
 ---

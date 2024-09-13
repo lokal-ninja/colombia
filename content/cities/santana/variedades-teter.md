@@ -1,5 +1,5 @@
 ---
 title: "Variedades Teter"
 url: /santana/variedades-teter/
-shop: Kleidung
+shop: ropa
 ---

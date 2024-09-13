@@ -1,5 +1,5 @@
 ---
 title: "El Patrón"
 url: /bogota-d-c/el-patron/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luxury"
 url: /chia/luxury/
-shop: Autoteile
+shop: piezas de automóviles
 ---

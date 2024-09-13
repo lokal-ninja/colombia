@@ -1,5 +1,5 @@
 ---
 title: "La Fontana"
 url: /riohacha-la-guajira/la-fontana/
-shop: Bäckerei
+shop: panadería
 ---

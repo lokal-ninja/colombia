@@ -1,5 +1,5 @@
 ---
 title: "Pintumart"
 url: /bogota-d-c/pintumart/
-shop: Autoteile
+shop: piezas de automóviles
 ---

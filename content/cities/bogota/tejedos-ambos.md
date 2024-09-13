@@ -1,5 +1,5 @@
 ---
 title: "Tejedos Ambos"
 url: /bogota/tejedos-ambos/
-shop: Kleidung
+shop: ropa
 ---

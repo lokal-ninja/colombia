@@ -1,5 +1,5 @@
 ---
 title: "Azucar"
 url: /bogota-d-c/azucar/
-shop: Kleidung
+shop: ropa
 ---

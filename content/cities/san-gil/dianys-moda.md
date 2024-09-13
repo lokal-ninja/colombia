@@ -1,5 +1,5 @@
 ---
 title: "Dianys Moda"
 url: /san-gil/dianys-moda/
-shop: Kleidung
+shop: ropa
 ---

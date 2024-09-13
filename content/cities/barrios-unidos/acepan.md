@@ -1,5 +1,5 @@
 ---
 title: "Acepan"
 url: /barrios-unidos/acepan/
-shop: Lebensmittel
+shop: comodidad
 ---

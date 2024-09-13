@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores Frenos"
 url: /barrios-unidos/amortiguadores-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /ibague/volkswagen/
-shop: Autohaus
+shop: coche
 ---

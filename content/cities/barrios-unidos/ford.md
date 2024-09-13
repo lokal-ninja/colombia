@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /barrios-unidos/ford/
-shop: Autoteile
+shop: piezas de automóviles
 ---

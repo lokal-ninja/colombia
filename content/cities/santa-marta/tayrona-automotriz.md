@@ -1,5 +1,5 @@
 ---
 title: "Tayrona Automotriz"
 url: /santa-marta/tayrona-automotriz/
-shop: Autohaus
+shop: coche
 ---

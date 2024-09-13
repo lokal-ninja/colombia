@@ -1,5 +1,5 @@
 ---
 title: "El Bambazo"
 url: /chia/el-bambazo/
-shop: Spielzeug
+shop: juguetes
 ---

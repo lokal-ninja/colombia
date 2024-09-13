@@ -1,5 +1,5 @@
 ---
 title: "Prodiscos"
 url: /manizales/prodiscos/
-shop: Musik
+shop: música
 ---

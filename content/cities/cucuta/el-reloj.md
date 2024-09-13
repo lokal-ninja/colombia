@@ -1,5 +1,5 @@
 ---
 title: "el reloj"
 url: /cucuta/el-reloj/
-shop: Drogerie
+shop: farmacia
 ---

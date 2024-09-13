@@ -1,5 +1,5 @@
 ---
 title: "Fanny"
 url: /bogota/fanny/
-shop: Friseur
+shop: peluquería
 ---

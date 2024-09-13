@@ -1,5 +1,5 @@
 ---
 title: "Aquiles"
 url: /bogota/aquiles/
-shop: Warenhaus
+shop: grandes almacenes
 ---

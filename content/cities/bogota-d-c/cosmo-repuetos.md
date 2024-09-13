@@ -1,5 +1,5 @@
 ---
 title: "Cosmo Repuetos"
 url: /bogota-d-c/cosmo-repuetos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

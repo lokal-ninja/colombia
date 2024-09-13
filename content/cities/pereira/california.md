@@ -1,5 +1,5 @@
 ---
 title: "California"
 url: /pereira/california/
-shop: Bäckerei
+shop: panadería
 ---

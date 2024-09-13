@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Cabaña"
 url: /aquitania/tienda-la-cabana/
-shop: Lebensmittel
+shop: comodidad
 ---

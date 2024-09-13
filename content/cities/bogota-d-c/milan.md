@@ -1,5 +1,5 @@
 ---
 title: "Milan"
 url: /bogota-d-c/milan/
-shop: Bäckerei
+shop: panadería
 ---

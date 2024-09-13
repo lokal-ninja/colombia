@@ -1,5 +1,5 @@
 ---
 title: "Moda Bocce"
 url: /san-gil/moda-bocce/
-shop: Kleidung
+shop: ropa
 ---

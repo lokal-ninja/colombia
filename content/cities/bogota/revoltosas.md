@@ -1,5 +1,5 @@
 ---
 title: "Revoltosas"
 url: /bogota/revoltosas/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punto Transfe"
 url: /cucuta/punto-transfe/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Gran Viña"
 url: /barrios-unidos/la-gran-vina/
-shop: Bäckerei
+shop: panadería
 ---

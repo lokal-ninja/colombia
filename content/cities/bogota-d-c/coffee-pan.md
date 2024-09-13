@@ -1,5 +1,5 @@
 ---
 title: "Coffee Pan"
 url: /bogota-d-c/coffee-pan/
-shop: Bäckerei
+shop: panadería
 ---

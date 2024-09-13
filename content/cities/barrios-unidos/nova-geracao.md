@@ -1,5 +1,5 @@
 ---
 title: "Nova Geracao"
 url: /barrios-unidos/nova-geracao/
-shop: Autoteile
+shop: piezas de automóviles
 ---

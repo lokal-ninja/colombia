@@ -1,5 +1,5 @@
 ---
 title: "Celutodo"
 url: /jenesano/celutodo/
-shop: Handy
+shop: teléfono móvil
 ---

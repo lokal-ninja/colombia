@@ -1,5 +1,5 @@
 ---
 title: "ToDo"
 url: /pereira/todo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

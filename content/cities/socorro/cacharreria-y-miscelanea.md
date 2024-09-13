@@ -1,5 +1,5 @@
 ---
 title: "Cacharrería y Miscelanea"
 url: /socorro/cacharreria-y-miscelanea/
-shop: Schreibwaren
+shop: material de oficina
 ---

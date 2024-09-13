@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /monteria/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

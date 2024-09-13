@@ -1,5 +1,5 @@
 ---
 title: "La Campiña"
 url: /floresta-boyaca/la-campina/
-shop: Supermarkt
+shop: supermercado
 ---

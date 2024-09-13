@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Colsubsidio"
 url: /bogota-d-c/supermercado-colsubsidio/
-shop: Supermarkt
+shop: supermercado
 ---

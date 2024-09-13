@@ -1,5 +1,5 @@
 ---
 title: "Comcel"
 url: /bogota-d-c/comcel/
-shop: Handy
+shop: teléfono móvil
 ---

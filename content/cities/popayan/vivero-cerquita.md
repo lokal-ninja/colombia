@@ -1,5 +1,5 @@
 ---
 title: "VIVERO CERQUITA"
 url: /popayan/vivero-cerquita/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /sogamoso/exito/
-shop: Supermarkt
+shop: supermercado
 ---

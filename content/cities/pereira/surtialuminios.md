@@ -1,5 +1,5 @@
 ---
 title: "SurtiAluminios"
 url: /pereira/surtialuminios/
-shop: Allgemein
+shop: general
 ---

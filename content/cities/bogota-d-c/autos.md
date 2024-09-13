@@ -1,5 +1,5 @@
 ---
 title: "Autos"
 url: /bogota-d-c/autos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

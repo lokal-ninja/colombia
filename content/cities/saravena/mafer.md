@@ -1,5 +1,5 @@
 ---
 title: "Mafer"
 url: /saravena/mafer/
-shop: Schreibwaren
+shop: material de oficina
 ---

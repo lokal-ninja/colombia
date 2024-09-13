@@ -1,5 +1,5 @@
 ---
 title: "Almendro"
 url: /bogota-d-c/almendro/
-shop: Lebensmittel
+shop: comodidad
 ---

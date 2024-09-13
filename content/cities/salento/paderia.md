@@ -1,5 +1,5 @@
 ---
 title: "Paderia"
 url: /salento/paderia/
-shop: Bäckerei
+shop: panadería
 ---

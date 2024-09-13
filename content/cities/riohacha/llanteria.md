@@ -1,5 +1,5 @@
 ---
 title: "Llanteria"
 url: /riohacha/llanteria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

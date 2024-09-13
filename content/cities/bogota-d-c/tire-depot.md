@@ -1,5 +1,5 @@
 ---
 title: "Tire Depot"
 url: /bogota-d-c/tire-depot/
-shop: Reifen
+shop: neumáticos
 ---

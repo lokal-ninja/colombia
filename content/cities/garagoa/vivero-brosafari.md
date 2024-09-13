@@ -1,5 +1,5 @@
 ---
 title: "Vivero brosafari"
 url: /garagoa/vivero-brosafari/
-shop: Garten-Center
+shop: centro de jardinería
 ---

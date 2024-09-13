@@ -1,5 +1,5 @@
 ---
 title: "Ginna"
 url: /velez/ginna/
-shop: Friseur
+shop: peluquería
 ---

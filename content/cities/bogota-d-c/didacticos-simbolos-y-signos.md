@@ -1,5 +1,5 @@
 ---
 title: "Didácticos Símbolos y Signos"
 url: /bogota-d-c/didacticos-simbolos-y-signos/
-shop: Schreibwaren
+shop: material de oficina
 ---

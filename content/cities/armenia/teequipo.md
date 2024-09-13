@@ -1,5 +1,5 @@
 ---
 title: "Teequipo"
 url: /armenia/teequipo/
-shop: Küchen
+shop: cocina
 ---

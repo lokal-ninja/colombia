@@ -1,5 +1,5 @@
 ---
 title: "Spartans"
 url: /chia/spartans/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Cerámico CORONA"
 url: /girardot/centro-ceramico-corona/
-shop: Eisenwaren
+shop: hardware
 ---

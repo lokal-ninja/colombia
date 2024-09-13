@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /bogota/ara/
-shop: Kramladen
+shop: tienda de variedades
 ---

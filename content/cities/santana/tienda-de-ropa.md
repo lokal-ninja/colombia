@@ -1,5 +1,5 @@
 ---
 title: "Tienda de ropa"
 url: /santana/tienda-de-ropa/
-shop: Kleidung
+shop: ropa
 ---

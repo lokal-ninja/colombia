@@ -1,5 +1,5 @@
 ---
 title: "Glomar"
 url: /velez/glomar/
-shop: Möbel
+shop: muebles
 ---

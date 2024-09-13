@@ -1,5 +1,5 @@
 ---
 title: "Varimec Terapias de Estética"
 url: /pereira/varimec-terapias-de-estetica/
-shop: Massage
+shop: masaje
 ---

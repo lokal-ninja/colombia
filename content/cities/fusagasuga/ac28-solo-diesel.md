@@ -1,5 +1,5 @@
 ---
 title: "Ac28- Solo diesel"
 url: /fusagasuga/ac28-solo-diesel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Collezzioni"
 url: /bogota/le-collezzioni/
-shop: Kleidung
+shop: ropa
 ---

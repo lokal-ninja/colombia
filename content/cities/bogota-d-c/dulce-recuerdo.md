@@ -1,5 +1,5 @@
 ---
 title: "Dulce Recuerdo"
 url: /bogota-d-c/dulce-recuerdo/
-shop: Konditorei
+shop: pastelería
 ---

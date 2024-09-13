@@ -1,5 +1,5 @@
 ---
 title: "Cabinas Servicopias"
 url: /bogota-d-c/cabinas-servicopias/
-shop: Kopieren
+shop: copyshop
 ---

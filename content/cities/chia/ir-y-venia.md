@@ -1,5 +1,5 @@
 ---
 title: "Ir Y Venia"
 url: /chia/ir-y-venia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

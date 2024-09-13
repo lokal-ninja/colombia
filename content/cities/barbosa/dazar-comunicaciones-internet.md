@@ -1,5 +1,5 @@
 ---
 title: "Dazar comunicaciones internet"
 url: /barbosa/dazar-comunicaciones-internet/
-shop: Handy
+shop: teléfono móvil
 ---

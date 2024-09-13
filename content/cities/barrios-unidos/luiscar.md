@@ -1,5 +1,5 @@
 ---
 title: "Luiscar"
 url: /barrios-unidos/luiscar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

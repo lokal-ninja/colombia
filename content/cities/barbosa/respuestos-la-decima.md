@@ -1,5 +1,5 @@
 ---
 title: "Respuestos La Décima"
 url: /barbosa/respuestos-la-decima/
-shop: Autoteile
+shop: piezas de automóviles
 ---

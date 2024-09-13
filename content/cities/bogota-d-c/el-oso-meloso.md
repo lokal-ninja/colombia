@@ -1,5 +1,5 @@
 ---
 title: "EL OSO MELOSO"
 url: /bogota-d-c/el-oso-meloso/
-shop: Kleidung
+shop: ropa
 ---

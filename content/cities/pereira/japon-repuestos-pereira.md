@@ -1,5 +1,5 @@
 ---
 title: "Japón Repuestos Pereira"
 url: /pereira/japon-repuestos-pereira/
-shop: Autoteile
+shop: piezas de automóviles
 ---

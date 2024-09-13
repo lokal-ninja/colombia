@@ -1,5 +1,5 @@
 ---
 title: "Avil Autos"
 url: /barrios-unidos/avil-autos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

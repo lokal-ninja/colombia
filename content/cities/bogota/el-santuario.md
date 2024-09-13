@@ -1,5 +1,5 @@
 ---
 title: "El Santuario"
 url: /bogota/el-santuario/
-shop: Andenken
+shop: regalo
 ---

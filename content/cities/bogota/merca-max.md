@@ -1,5 +1,5 @@
 ---
 title: "Merca Max"
 url: /bogota/merca-max/
-shop: Supermarkt
+shop: supermercado
 ---

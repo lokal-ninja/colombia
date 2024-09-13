@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /rionegro/jumbo/
-shop: Supermarkt
+shop: supermercado
 ---

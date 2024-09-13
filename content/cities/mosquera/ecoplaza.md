@@ -1,5 +1,5 @@
 ---
 title: "EcoPlaza"
 url: /mosquera/ecoplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gerva"
 url: /fusagasuga/gerva/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

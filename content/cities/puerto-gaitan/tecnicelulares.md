@@ -1,5 +1,5 @@
 ---
 title: "Tecnicelulares"
 url: /puerto-gaitan/tecnicelulares/
-shop: Handy
+shop: teléfono móvil
 ---

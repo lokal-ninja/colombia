@@ -1,5 +1,5 @@
 ---
 title: "Sleepy"
 url: /pereira/sleepy/
-shop: Betten
+shop: cama
 ---

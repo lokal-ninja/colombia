@@ -1,5 +1,5 @@
 ---
 title: "(Disautos)"
 url: /tunja/disautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

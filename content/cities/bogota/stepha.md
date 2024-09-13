@@ -1,5 +1,5 @@
 ---
 title: "Stepha"
 url: /bogota/stepha/
-shop: Friseur
+shop: peluquería
 ---

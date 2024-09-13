@@ -1,5 +1,5 @@
 ---
 title: "Opticalia"
 url: /chia/opticalia/
-shop: Optiker
+shop: óptico
 ---

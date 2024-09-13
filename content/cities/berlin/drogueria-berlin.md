@@ -1,5 +1,5 @@
 ---
 title: "Drogueria Berlin"
 url: /berlin/drogueria-berlin/
-shop: Drogerie
+shop: farmacia
 ---

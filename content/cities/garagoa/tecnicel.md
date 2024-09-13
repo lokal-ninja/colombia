@@ -1,5 +1,5 @@
 ---
 title: "Tecnicel"
 url: /garagoa/tecnicel/
-shop: Computer
+shop: ordenador
 ---

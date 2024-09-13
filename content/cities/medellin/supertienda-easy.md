@@ -1,5 +1,5 @@
 ---
 title: "Supertienda EASY"
 url: /medellin/supertienda-easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

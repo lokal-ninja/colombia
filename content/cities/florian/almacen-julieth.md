@@ -1,5 +1,5 @@
 ---
 title: "Almacen Julieth"
 url: /florian/almacen-julieth/
-shop: Kleidung
+shop: ropa
 ---

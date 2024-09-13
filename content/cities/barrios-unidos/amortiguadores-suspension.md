@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores Suspension"
 url: /barrios-unidos/amortiguadores-suspension/
-shop: Autoteile
+shop: piezas de automóviles
 ---

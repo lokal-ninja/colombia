@@ -1,5 +1,5 @@
 ---
 title: "Koaj"
 url: /bucaramanga/koaj/
-shop: Kleidung
+shop: ropa
 ---

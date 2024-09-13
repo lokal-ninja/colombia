@@ -1,5 +1,5 @@
 ---
 title: "Tienda Messy"
 url: /barrios-unidos/tienda-messy/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /pereira/ara/
-shop: Supermarkt
+shop: supermercado
 ---

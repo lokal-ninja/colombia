@@ -1,5 +1,5 @@
 ---
 title: "Little Biscuits"
 url: /bogota/little-biscuits/
-shop: Bäckerei
+shop: panadería
 ---

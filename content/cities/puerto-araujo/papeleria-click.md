@@ -1,5 +1,5 @@
 ---
 title: "Papelería Click"
 url: /puerto-araujo/papeleria-click/
-shop: Schreibwaren
+shop: material de oficina
 ---

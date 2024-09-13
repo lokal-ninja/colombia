@@ -1,5 +1,5 @@
 ---
 title: "Radiodores"
 url: /barrios-unidos/radiodores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

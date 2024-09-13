@@ -1,5 +1,5 @@
 ---
 title: "Mobile Accesorios Cali"
 url: /cali/mobile-accesorios-cali/
-shop: Handy
+shop: teléfono móvil
 ---

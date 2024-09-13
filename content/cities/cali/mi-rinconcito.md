@@ -1,5 +1,5 @@
 ---
 title: "Mi Rinconcito"
 url: /cali/mi-rinconcito/
-shop: Schreibwaren
+shop: material de oficina
 ---

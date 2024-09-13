@@ -1,5 +1,5 @@
 ---
 title: "Totras y Tortas"
 url: /medellin/totras-y-tortas/
-shop: Bäckerei
+shop: panadería
 ---

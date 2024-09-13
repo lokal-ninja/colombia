@@ -1,5 +1,5 @@
 ---
 title: "Rectificadora De Rines Montallantas"
 url: /barrios-unidos/rectificadora-de-rines-montallantas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

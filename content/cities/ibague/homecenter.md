@@ -1,5 +1,5 @@
 ---
 title: "Homecenter"
 url: /ibague/homecenter/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

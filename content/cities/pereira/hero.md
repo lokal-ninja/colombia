@@ -1,5 +1,5 @@
 ---
 title: "Hero"
 url: /pereira/hero/
-shop: Motorrad
+shop: motocicleta
 ---

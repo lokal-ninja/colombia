@@ -1,5 +1,5 @@
 ---
 title: "Leidy"
 url: /centro/leidy/
-shop: Friseur
+shop: peluquería
 ---

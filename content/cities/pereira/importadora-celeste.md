@@ -1,5 +1,5 @@
 ---
 title: "Importadora Celeste"
 url: /pereira/importadora-celeste/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FasHion"
 url: /chia/fashion/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dival"
 url: /chia/dival/
-shop: Kleidung
+shop: ropa
 ---

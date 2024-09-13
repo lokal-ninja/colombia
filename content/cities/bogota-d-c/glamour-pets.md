@@ -1,5 +1,5 @@
 ---
 title: "Glamour Pets"
 url: /bogota-d-c/glamour-pets/
-shop: Tiere
+shop: mascotas
 ---

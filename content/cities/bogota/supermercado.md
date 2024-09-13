@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /bogota/supermercado/
-shop: Lebensmittel
+shop: comodidad
 ---

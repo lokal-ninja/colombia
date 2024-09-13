@@ -1,5 +1,5 @@
 ---
 title: "NITIDOS"
 url: /buenaventura/nitidos/
-shop: Schreibwaren
+shop: material de oficina
 ---

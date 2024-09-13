@@ -1,5 +1,5 @@
 ---
 title: "Arequipe"
 url: /barbosa/arequipe/
-shop: Kleidung
+shop: ropa
 ---

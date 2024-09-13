@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /velez/tienda-2/
-shop: Lebensmittel
+shop: comodidad
 ---

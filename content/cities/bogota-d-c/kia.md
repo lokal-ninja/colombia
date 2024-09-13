@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /bogota-d-c/kia/
-shop: Autohaus
+shop: coche
 ---

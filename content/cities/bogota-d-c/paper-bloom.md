@@ -1,5 +1,5 @@
 ---
 title: "Paper Bloom"
 url: /bogota-d-c/paper-bloom/
-shop: Schreibwaren
+shop: material de oficina
 ---

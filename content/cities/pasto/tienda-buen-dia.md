@@ -1,5 +1,5 @@
 ---
 title: "Tienda buen Dia"
 url: /pasto/tienda-buen-dia/
-shop: Lebensmittel
+shop: comodidad
 ---

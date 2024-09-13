@@ -1,5 +1,5 @@
 ---
 title: "Remates Se le Tiene"
 url: /pereira/remates-se-le-tiene/
-shop: Kramladen
+shop: tienda de variedades
 ---

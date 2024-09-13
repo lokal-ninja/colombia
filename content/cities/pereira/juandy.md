@@ -1,5 +1,5 @@
 ---
 title: "Juandy"
 url: /pereira/juandy/
-shop: Kramladen
+shop: tienda de variedades
 ---

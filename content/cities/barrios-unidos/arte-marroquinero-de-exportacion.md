@@ -1,5 +1,5 @@
 ---
 title: "Arte Marroquinero de Exportación"
 url: /barrios-unidos/arte-marroquinero-de-exportacion/
-shop: Kleidung
+shop: ropa
 ---

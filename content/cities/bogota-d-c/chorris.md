@@ -1,5 +1,5 @@
 ---
 title: "Chorris"
 url: /bogota-d-c/chorris/
-shop: Kramladen
+shop: tienda de variedades
 ---

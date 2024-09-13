@@ -1,5 +1,5 @@
 ---
 title: "Ikonos"
 url: /popayan/ikonos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

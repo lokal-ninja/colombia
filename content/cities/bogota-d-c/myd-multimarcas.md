@@ -1,5 +1,5 @@
 ---
 title: "MYD Multimarcas"
 url: /bogota-d-c/myd-multimarcas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

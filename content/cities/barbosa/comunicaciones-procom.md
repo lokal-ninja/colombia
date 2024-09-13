@@ -1,5 +1,5 @@
 ---
 title: "Comunicaciones Procom"
 url: /barbosa/comunicaciones-procom/
-shop: Handy
+shop: teléfono móvil
 ---

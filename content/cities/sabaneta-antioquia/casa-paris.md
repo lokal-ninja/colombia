@@ -1,5 +1,5 @@
 ---
 title: "Casa Paris"
 url: /sabaneta-antioquia/casa-paris/
-shop: Kleidung
+shop: ropa
 ---

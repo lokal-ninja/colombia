@@ -1,5 +1,5 @@
 ---
 title: "CICLO RALLY"
 url: /bogota-d-c/ciclo-rally/
-shop: Fahrrad
+shop: bicicleta
 ---

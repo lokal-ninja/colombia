@@ -1,5 +1,5 @@
 ---
 title: "DelfiJacuzzis"
 url: /barbosa/delfijacuzzis/
-shop: Badezimmer
+shop: cuarto de baño
 ---

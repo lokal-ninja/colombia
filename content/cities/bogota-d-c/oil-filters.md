@@ -1,5 +1,5 @@
 ---
 title: "Oil Filter's"
 url: /bogota-d-c/oil-filters/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

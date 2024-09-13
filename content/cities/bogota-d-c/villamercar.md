@@ -1,5 +1,5 @@
 ---
 title: "Villamercar"
 url: /bogota-d-c/villamercar/
-shop: Supermarkt
+shop: supermercado
 ---

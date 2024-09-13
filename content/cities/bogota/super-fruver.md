@@ -1,5 +1,5 @@
 ---
 title: "Super Fruver"
 url: /bogota/super-fruver/
-shop: Supermarkt
+shop: supermercado
 ---

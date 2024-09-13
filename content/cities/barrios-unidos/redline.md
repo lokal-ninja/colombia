@@ -1,5 +1,5 @@
 ---
 title: "RedLine"
 url: /barrios-unidos/redline/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

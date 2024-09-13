@@ -1,5 +1,5 @@
 ---
 title: "...Atún"
 url: /salento/atun/
-shop: Kramladen
+shop: tienda de variedades
 ---

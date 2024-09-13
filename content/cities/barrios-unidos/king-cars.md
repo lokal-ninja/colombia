@@ -1,5 +1,5 @@
 ---
 title: "King Cars"
 url: /barrios-unidos/king-cars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

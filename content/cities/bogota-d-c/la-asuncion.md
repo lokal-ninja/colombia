@@ -1,5 +1,5 @@
 ---
 title: "La Asunción"
 url: /bogota-d-c/la-asuncion/
-shop: Bäckerei
+shop: panadería
 ---

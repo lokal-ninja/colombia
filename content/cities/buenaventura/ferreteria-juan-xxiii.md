@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Juan XXIII"
 url: /buenaventura/ferreteria-juan-xxiii/
-shop: Eisenwaren
+shop: hardware
 ---

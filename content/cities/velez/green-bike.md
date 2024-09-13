@@ -1,5 +1,5 @@
 ---
 title: "Green Bike"
 url: /velez/green-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

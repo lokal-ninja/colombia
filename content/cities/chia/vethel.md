@@ -1,5 +1,5 @@
 ---
 title: "Vethel"
 url: /chia/vethel/
-shop: Lebensmittel
+shop: comodidad
 ---

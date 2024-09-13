@@ -1,5 +1,5 @@
 ---
 title: "Calzado Diego"
 url: /velez/calzado-diego/
-shop: Schuhe
+shop: zapatos
 ---

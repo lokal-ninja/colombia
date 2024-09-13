@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Zipacentro"
 url: /zipaquira/centro-comercial-zipacentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

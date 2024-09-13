@@ -1,5 +1,5 @@
 ---
 title: "Taller Motos Barsan"
 url: /velez/taller-motos-barsan/
-shop: Motorrad
+shop: motocicleta
 ---

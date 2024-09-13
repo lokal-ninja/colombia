@@ -1,5 +1,5 @@
 ---
 title: "Papeluches"
 url: /villavicencio/papeluches/
-shop: Möbel
+shop: muebles
 ---

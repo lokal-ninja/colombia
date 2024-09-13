@@ -1,5 +1,5 @@
 ---
 title: "KYB"
 url: /barrios-unidos/kyb/
-shop: Autoteile
+shop: piezas de automóviles
 ---

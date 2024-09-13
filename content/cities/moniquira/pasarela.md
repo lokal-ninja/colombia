@@ -1,5 +1,5 @@
 ---
 title: "Pasarela"
 url: /moniquira/pasarela/
-shop: Schuhe
+shop: zapatos
 ---

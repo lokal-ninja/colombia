@@ -1,5 +1,5 @@
 ---
 title: "Amalfi"
 url: /amalfi/amalfi/
-shop: Leiher
+shop: prestamista
 ---

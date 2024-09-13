@@ -1,5 +1,5 @@
 ---
 title: "Fabrica de Empaques"
 url: /pereira/fabrica-de-empaques/
-shop: Autoteile
+shop: piezas de automóviles
 ---

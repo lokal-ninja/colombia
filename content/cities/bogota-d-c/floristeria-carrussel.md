@@ -1,5 +1,5 @@
 ---
 title: "Floristería Carrussel"
 url: /bogota-d-c/floristeria-carrussel/
-shop: Blumen
+shop: floristería
 ---

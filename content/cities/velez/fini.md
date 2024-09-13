@@ -1,5 +1,5 @@
 ---
 title: "Fini"
 url: /velez/fini/
-shop: Süßwaren
+shop: confitería
 ---

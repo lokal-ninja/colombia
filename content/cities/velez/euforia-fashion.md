@@ -1,5 +1,5 @@
 ---
 title: "Euforia Fashion"
 url: /velez/euforia-fashion/
-shop: Kleidung
+shop: ropa
 ---

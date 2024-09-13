@@ -1,5 +1,5 @@
 ---
 title: "Hunter Douglas"
 url: /bogota/hunter-douglas/
-shop: Raumausstattung
+shop: decoración interior
 ---

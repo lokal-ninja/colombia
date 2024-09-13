@@ -1,5 +1,5 @@
 ---
 title: "EL  MEJOR"
 url: /argelia/el-mejor/
-shop: Motorrad
+shop: motocicleta
 ---

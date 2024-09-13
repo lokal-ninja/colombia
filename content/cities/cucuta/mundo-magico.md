@@ -1,5 +1,5 @@
 ---
 title: "Mundo Magico"
 url: /cucuta/mundo-magico/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rio Repuestos"
 url: /bogota-d-c/rio-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

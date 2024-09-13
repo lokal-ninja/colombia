@@ -1,5 +1,5 @@
 ---
 title: "Automarcas"
 url: /barrios-unidos/automarcas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

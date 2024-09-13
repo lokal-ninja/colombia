@@ -1,5 +1,5 @@
 ---
 title: "Salsamentaria El Mana"
 url: /velez/salsamentaria-el-mana/
-shop: Metzgerei
+shop: carnicero
 ---

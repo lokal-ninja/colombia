@@ -1,5 +1,5 @@
 ---
 title: "El Ofertazo"
 url: /funza/el-ofertazo/
-shop: Kramladen
+shop: tienda de variedades
 ---

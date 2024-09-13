@@ -1,5 +1,5 @@
 ---
 title: "Dancars"
 url: /barrios-unidos/dancars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

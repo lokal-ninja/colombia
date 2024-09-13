@@ -1,5 +1,5 @@
 ---
 title: "Servilujos y Accesorios"
 url: /barrios-unidos/servilujos-y-accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

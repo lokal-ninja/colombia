@@ -1,5 +1,5 @@
 ---
 title: "Punto Movistar"
 url: /puerto-gaitan/punto-movistar/
-shop: Handy
+shop: teléfono móvil
 ---

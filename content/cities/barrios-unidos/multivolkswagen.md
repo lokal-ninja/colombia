@@ -1,5 +1,5 @@
 ---
 title: "Multivolkswagen"
 url: /barrios-unidos/multivolkswagen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

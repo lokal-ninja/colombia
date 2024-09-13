@@ -1,5 +1,5 @@
 ---
 title: "Venoestil SAS"
 url: /cali/venoestil-sas/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

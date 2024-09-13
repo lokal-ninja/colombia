@@ -1,5 +1,5 @@
 ---
 title: "Baterias"
 url: /chia/baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

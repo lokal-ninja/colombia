@@ -1,5 +1,5 @@
 ---
 title: "Danfercol"
 url: /barrios-unidos/danfercol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

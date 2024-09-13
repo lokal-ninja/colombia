@@ -1,5 +1,5 @@
 ---
 title: "Urbanizar Pereira S.A."
 url: /pereira/urbanizar-pereira-s-a/
-shop: Kleidung
+shop: ropa
 ---

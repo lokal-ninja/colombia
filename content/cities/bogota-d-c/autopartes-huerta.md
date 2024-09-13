@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Huerta"
 url: /bogota-d-c/autopartes-huerta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

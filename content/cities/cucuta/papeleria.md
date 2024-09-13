@@ -1,5 +1,5 @@
 ---
 title: "papeleria"
 url: /cucuta/papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

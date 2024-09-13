@@ -1,5 +1,5 @@
 ---
 title: "Tienda ARA"
 url: /dosquebradas/tienda-ara/
-shop: Supermarkt
+shop: supermercado
 ---

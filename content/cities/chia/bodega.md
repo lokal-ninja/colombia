@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /chia/bodega/
-shop: Lebensmittel
+shop: comodidad
 ---

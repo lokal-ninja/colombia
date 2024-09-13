@@ -1,5 +1,5 @@
 ---
 title: "Francineth Peluqueria"
 url: /restrepo/francineth-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

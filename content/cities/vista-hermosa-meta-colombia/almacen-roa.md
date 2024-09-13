@@ -1,5 +1,5 @@
 ---
 title: "Almacen Roa"
 url: /vista-hermosa-meta-colombia/almacen-roa/
-shop: Kleidung
+shop: ropa
 ---

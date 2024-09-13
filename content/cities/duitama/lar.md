@@ -1,5 +1,5 @@
 ---
 title: "Lar"
 url: /duitama/lar/
-shop: Schneiderei
+shop: sastre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora"
 url: /barrios-unidos/distribuidora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

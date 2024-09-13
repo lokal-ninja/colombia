@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /girardot/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

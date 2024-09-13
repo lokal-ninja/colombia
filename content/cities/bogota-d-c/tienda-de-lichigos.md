@@ -1,5 +1,5 @@
 ---
 title: "Tienda de lichigos"
 url: /bogota-d-c/tienda-de-lichigos/
-shop: Supermarkt
+shop: supermercado
 ---

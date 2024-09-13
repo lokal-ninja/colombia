@@ -1,5 +1,5 @@
 ---
 title: "Motor Diesel"
 url: /barrios-unidos/motor-diesel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

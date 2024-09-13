@@ -1,5 +1,5 @@
 ---
 title: "Servi-Mezclass"
 url: /bogota-d-c/servi-mezclass/
-shop: Eisenwaren
+shop: hardware
 ---

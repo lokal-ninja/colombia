@@ -1,5 +1,5 @@
 ---
 title: "Libros y Antigūedades"
 url: /chia/libros-y-antiguedades/
-shop: Bücher
+shop: libros
 ---

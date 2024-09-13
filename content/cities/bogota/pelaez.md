@@ -1,5 +1,5 @@
 ---
 title: "Pelaez"
 url: /bogota/pelaez/
-shop: Lebensmittel
+shop: comodidad
 ---

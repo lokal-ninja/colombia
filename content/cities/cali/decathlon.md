@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /cali/decathlon/
-shop: Sport
+shop: deportes
 ---

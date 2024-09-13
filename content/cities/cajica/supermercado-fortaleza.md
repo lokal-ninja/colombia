@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Fortaleza"
 url: /cajica/supermercado-fortaleza/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Avila C"
 url: /bogota-d-c/papeleria-avila-c/
-shop: Schreibwaren
+shop: material de oficina
 ---

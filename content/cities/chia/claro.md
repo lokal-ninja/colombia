@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /chia/claro/
-shop: Handy
+shop: teléfono móvil
 ---

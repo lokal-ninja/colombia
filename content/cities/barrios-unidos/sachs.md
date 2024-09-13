@@ -1,5 +1,5 @@
 ---
 title: "Sachs"
 url: /barrios-unidos/sachs/
-shop: Autoteile
+shop: piezas de automóviles
 ---

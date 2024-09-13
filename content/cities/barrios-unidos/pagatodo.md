@@ -1,5 +1,5 @@
 ---
 title: "Pagatodo"
 url: /barrios-unidos/pagatodo/
-shop: Lotterie
+shop: lotería
 ---

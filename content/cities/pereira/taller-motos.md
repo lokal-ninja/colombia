@@ -1,5 +1,5 @@
 ---
 title: "Taller Motos"
 url: /pereira/taller-motos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

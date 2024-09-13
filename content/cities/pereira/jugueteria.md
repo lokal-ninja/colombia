@@ -1,5 +1,5 @@
 ---
 title: "Juguetería"
 url: /pereira/jugueteria/
-shop: Spielzeug
+shop: juguetes
 ---

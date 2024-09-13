@@ -1,5 +1,5 @@
 ---
 title: "Albatros Airlines"
 url: /medellin/albatros-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

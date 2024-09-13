@@ -1,5 +1,5 @@
 ---
 title: "Yanimar"
 url: /bogota/yanimar/
-shop: Fisch
+shop: marisco
 ---

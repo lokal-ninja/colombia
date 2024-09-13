@@ -1,5 +1,5 @@
 ---
 title: "Geek"
 url: /chia/geek/
-shop: Handy
+shop: teléfono móvil
 ---

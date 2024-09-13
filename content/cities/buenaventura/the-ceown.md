@@ -1,5 +1,5 @@
 ---
 title: "THE CEOWN"
 url: /buenaventura/the-ceown/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remazfi"
 url: /barrios-unidos/remazfi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

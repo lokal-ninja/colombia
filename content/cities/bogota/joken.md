@@ -1,5 +1,5 @@
 ---
 title: "Joken"
 url: /bogota/joken/
-shop: Kleidung
+shop: ropa
 ---

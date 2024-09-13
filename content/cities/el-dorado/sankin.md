@@ -1,5 +1,5 @@
 ---
 title: "Sankin"
 url: /el-dorado/sankin/
-shop: Schreibwaren
+shop: material de oficina
 ---

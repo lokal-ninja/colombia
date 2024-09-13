@@ -1,5 +1,5 @@
 ---
 title: "Jenny Cosm"
 url: /cucuta/jenny-cosm/
-shop: Schreibwaren
+shop: material de oficina
 ---

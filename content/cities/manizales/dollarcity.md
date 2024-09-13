@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /manizales/dollarcity/
-shop: Kramladen
+shop: tienda de variedades
 ---

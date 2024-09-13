@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /comuna-3-manrique/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

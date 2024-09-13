@@ -1,5 +1,5 @@
 ---
 title: "Pan Pa' Ya!"
 url: /bogota/pan-pa-ya/
-shop: Bäckerei
+shop: panadería
 ---

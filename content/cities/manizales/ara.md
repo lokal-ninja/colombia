@@ -1,5 +1,5 @@
 ---
 title: "Ara"
 url: /manizales/ara/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /buenaventura/claro/
-shop: Handy
+shop: teléfono móvil
 ---

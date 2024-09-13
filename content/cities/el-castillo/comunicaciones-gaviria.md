@@ -1,5 +1,5 @@
 ---
 title: "Comunicaciones Gaviria"
 url: /el-castillo/comunicaciones-gaviria/
-shop: Handy
+shop: teléfono móvil
 ---

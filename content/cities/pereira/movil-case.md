@@ -1,5 +1,5 @@
 ---
 title: "Movil Case"
 url: /pereira/movil-case/
-shop: Handy
+shop: teléfono móvil
 ---

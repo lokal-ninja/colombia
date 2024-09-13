@@ -1,5 +1,5 @@
 ---
 title: "Futian"
 url: /velez/futian/
-shop: Kramladen
+shop: tienda de variedades
 ---

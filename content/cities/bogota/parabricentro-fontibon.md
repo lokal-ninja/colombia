@@ -1,5 +1,5 @@
 ---
 title: "Parabricentro Fontibon"
 url: /bogota/parabricentro-fontibon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

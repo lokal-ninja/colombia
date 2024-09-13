@@ -1,5 +1,5 @@
 ---
 title: "Innovacel"
 url: /chia/innovacel/
-shop: Handy
+shop: teléfono móvil
 ---

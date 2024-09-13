@@ -1,5 +1,5 @@
 ---
 title: "Cigarreria Franca"
 url: /chapinero/cigarreria-franca/
-shop: Lebensmittel
+shop: comodidad
 ---

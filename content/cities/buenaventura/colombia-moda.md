@@ -1,5 +1,5 @@
 ---
 title: "COLOMBIA MODA"
 url: /buenaventura/colombia-moda/
-shop: Kleidung
+shop: ropa
 ---

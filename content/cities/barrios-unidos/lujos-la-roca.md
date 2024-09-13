@@ -1,5 +1,5 @@
 ---
 title: "Lujos La Roca"
 url: /barrios-unidos/lujos-la-roca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

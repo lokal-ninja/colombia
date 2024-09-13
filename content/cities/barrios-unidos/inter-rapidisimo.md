@@ -1,5 +1,5 @@
 ---
 title: "INter Rapidisimo"
 url: /barrios-unidos/inter-rapidisimo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

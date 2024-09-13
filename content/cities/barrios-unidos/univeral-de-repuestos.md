@@ -1,5 +1,5 @@
 ---
 title: "Univeral de Repuestos"
 url: /barrios-unidos/univeral-de-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

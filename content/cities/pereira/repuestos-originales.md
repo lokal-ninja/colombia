@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Originales"
 url: /pereira/repuestos-originales/
-shop: Autoteile
+shop: piezas de automóviles
 ---

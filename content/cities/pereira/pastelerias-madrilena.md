@@ -1,5 +1,5 @@
 ---
 title: "Pastelerías Madrileña"
 url: /pereira/pastelerias-madrilena/
-shop: Bäckerei
+shop: panadería
 ---

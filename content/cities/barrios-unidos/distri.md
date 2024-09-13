@@ -1,5 +1,5 @@
 ---
 title: "Distri"
 url: /barrios-unidos/distri/
-shop: Autoteile
+shop: piezas de automóviles
 ---

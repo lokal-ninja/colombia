@@ -1,5 +1,5 @@
 ---
 title: "MOVILES COMUNEROS"
 url: /socorro/moviles-comuneros/
-shop: Handy
+shop: teléfono móvil
 ---

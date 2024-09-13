@@ -1,5 +1,5 @@
 ---
 title: "Mega Hogar"
 url: /cimitarra/mega-hogar/
-shop: Kramladen
+shop: tienda de variedades
 ---

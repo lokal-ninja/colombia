@@ -1,5 +1,5 @@
 ---
 title: "LOZANIA"
 url: /acacias/lozania/
-shop: Haushaltsgeräte
+shop: aparato
 ---

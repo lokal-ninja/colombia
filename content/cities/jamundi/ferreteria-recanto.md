@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria recanto"
 url: /jamundi/ferreteria-recanto/
-shop: Eisenwaren
+shop: hardware
 ---

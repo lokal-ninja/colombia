@@ -1,5 +1,5 @@
 ---
 title: "Romario"
 url: /velez/romario/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

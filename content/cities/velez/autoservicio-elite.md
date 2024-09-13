@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Elite"
 url: /velez/autoservicio-elite/
-shop: Supermarkt
+shop: supermercado
 ---

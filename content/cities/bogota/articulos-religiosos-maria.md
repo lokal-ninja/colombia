@@ -1,5 +1,5 @@
 ---
 title: "Artículos Religiosos María"
 url: /bogota/articulos-religiosos-maria/
-shop: Religion
+shop: religión
 ---

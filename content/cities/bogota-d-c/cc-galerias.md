@@ -1,5 +1,5 @@
 ---
 title: "CC Galerias"
 url: /bogota-d-c/cc-galerias/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

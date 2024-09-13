@@ -1,5 +1,5 @@
 ---
 title: "La Pista"
 url: /ibague/la-pista/
-shop: Fahrrad
+shop: bicicleta
 ---

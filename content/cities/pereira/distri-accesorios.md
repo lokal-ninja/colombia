@@ -1,5 +1,5 @@
 ---
 title: "Distri Accesorios"
 url: /pereira/distri-accesorios/
-shop: Handy
+shop: teléfono móvil
 ---

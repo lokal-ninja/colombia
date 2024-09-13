@@ -1,5 +1,5 @@
 ---
 title: "Fotojaponesa"
 url: /barbosa/fotojaponesa/
-shop: Schreibwaren
+shop: material de oficina
 ---

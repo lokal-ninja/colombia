@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Tamaka"
 url: /ulloa/supermercado-tamaka/
-shop: Supermarkt
+shop: supermercado
 ---

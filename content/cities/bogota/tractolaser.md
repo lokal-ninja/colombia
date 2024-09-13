@@ -1,5 +1,5 @@
 ---
 title: "TRACTOLASER"
 url: /bogota/tractolaser/
-shop: Autoteile
+shop: piezas de automóviles
 ---

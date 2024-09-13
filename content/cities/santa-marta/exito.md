@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /santa-marta/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

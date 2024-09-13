@@ -1,5 +1,5 @@
 ---
 title: "El Amperio"
 url: /barrios-unidos/el-amperio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

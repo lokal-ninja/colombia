@@ -1,5 +1,5 @@
 ---
 title: "El Jordan"
 url: /medellin-antioquia/el-jordan/
-shop: Supermarkt
+shop: supermercado
 ---

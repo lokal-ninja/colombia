@@ -1,5 +1,5 @@
 ---
 title: "Papelnet"
 url: /don-matias/papelnet/
-shop: Schreibwaren
+shop: material de oficina
 ---

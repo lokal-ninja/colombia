@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /pereira/claro-carrera-8/
-shop: Handy
+shop: teléfono móvil
 ---

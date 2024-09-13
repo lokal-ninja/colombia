@@ -1,5 +1,5 @@
 ---
 title: "Only"
 url: /bogota/only/
-shop: Kleidung
+shop: ropa
 ---

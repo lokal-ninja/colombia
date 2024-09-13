@@ -1,5 +1,5 @@
 ---
 title: "InverPlasticos"
 url: /barrios-unidos/inverplasticos/
-shop: Dorfladen
+shop: tienda rural
 ---

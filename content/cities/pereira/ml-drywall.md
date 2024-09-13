@@ -1,5 +1,5 @@
 ---
 title: "ML Drywall"
 url: /pereira/ml-drywall/
-shop: Raumausstattung
+shop: decoración interior
 ---

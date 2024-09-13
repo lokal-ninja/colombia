@@ -1,5 +1,5 @@
 ---
 title: "Vivero Don Moya"
 url: /aguazul/vivero-don-moya/
-shop: Garten-Center
+shop: centro de jardinería
 ---

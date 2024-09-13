@@ -1,5 +1,5 @@
 ---
 title: "mercado madrid"
 url: /medellin/mercado-madrid/
-shop: Supermarkt
+shop: supermercado
 ---

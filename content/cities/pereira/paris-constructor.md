@@ -1,5 +1,5 @@
 ---
 title: "Paris Constructor"
 url: /pereira/paris-constructor/
-shop: Raumausstattung
+shop: decoración interior
 ---

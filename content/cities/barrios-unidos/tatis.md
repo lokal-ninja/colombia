@@ -1,5 +1,5 @@
 ---
 title: "Tatis"
 url: /barrios-unidos/tatis/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo a Quinientos"
 url: /soledad/todo-a-quinientos/
-shop: Kramladen
+shop: tienda de variedades
 ---

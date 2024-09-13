@@ -1,5 +1,5 @@
 ---
 title: "Supermercado El Mono"
 url: /sutamarchan/supermercado-el-mono/
-shop: Supermarkt
+shop: supermercado
 ---

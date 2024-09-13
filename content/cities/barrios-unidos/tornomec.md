@@ -1,5 +1,5 @@
 ---
 title: "Tornomec"
 url: /barrios-unidos/tornomec/
-shop: Autoteile
+shop: piezas de automóviles
 ---

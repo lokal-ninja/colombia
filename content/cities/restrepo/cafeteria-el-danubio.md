@@ -1,5 +1,5 @@
 ---
 title: "Cafeteria el Danubio"
 url: /restrepo/cafeteria-el-danubio/
-shop: Bäckerei
+shop: panadería
 ---

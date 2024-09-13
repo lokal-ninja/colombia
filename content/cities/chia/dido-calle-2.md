@@ -1,5 +1,5 @@
 ---
 title: "Dido"
 url: /chia/dido-calle-2/
-shop: Supermarkt
+shop: supermercado
 ---

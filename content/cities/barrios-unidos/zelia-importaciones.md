@@ -1,5 +1,5 @@
 ---
 title: "Zelia Importaciones"
 url: /barrios-unidos/zelia-importaciones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

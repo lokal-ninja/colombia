@@ -1,5 +1,5 @@
 ---
 title: "Cosmopalitn"
 url: /bogota/cosmopalitn/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rivelino"
 url: /pereira/rivelino/
-shop: Kleidung
+shop: ropa
 ---

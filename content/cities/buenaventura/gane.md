@@ -1,5 +1,5 @@
 ---
 title: "GANE"
 url: /buenaventura/gane/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Molienda Centro"
 url: /salento/la-molienda-centro/
-shop: Bäckerei
+shop: panadería
 ---

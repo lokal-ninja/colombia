@@ -1,5 +1,5 @@
 ---
 title: "Unicentro Medelllín"
 url: /medellin/unicentro-medelllin/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

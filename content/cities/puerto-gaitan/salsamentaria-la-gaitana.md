@@ -1,5 +1,5 @@
 ---
 title: "Salsamentaria La Gaitana"
 url: /puerto-gaitan/salsamentaria-la-gaitana/
-shop: Dorfladen
+shop: tienda rural
 ---

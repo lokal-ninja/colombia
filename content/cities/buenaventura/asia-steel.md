@@ -1,5 +1,5 @@
 ---
 title: "ASIA STEEL"
 url: /buenaventura/asia-steel/
-shop: Allgemein
+shop: general
 ---

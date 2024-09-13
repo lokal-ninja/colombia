@@ -1,5 +1,5 @@
 ---
 title: "Bingo"
 url: /bogota-d-c/bingo/
-shop: Lebensmittel
+shop: comodidad
 ---

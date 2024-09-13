@@ -1,5 +1,5 @@
 ---
 title: "Papelería .com"
 url: /barbosa/papeleria-com/
-shop: Schreibwaren
+shop: material de oficina
 ---

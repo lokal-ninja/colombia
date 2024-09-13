@@ -1,5 +1,5 @@
 ---
 title: "Une"
 url: /peque/une/
-shop: Handy
+shop: teléfono móvil
 ---

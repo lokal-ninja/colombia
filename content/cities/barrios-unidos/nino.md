@@ -1,5 +1,5 @@
 ---
 title: "Niño"
 url: /barrios-unidos/nino/
-shop: Autoteile
+shop: piezas de automóviles
 ---

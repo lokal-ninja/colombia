@@ -1,5 +1,5 @@
 ---
 title: "Lubrisoto"
 url: /barbosa/lubrisoto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

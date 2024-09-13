@@ -1,5 +1,5 @@
 ---
 title: "Rubencho"
 url: /centro/rubencho/
-shop: Kramladen
+shop: tienda de variedades
 ---

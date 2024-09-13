@@ -1,5 +1,5 @@
 ---
 title: "Energy Sports"
 url: /universidad/energy-sports/
-shop: Kleidung
+shop: ropa
 ---

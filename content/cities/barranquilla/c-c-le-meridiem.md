@@ -1,5 +1,5 @@
 ---
 title: "C.C. Le Meridiem"
 url: /barranquilla/c-c-le-meridiem/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

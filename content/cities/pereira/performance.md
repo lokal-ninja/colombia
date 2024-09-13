@@ -1,5 +1,5 @@
 ---
 title: "Performance"
 url: /pereira/performance/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

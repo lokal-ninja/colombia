@@ -1,5 +1,5 @@
 ---
 title: "Auto Vidrios J.R.S"
 url: /barrios-unidos/auto-vidrios-j-r-s/
-shop: Autoteile
+shop: piezas de automóviles
 ---

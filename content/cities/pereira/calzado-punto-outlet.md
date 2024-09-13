@@ -1,5 +1,5 @@
 ---
 title: "Calzado Punto Outlet"
 url: /pereira/calzado-punto-outlet/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "British Motors"
 url: /sabaneta-antioquia/british-motors/
-shop: Autohaus
+shop: coche
 ---

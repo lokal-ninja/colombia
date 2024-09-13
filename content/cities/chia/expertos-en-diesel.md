@@ -1,5 +1,5 @@
 ---
 title: "Expertos En Diesel"
 url: /chia/expertos-en-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

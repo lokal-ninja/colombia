@@ -1,5 +1,5 @@
 ---
 title: "TIENDA SANTA ANITA"
 url: /simacota/tienda-santa-anita/
-shop: Supermarkt
+shop: supermercado
 ---

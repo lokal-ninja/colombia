@@ -1,5 +1,5 @@
 ---
 title: "Italia Servicios"
 url: /bogota-d-c/italia-servicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

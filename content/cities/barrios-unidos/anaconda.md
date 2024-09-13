@@ -1,5 +1,5 @@
 ---
 title: "Anaconda"
 url: /barrios-unidos/anaconda/
-shop: Kleidung
+shop: ropa
 ---

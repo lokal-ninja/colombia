@@ -1,5 +1,5 @@
 ---
 title: "Quesos y Quesos"
 url: /bogota-d-c/quesos-y-quesos/
-shop: Käse
+shop: queso
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avisos Plotter"
 url: /barrios-unidos/avisos-plotter/
-shop: Kopieren
+shop: copyshop
 ---

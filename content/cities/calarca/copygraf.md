@@ -1,5 +1,5 @@
 ---
 title: "Copygraf"
 url: /calarca/copygraf/
-shop: Schreibwaren
+shop: material de oficina
 ---

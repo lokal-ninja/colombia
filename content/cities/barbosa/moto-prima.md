@@ -1,5 +1,5 @@
 ---
 title: "Moto Prima"
 url: /barbosa/moto-prima/
-shop: Motorrad
+shop: motocicleta
 ---

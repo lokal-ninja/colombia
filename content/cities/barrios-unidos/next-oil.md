@@ -1,5 +1,5 @@
 ---
 title: "Next Oil"
 url: /barrios-unidos/next-oil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

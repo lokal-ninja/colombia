@@ -1,5 +1,5 @@
 ---
 title: "Almar"
 url: /pereira/almar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

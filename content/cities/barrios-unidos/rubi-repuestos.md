@@ -1,5 +1,5 @@
 ---
 title: "Rubi Repuestos"
 url: /barrios-unidos/rubi-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo Korea"
 url: /barrios-unidos/todo-korea/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.C. Monteverde"
 url: /bogota-d-c/c-c-monteverde/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

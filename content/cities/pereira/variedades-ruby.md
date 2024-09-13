@@ -1,5 +1,5 @@
 ---
 title: "Variedades Ruby"
 url: /pereira/variedades-ruby/
-shop: Kramladen
+shop: tienda de variedades
 ---

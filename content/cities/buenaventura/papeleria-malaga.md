@@ -1,5 +1,5 @@
 ---
 title: "PAPELERIA MALAGA"
 url: /buenaventura/papeleria-malaga/
-shop: Schreibwaren
+shop: material de oficina
 ---

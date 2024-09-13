@@ -1,5 +1,5 @@
 ---
 title: "Jardín Plaza"
 url: /cucuta/jardin-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

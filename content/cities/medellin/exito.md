@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /medellin/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

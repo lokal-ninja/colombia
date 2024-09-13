@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
 url: /bogota/tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

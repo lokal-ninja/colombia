@@ -1,5 +1,5 @@
 ---
 title: "Salon"
 url: /bogota-d-c/salon/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raymotor"
 url: /bogota/raymotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lujos consta"
 url: /yopal/lujos-consta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

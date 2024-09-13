@@ -1,5 +1,5 @@
 ---
 title: "Makro Cauchos"
 url: /barrios-unidos/makro-cauchos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

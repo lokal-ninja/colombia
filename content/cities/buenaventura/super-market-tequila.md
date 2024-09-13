@@ -1,5 +1,5 @@
 ---
 title: "SUPER MARKET TEQUILA"
 url: /buenaventura/super-market-tequila/
-shop: Getränke
+shop: bebidas
 ---

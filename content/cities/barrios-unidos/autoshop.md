@@ -1,5 +1,5 @@
 ---
 title: "Autoshop"
 url: /barrios-unidos/autoshop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

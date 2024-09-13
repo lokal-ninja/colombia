@@ -1,5 +1,5 @@
 ---
 title: "Renosymbol"
 url: /barrios-unidos/renosymbol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

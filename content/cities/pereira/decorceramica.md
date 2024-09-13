@@ -1,5 +1,5 @@
 ---
 title: "DecorCeramica"
 url: /pereira/decorceramica/
-shop: Raumausstattung
+shop: decoración interior
 ---

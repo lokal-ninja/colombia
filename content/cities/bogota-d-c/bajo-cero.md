@@ -1,5 +1,5 @@
 ---
 title: "Bajo Cero"
 url: /bogota-d-c/bajo-cero/
-shop: Kleidung
+shop: ropa
 ---

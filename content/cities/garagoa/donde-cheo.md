@@ -1,5 +1,5 @@
 ---
 title: "Donde cheo"
 url: /garagoa/donde-cheo/
-shop: Kleidung
+shop: ropa
 ---

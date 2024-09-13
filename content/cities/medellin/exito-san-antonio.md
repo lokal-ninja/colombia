@@ -1,5 +1,5 @@
 ---
 title: "Éxito San Antonio"
 url: /medellin/exito-san-antonio/
-shop: Supermarkt
+shop: supermercado
 ---

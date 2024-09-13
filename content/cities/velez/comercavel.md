@@ -1,5 +1,5 @@
 ---
 title: "Comercavel"
 url: /velez/comercavel/
-shop: Supermarkt
+shop: supermercado
 ---

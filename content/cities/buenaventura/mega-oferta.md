@@ -1,5 +1,5 @@
 ---
 title: "MEGA OFERTA"
 url: /buenaventura/mega-oferta/
-shop: Kramladen
+shop: tienda de variedades
 ---

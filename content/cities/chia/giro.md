@@ -1,5 +1,5 @@
 ---
 title: "Giro"
 url: /chia/giro/
-shop: Fahrrad
+shop: bicicleta
 ---

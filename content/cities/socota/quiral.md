@@ -1,5 +1,5 @@
 ---
 title: "QUIRAL"
 url: /socota/quiral/
-shop: Schreibwaren
+shop: material de oficina
 ---

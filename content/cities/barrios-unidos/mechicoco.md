@@ -1,5 +1,5 @@
 ---
 title: "Mechicoco"
 url: /barrios-unidos/mechicoco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

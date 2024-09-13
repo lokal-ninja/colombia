@@ -1,5 +1,5 @@
 ---
 title: "Estanquillo"
 url: /pereira/estanquillo/
-shop: Allgemein
+shop: general
 ---

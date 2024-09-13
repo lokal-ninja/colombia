@@ -1,5 +1,5 @@
 ---
 title: "Balanceo El Escobal"
 url: /el-escobal/balanceo-el-escobal/
-shop: Reifen
+shop: neumáticos
 ---

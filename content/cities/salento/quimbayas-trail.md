@@ -1,5 +1,5 @@
 ---
 title: "Quimbayas Trail"
 url: /salento/quimbayas-trail/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiffany"
 url: /chia/tiffany/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

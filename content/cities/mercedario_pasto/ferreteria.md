@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /mercedario_pasto/ferreteria/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

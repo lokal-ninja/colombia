@@ -1,5 +1,5 @@
 ---
 title: "Serviteca Hernandez"
 url: /bogota-d-c/serviteca-hernandez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

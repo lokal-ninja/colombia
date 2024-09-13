@@ -1,5 +1,5 @@
 ---
 title: "Transporte Salento"
 url: /salento/transporte-salento/
-shop: Reisebüro
+shop: agencia de viajes
 ---

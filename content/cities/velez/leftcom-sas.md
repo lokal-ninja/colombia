@@ -1,5 +1,5 @@
 ---
 title: "Leftcom SAS"
 url: /velez/leftcom-sas/
-shop: Handy
+shop: teléfono móvil
 ---

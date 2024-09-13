@@ -1,5 +1,5 @@
 ---
 title: "Bella Tienda de Cosmeticos"
 url: /manizales/bella-tienda-de-cosmeticos/
-shop: Kosmetik
+shop: cosméticos
 ---

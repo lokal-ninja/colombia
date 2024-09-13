@@ -1,5 +1,5 @@
 ---
 title: "Americana de Colchones"
 url: /san-gil/americana-de-colchones/
-shop: Betten
+shop: cama
 ---

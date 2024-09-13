@@ -1,5 +1,5 @@
 ---
 title: "Waxi Acrilicos"
 url: /chapinero/waxi-acrilicos/
-shop: Kopieren
+shop: copyshop
 ---

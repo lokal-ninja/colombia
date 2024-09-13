@@ -1,5 +1,5 @@
 ---
 title: "MediNat"
 url: /pereira/medinat/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

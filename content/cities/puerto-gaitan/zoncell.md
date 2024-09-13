@@ -1,5 +1,5 @@
 ---
 title: "Zoncell"
 url: /puerto-gaitan/zoncell/
-shop: Handy
+shop: teléfono móvil
 ---

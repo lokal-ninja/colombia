@@ -1,5 +1,5 @@
 ---
 title: "Tecimec"
 url: /barrios-unidos/tecimec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

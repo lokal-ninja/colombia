@@ -1,5 +1,5 @@
 ---
 title: "Tita"
 url: /pereira/tita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

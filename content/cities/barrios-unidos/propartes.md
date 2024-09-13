@@ -1,5 +1,5 @@
 ---
 title: "Propartes"
 url: /barrios-unidos/propartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Licor Blue"
 url: /pereira/licor-blue/
-shop: Spirituosen
+shop: alcohol
 ---

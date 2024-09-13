@@ -1,5 +1,5 @@
 ---
 title: "Almacen Nissan Peugeot"
 url: /barrios-unidos/almacen-nissan-peugeot/
-shop: Autoteile
+shop: piezas de automóviles
 ---

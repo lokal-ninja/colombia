@@ -1,5 +1,5 @@
 ---
 title: "Medisfruta"
 url: /bogota-d-c/medisfruta/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

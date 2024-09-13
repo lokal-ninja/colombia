@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
 url: /cite/fotocopias/
-shop: Schreibwaren
+shop: material de oficina
 ---

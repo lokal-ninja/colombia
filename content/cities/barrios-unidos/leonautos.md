@@ -1,5 +1,5 @@
 ---
 title: "Leonautos"
 url: /barrios-unidos/leonautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

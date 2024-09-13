@@ -1,5 +1,5 @@
 ---
 title: "Cocinas Industriales"
 url: /barrios-unidos/cocinas-industriales/
-shop: Autoteile
+shop: piezas de automóviles
 ---

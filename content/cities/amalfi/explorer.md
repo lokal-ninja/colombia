@@ -1,5 +1,5 @@
 ---
 title: "Explorer"
 url: /amalfi/explorer/
-shop: Schreibwaren
+shop: material de oficina
 ---

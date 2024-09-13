@@ -1,5 +1,5 @@
 ---
 title: "AutoMilenio"
 url: /suba/automilenio/
-shop: Autohaus
+shop: coche
 ---

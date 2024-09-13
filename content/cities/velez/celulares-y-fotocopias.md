@@ -1,5 +1,5 @@
 ---
 title: "Celulares y fotocopias"
 url: /velez/celulares-y-fotocopias/
-shop: Handy
+shop: teléfono móvil
 ---

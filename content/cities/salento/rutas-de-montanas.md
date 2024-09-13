@@ -1,5 +1,5 @@
 ---
 title: "Rutas de Montañas"
 url: /salento/rutas-de-montanas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

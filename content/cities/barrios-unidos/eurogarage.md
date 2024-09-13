@@ -1,5 +1,5 @@
 ---
 title: "Eurogarage"
 url: /barrios-unidos/eurogarage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

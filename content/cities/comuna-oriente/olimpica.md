@@ -1,5 +1,5 @@
 ---
 title: "Olímpica"
 url: /comuna-oriente/olimpica/
-shop: Supermarkt
+shop: supermercado
 ---

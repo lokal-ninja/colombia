@@ -1,5 +1,5 @@
 ---
 title: "Induarte"
 url: /cucuta/induarte/
-shop: Schreibwaren
+shop: material de oficina
 ---

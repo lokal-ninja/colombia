@@ -1,5 +1,5 @@
 ---
 title: "San Nicolás"
 url: /rionegro/san-nicolas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

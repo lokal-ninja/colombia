@@ -1,5 +1,5 @@
 ---
 title: "Panadería Monipan"
 url: /bolivar/panaderia-monipan/
-shop: Bäckerei
+shop: panadería
 ---

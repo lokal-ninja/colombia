@@ -1,5 +1,5 @@
 ---
 title: "Andriu Cars"
 url: /barrios-unidos/andriu-cars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

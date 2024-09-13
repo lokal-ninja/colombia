@@ -1,5 +1,5 @@
 ---
 title: "Parabricentro Estanzuela"
 url: /bogota/parabricentro-estanzuela/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

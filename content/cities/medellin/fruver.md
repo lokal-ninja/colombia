@@ -1,5 +1,5 @@
 ---
 title: "Fruver"
 url: /medellin/fruver/
-shop: Supermarkt
+shop: supermercado
 ---

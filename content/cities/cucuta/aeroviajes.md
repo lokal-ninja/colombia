@@ -1,5 +1,5 @@
 ---
 title: "aeroviajes"
 url: /cucuta/aeroviajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /pereira/exito-avenida-circunvalar/
-shop: Warenhaus
+shop: grandes almacenes
 ---

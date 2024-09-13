@@ -1,5 +1,5 @@
 ---
 title: "AC48-Repuetodo"
 url: /fusgasuga/ac48-repuetodo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

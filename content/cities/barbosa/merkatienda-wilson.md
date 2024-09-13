@@ -1,5 +1,5 @@
 ---
 title: "Merkatienda Wilson"
 url: /barbosa/merkatienda-wilson/
-shop: Lebensmittel
+shop: comodidad
 ---

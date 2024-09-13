@@ -1,5 +1,5 @@
 ---
 title: "Frenoteca"
 url: /pereira/frenoteca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

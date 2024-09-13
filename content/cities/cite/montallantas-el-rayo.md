@@ -1,5 +1,5 @@
 ---
 title: "Montallantas El Rayo"
 url: /cite/montallantas-el-rayo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

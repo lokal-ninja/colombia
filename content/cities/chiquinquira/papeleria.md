@@ -1,5 +1,5 @@
 ---
 title: "Papeleria"
 url: /chiquinquira/papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

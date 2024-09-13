@@ -1,5 +1,5 @@
 ---
 title: "Videojuegos y Celulares"
 url: /pereira/videojuegos-y-celulares/
-shop: Elektronik
+shop: electrónica
 ---

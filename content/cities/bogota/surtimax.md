@@ -1,5 +1,5 @@
 ---
 title: "SurtiMax"
 url: /bogota/surtimax/
-shop: Supermarkt
+shop: supermercado
 ---

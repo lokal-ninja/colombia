@@ -1,5 +1,5 @@
 ---
 title: "Libertadores"
 url: /san-gil/libertadores/
-shop: Tickets
+shop: entradas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tumatera.com"
 url: /chia/tumatera-com/
-shop: Blumen
+shop: floristería
 ---

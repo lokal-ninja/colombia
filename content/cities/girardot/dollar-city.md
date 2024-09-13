@@ -1,5 +1,5 @@
 ---
 title: "Dollar City"
 url: /girardot/dollar-city/
-shop: Supermarkt
+shop: supermercado
 ---

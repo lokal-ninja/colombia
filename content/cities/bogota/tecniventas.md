@@ -1,5 +1,5 @@
 ---
 title: "Tecniventas"
 url: /bogota/tecniventas/
-shop: Haushaltsgeräte
+shop: aparato
 ---

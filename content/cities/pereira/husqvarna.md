@@ -1,5 +1,5 @@
 ---
 title: "Husqvarna"
 url: /pereira/husqvarna/
-shop: Eisenwaren
+shop: hardware
 ---

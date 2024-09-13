@@ -1,5 +1,5 @@
 ---
 title: "Papelería Acuarela"
 url: /velez/papeleria-acuarela/
-shop: Schreibwaren
+shop: material de oficina
 ---

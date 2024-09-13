@@ -1,5 +1,5 @@
 ---
 title: "Gustos y Detalles"
 url: /popayan/gustos-y-detalles/
-shop: Kramladen
+shop: tienda de variedades
 ---

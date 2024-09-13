@@ -1,5 +1,5 @@
 ---
 title: "Coval"
 url: /chia/coval/
-shop: Elektronik
+shop: electrónica
 ---

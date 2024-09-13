@@ -1,5 +1,5 @@
 ---
 title: "Diversound"
 url: /bogota-d-c/diversound/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

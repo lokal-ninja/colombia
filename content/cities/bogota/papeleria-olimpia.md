@@ -1,5 +1,5 @@
 ---
 title: "Papelería Olimpia"
 url: /bogota/papeleria-olimpia/
-shop: Schreibwaren
+shop: material de oficina
 ---

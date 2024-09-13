@@ -1,5 +1,5 @@
 ---
 title: "Impapeles"
 url: /cucuta/impapeles/
-shop: Schreibwaren
+shop: material de oficina
 ---

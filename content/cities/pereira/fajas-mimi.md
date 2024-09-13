@@ -1,5 +1,5 @@
 ---
 title: "Fajas Mimi"
 url: /pereira/fajas-mimi/
-shop: Modehaus
+shop: tienda
 ---

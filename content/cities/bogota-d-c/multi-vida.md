@@ -1,5 +1,5 @@
 ---
 title: "Multi Vida"
 url: /bogota-d-c/multi-vida/
-shop: Kräuter
+shop: herbolario
 ---

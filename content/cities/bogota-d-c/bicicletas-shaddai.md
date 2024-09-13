@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Shaddai"
 url: /bogota-d-c/bicicletas-shaddai/
-shop: Fahrrad
+shop: bicicleta
 ---

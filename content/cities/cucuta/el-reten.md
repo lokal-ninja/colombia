@@ -1,5 +1,5 @@
 ---
 title: "El Reten"
 url: /cucuta/el-reten/
-shop: Kunst
+shop: arte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Premium"
 url: /barbosa/lubricantes-premium/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

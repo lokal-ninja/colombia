@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /bucaramanga/electrolux/
-shop: Haushaltsgeräte
+shop: aparato
 ---

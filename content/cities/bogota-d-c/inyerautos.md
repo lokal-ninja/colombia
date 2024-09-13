@@ -1,5 +1,5 @@
 ---
 title: "Inyerautos"
 url: /bogota-d-c/inyerautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

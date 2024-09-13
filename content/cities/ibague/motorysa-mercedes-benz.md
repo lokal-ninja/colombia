@@ -1,5 +1,5 @@
 ---
 title: "Motorysa-Mercedes Benz"
 url: /ibague/motorysa-mercedes-benz/
-shop: Autohaus
+shop: coche
 ---

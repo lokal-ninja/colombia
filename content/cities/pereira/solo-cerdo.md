@@ -1,5 +1,5 @@
 ---
 title: "Solo Cerdo"
 url: /pereira/solo-cerdo/
-shop: Metzgerei
+shop: carnicero
 ---

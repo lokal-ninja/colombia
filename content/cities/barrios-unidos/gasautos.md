@@ -1,5 +1,5 @@
 ---
 title: "Gasautos"
 url: /barrios-unidos/gasautos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

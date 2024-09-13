@@ -1,5 +1,5 @@
 ---
 title: "Rico Pan"
 url: /velez/rico-pan/
-shop: Bäckerei
+shop: panadería
 ---

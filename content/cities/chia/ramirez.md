@@ -1,5 +1,5 @@
 ---
 title: "Ramirez"
 url: /chia/ramirez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

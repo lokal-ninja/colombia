@@ -1,5 +1,5 @@
 ---
 title: "Electroparra"
 url: /barbosa/electroparra/
-shop: Autoteile
+shop: piezas de automóviles
 ---

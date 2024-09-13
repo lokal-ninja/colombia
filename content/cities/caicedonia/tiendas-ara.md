@@ -1,5 +1,5 @@
 ---
 title: "Tiendas ARA"
 url: /caicedonia/tiendas-ara/
-shop: Supermarkt
+shop: supermercado
 ---

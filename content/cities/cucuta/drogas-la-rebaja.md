@@ -1,5 +1,5 @@
 ---
 title: "drogas la rebaja"
 url: /cucuta/drogas-la-rebaja/
-shop: Drogerie
+shop: farmacia
 ---

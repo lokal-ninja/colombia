@@ -1,5 +1,5 @@
 ---
 title: "Bariloche"
 url: /armenia/bariloche/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

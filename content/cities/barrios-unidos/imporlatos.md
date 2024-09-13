@@ -1,5 +1,5 @@
 ---
 title: "Imporlatos"
 url: /barrios-unidos/imporlatos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

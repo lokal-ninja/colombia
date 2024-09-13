@@ -1,5 +1,5 @@
 ---
 title: "CC Miraflores"
 url: /soacha/cc-miraflores/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

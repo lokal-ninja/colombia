@@ -1,5 +1,5 @@
 ---
 title: "Jest"
 url: /bogota-d-c/jest/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Sitio"
 url: /pereira/el-sitio/
-shop: Kramladen
+shop: tienda de variedades
 ---

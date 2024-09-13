@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Diaz"
 url: /barbosa/repuestos-diaz/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecniyeso"
 url: /chapinero/tecniyeso/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

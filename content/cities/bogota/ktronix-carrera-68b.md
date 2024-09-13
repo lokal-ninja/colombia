@@ -1,5 +1,5 @@
 ---
 title: "KTronix"
 url: /bogota/ktronix-carrera-68b/
-shop: Elektronik
+shop: electrónica
 ---

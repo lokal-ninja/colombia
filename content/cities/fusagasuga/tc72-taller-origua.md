@@ -1,5 +1,5 @@
 ---
 title: "TC72-Taller origua"
 url: /fusagasuga/tc72-taller-origua/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

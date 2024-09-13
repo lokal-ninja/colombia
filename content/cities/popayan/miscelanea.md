@@ -1,5 +1,5 @@
 ---
 title: "Miscelanea"
 url: /popayan/miscelanea/
-shop: Schreibwaren
+shop: material de oficina
 ---

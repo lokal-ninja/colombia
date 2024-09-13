@@ -1,5 +1,5 @@
 ---
 title: "rafico"
 url: /belen/rafico/
-shop: Allgemein
+shop: general
 ---

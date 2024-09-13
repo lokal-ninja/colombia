@@ -1,5 +1,5 @@
 ---
 title: "DETALLES Y ALGO MAS"
 url: /socorro/detalles-y-algo-mas/
-shop: Dorfladen
+shop: tienda rural
 ---

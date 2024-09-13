@@ -1,5 +1,5 @@
 ---
 title: "Juguilay"
 url: /salgar/juguilay/
-shop: Getränke
+shop: bebidas
 ---

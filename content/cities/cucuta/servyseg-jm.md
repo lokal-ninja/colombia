@@ -1,5 +1,5 @@
 ---
 title: "Servyseg JM"
 url: /cucuta/servyseg-jm/
-shop: Allgemein
+shop: general
 ---

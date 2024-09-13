@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /medellin/claro/
-shop: Handy
+shop: teléfono móvil
 ---

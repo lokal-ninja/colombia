@@ -1,5 +1,5 @@
 ---
 title: "Farmix"
 url: /pereira/farmix/
-shop: Drogerie
+shop: farmacia
 ---

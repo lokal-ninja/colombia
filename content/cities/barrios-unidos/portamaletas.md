@@ -1,5 +1,5 @@
 ---
 title: "Portamaletas"
 url: /barrios-unidos/portamaletas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

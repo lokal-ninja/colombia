@@ -1,5 +1,5 @@
 ---
 title: "Rattyínec"
 url: /buga/rattyinec/
-shop: Tiersalon
+shop: peluquería canina
 ---

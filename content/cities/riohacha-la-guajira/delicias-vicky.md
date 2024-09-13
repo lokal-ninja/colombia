@@ -1,5 +1,5 @@
 ---
 title: "Delicias Vicky"
 url: /riohacha-la-guajira/delicias-vicky/
-shop: Konditorei
+shop: pastelería
 ---

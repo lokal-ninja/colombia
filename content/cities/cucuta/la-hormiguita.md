@@ -1,5 +1,5 @@
 ---
 title: "La Hormiguita"
 url: /cucuta/la-hormiguita/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SportsNutrition"
 url: /pereira/sportsnutrition/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

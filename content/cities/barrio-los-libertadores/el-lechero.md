@@ -1,5 +1,5 @@
 ---
 title: "El Lechero"
 url: /barrio-los-libertadores/el-lechero/
-shop: Milch
+shop: lácteos
 ---

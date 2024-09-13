@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Mercedes-Benz"
 url: /bogota-d-c/repuestos-mercedes-benz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

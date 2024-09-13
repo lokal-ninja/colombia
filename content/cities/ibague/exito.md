@@ -1,5 +1,5 @@
 ---
 title: "Éxito"
 url: /ibague/exito/
-shop: Warenhaus
+shop: grandes almacenes
 ---

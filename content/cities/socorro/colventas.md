@@ -1,5 +1,5 @@
 ---
 title: "colventas"
 url: /socorro/colventas/
-shop: Haushaltsgeräte
+shop: aparato
 ---

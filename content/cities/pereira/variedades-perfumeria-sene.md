@@ -1,5 +1,5 @@
 ---
 title: "Variedades Perfumeria Sene"
 url: /pereira/variedades-perfumeria-sene/
-shop: Kramladen
+shop: tienda de variedades
 ---

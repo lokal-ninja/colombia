@@ -1,5 +1,5 @@
 ---
 title: "Lubrihell"
 url: /barrios-unidos/lubrihell/
-shop: Autoteile
+shop: piezas de automóviles
 ---

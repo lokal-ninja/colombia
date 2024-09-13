@@ -1,5 +1,5 @@
 ---
 title: "SurtiMax"
 url: /barbosa/surtimax/
-shop: Supermarkt
+shop: supermercado
 ---

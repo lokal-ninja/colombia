@@ -1,5 +1,5 @@
 ---
 title: "Almacen Y Cerrajeria"
 url: /bogota-d-c/almacen-y-cerrajeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

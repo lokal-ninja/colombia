@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Electricas"
 url: /bogota-d-c/bicicletas-electricas/
-shop: Fahrrad
+shop: bicicleta
 ---

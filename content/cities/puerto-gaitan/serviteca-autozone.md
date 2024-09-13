@@ -1,5 +1,5 @@
 ---
 title: "Serviteca Autozone"
 url: /puerto-gaitan/serviteca-autozone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

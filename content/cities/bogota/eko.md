@@ -1,5 +1,5 @@
 ---
 title: "Eko"
 url: /bogota/eko/
-shop: Kopieren
+shop: copyshop
 ---

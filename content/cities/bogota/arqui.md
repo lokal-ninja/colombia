@@ -1,5 +1,5 @@
 ---
 title: "arqui"
 url: /bogota/arqui/
-shop: Supermarkt
+shop: supermercado
 ---

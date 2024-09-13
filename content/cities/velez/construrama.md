@@ -1,5 +1,5 @@
 ---
 title: "ConstruRama"
 url: /velez/construrama/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

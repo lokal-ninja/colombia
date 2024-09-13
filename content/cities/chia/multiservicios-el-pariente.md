@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios El Pariente"
 url: /chia/multiservicios-el-pariente/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

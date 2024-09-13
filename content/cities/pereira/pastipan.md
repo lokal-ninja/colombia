@@ -1,5 +1,5 @@
 ---
 title: "Pastipan"
 url: /pereira/pastipan/
-shop: Bäckerei
+shop: panadería
 ---

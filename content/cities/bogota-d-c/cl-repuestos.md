@@ -1,5 +1,5 @@
 ---
 title: "CL REPUESTOS"
 url: /bogota-d-c/cl-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

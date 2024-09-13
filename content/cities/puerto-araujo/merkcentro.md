@@ -1,5 +1,5 @@
 ---
 title: "MerkCentro"
 url: /puerto-araujo/merkcentro/
-shop: Supermarkt
+shop: supermercado
 ---

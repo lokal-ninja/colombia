@@ -1,5 +1,5 @@
 ---
 title: "Drogueria vida"
 url: /duitama/drogueria-vida/
-shop: Drogerie
+shop: farmacia
 ---

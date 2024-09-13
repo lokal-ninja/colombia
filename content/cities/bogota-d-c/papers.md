@@ -1,5 +1,5 @@
 ---
 title: "Papers"
 url: /bogota-d-c/papers/
-shop: Schreibwaren
+shop: material de oficina
 ---

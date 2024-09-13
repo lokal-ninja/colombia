@@ -1,5 +1,5 @@
 ---
 title: "Venta Cartón Panela"
 url: /santana/venta-carton-panela/
-shop: Großhandel
+shop: mayorista
 ---

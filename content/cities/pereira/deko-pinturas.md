@@ -1,5 +1,5 @@
 ---
 title: "Deko Pinturas"
 url: /pereira/deko-pinturas/
-shop: Farben
+shop: pintura
 ---

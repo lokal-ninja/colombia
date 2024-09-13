@@ -1,5 +1,5 @@
 ---
 title: "Cubides"
 url: /garagoa/cubides/
-shop: Eisenwaren
+shop: hardware
 ---

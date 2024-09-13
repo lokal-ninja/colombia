@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria"
 url: /barrios-unidos/tapiceria/
-shop: Autowerkstatt
+shop: piezas de automóviles
 ---

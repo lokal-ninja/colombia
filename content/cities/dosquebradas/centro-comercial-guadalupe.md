@@ -1,5 +1,5 @@
 ---
 title: "Centro comercial Guadalupe"
 url: /dosquebradas/centro-comercial-guadalupe/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sincromotor"
 url: /barrios-unidos/sincromotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Maty"
 url: /marsella/papeleria-maty/
-shop: Schreibwaren
+shop: material de oficina
 ---

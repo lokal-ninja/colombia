@@ -1,5 +1,5 @@
 ---
 title: "Scania"
 url: /bogota/scania/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

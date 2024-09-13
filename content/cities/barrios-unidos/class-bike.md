@@ -1,5 +1,5 @@
 ---
 title: "Class Bike"
 url: /barrios-unidos/class-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

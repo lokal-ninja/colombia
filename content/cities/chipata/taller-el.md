@@ -1,5 +1,5 @@
 ---
 title: "Taller El"
 url: /chipata/taller-el/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natura"
 url: /velez/natura/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---
