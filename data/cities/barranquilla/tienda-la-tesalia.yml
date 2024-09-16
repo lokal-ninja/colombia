@@ -1,11 +1,11 @@
 id: 791782902
-type: way
+type: node
 latitude: 10.97004
 longitude: -74.83015
 postcode: ""
 city: Barranquilla
-street: "Carrera 21"
-housenumber: 87
+street: Carrera 21
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

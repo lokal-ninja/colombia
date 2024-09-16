@@ -1,11 +1,11 @@
 id: 108892005
-type: way
+type: node
 latitude: 10.98582
 longitude: -74.81385
 postcode: ""
 city: Barranquilla
-street: "Carrera 38"
-housenumber: 74
+street: Carrera 38
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

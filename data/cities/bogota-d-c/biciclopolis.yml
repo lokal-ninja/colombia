@@ -1,11 +1,11 @@
 id: 533208119
-type: way
+type: node
 latitude: 4.64577
 longitude: -74.08701
 postcode: ""
 city: Bogotá D.C.
-street: "Carrera 50"
-housenumber: 
+street: Carrera 50
+housenumber: ""
 phone: "+573045456259"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.instagram.com/biciclopolis.co"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.instagram.com/biciclopolis.co

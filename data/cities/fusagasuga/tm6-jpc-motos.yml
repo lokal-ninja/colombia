@@ -5,7 +5,7 @@ longitude: -74.36528
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Calle 22B # 3 - 27
-phone: "+57 3112817549"
-opening_hours: "8:00-19:00"
+housenumber: 'Calle 22B # 3 - 27'
+phone: +57 3112817549
+opening_hours: 8:00-19:00
 website: ""

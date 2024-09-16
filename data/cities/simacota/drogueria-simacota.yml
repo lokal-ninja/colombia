@@ -4,8 +4,8 @@ latitude: 6.44285
 longitude: -73.33733
 postcode: "3006084112"
 city: Simacota
-street: "BARRIO CENTRO"
-housenumber: CALLE 4 #4-29
+street: BARRIO CENTRO
+housenumber: 'CALLE 4 #4-29'
 phone: ""
 opening_hours: ""
 website: ""

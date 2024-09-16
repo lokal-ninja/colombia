@@ -4,8 +4,8 @@ latitude: 4.67057
 longitude: -74.0984
 postcode: "111061"
 city: Bogotá D.C.
-street: "Carrera 69H # 63 a 18"
-housenumber: 
+street: 'Carrera 69H # 63 a 18'
+housenumber: ""
 phone: "334515730"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.unidadesdraco.com"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.unidadesdraco.com

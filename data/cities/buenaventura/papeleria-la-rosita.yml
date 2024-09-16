@@ -1,11 +1,11 @@
 id: 950210978
-type: way
+type: node
 latitude: 3.87888
 longitude: -77.0332
 postcode: "764504"
 city: Buenaventura
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

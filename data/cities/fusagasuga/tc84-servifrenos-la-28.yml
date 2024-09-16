@@ -5,7 +5,7 @@ longitude: -74.37821
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Cra 27 # 2 an - 29
-phone: "+57 311558948"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Cra 27 # 2 an - 29'
+phone: +57 311558948
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

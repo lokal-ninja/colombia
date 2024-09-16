@@ -1,11 +1,11 @@
 id: 1025026304
-type: way
+type: node
 latitude: 5.4075
 longitude: -71.66203
 postcode: ""
 city: Trinidad
-street: "Calle 6"
-housenumber: 
+street: Calle 6
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -5,7 +5,7 @@ longitude: -74.38549
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Calle 25 # 39B - 54
-phone: "+57 3112069174"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Calle 25 # 39B - 54'
+phone: +57 3112069174
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

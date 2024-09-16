@@ -1,11 +1,11 @@
 id: 763751156
-type: way
+type: node
 latitude: 10.90815
 longitude: -74.792
 postcode: ""
 city: Soledad
-street: "Calle 54"
-housenumber: 12
+street: Calle 54
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

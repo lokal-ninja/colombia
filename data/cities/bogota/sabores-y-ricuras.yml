@@ -1,11 +1,11 @@
 id: 1094760203
-type: way
+type: node
 latitude: 4.57758
 longitude: -74.12008
 postcode: "111811"
 city: Bogotá
-street: "Calle 40 Sur"
-housenumber: 
+street: Calle 40 Sur
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

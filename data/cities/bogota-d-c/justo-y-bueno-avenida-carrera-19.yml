@@ -1,11 +1,11 @@
 id: 891373958
-type: way
+type: node
 latitude: 4.68324
 longitude: -74.0527
 postcode: "110221"
 city: Bogotá D.C.
-street: "Avenida Carrera 19"
+street: Avenida Carrera 19
 housenumber: 95-75
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://justoybueno.com/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://justoybueno.com/

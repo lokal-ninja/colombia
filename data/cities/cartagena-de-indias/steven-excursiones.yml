@@ -4,8 +4,8 @@ latitude: 10.39825
 longitude: -75.55916
 postcode: "130001"
 city: cartagena de indias
-street: "Carrera 3 #4-56B"
-housenumber: 
+street: 'Carrera 3 #4-56B'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

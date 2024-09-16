@@ -1,11 +1,11 @@
 id: 915540436
-type: way
+type: node
 latitude: 10.99457
 longitude: -74.84368
 postcode: ""
 city: Barranquilla
-street: "Carrera 43"
-housenumber: 114
+street: Carrera 43
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

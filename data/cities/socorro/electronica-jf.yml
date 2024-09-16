@@ -4,8 +4,8 @@ latitude: 6.47027
 longitude: -73.26321
 postcode: ""
 city: SOCORRO
-street: "CENTRO"
-housenumber: CALLE 14 # 16A-21
-phone: "+57 3157107294"
+street: CENTRO
+housenumber: 'CALLE 14 # 16A-21'
+phone: +57 3157107294
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772735534
-type: way
+type: node
 latitude: 10.9441
 longitude: -74.8266
 postcode: ""
 city: Barranquilla
-street: "Avenida Cordialidad - Carrera 6"
-housenumber: 94
+street: Avenida Cordialidad - Carrera 6
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

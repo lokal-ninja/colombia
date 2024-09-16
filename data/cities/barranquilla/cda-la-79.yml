@@ -1,11 +1,11 @@
 id: 696528017
-type: way
+type: node
 latitude: 10.99786
 longitude: -74.81226
 postcode: ""
 city: Barranquilla
-street: "Carrera 46"
-housenumber: 79
+street: Carrera 46
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

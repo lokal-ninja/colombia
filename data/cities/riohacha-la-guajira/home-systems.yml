@@ -1,11 +1,11 @@
 id: 231140229
-type: way
+type: node
 latitude: 11.54947
 longitude: -72.9094
 postcode: ""
 city: Riohacha, La Guajira
-street: "Calle 8"
-housenumber: 860
-phone: "+57 (5) 7275427"
+street: Calle 8
+housenumber: "860"
+phone: +57 (5) 7275427
 opening_hours: ""
 website: ""

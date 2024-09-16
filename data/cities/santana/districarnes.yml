@@ -1,11 +1,11 @@
 id: 1314931617
-type: way
+type: node
 latitude: 6.05777
 longitude: -73.4813
 postcode: ""
 city: Santana
-street: "Calle 3"
-housenumber: 
+street: Calle 3
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 6.01508
 longitude: -73.67474
 postcode: ""
 city: Vélez
-street: "Carrera 6"
-housenumber: 
+street: Carrera 6
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-11:00,17:00-20:30; Mar 21,Mar 23 07:30-14:00; Mar 22 off"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-11:00,17:00-20:30; Mar 21,Mar 23 07:30-14:00;
+    Mar 22 off
 website: ""

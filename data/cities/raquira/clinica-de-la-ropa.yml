@@ -1,11 +1,11 @@
 id: 584708655
-type: way
+type: node
 latitude: 5.53858
 longitude: -73.63236
 postcode: ""
 city: Ráquira
-street: "Carrera"
-housenumber: 3
+street: Carrera
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

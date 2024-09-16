@@ -1,11 +1,11 @@
 id: 531720470
-type: way
+type: node
 latitude: 4.65751
 longitude: -74.07737
 postcode: ""
 city: Barrios Unidos
-street: "Avenida Carrera 30"
-housenumber: 
+street: Avenida Carrera 30
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://biologica.com.co/"
+website: https://biologica.com.co/

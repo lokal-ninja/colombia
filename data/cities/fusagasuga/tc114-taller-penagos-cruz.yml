@@ -5,7 +5,7 @@ longitude: -74.38659
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Calle 22 # 41 - 31
-phone: "+57 3133868998"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Calle 22 # 41 - 31'
+phone: +57 3133868998
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

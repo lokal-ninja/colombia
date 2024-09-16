@@ -1,10 +1,10 @@
 id: 540874753
-type: way
+type: node
 latitude: 4.80667
 longitude: -74.35143
 postcode: ""
 city: Facatativa
-street: "Cra. 2 #1-49"
+street: 'Cra. 2 #1-49'
 housenumber: Cra. 2
 phone: ""
 opening_hours: ""

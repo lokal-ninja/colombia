@@ -1,11 +1,11 @@
 id: 1308307012
-type: way
+type: node
 latitude: 6.05795
 longitude: -73.47996
 postcode: ""
 city: Santana
-street: "Carrera 2"
-housenumber: 
+street: Carrera 2
+housenumber: ""
 phone: ""
-opening_hours: "mon_sun 7:00 am_8:00 pm"
+opening_hours: mon_sun 7:00 am_8:00 pm
 website: ""

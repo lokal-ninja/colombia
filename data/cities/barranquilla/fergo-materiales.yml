@@ -1,11 +1,11 @@
 id: 678447640
-type: way
+type: node
 latitude: 10.94213
 longitude: -74.79151
 postcode: ""
 city: Barranquilla
-street: "Calle 36B"
-housenumber: 7
+street: Calle 36B
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

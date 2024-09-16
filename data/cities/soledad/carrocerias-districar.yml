@@ -1,11 +1,11 @@
 id: 1243261334
-type: way
+type: node
 latitude: 10.91221
 longitude: -74.80023
 postcode: ""
 city: Soledad
-street: "Calle 63"
-housenumber: 14E-55
+street: Calle 63
+housenumber: "14E-55"
 phone: ""
 opening_hours: ""
 website: ""

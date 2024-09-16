@@ -4,8 +4,8 @@ latitude: 3.38758
 longitude: -76.54448
 postcode: "760001"
 city: Cali
-street: "Calle 5 # 64A - 78"
-housenumber: 
+street: 'Calle 5 # 64A - 78'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
+opening_hours: Mo-Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 680769225
-type: way
+type: node
 latitude: 4.63911
 longitude: -75.57054
 postcode: "631020"
 city: Salento
-street: "Calle 5"
-housenumber: 
+street: Calle 5
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 10.99379
 longitude: -74.78658
 postcode: "80002"
 city: Barranquilla
-street: "Carrera 55"
-housenumber: #48-81
+street: Carrera 55
+housenumber: '#48-81'
 phone: "3192733875"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://mishopcol.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://mishopcol.com/

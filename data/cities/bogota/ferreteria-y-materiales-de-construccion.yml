@@ -1,11 +1,11 @@
 id: 694206556
-type: way
+type: node
 latitude: 4.7158
 longitude: -74.14279
 postcode: ""
 city: Bogotá
-street: "Calle 64"
-housenumber: 124
+street: Calle 64
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

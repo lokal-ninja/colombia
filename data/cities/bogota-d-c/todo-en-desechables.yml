@@ -1,11 +1,11 @@
 id: 529284419
-type: way
+type: node
 latitude: 4.6333
 longitude: -74.07285
 postcode: ""
 city: Bogotá D.C.
-street: "Calle 44A"
-housenumber: 11
+street: Calle 44A
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

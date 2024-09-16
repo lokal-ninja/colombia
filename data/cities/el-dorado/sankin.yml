@@ -4,8 +4,9 @@ latitude: 3.74033
 longitude: -73.83543
 postcode: ""
 city: El Dorado
-street: "Cra 5 # 6-24"
-housenumber: 
+street: 'Cra 5 # 6-24'
+housenumber: ""
 phone: "3133716437"
-opening_hours: "Lunes a viernes de 7 am a 7 pm / sábados de 8 AM a 4 pm / no domingos no festivos"
+opening_hours: Lunes a viernes de 7 am a 7 pm / sábados de 8 AM a 4 pm / no domingos
+    no festivos
 website: ""

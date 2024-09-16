@@ -4,8 +4,8 @@ latitude: 6.47026
 longitude: -73.26316
 postcode: ""
 city: SOCORRO
-street: "VBARRIO CENRO"
-housenumber: CALLE 14 # 16A-19
-phone: "+57 3213277299"
+street: VBARRIO CENRO
+housenumber: 'CALLE 14 # 16A-19'
+phone: +57 3213277299
 opening_hours: ""
 website: ""

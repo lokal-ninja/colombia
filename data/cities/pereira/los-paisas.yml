@@ -1,11 +1,11 @@
 id: 1126506504
-type: way
+type: node
 latitude: 4.81366
 longitude: -75.69217
 postcode: "660002"
 city: Pereira
-street: "Carrera 8"
-housenumber: #16-54 al 68
-phone: "+57 606 3331116"
+street: Carrera 8
+housenumber: '#16-54 al 68'
+phone: +57 606 3331116
 opening_hours: ""
 website: ""

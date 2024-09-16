@@ -1,11 +1,11 @@
 id: 788138446
-type: way
+type: node
 latitude: 10.99494
 longitude: -74.80838
 postcode: ""
 city: Barranquilla
-street: "Calle 74"
-housenumber: 45
+street: Calle 74
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

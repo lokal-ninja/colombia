@@ -1,11 +1,11 @@
 id: 583351450
-type: way
+type: node
 latitude: 5.54359
 longitude: -73.4545
 postcode: "154060"
 city: Cucaita
-street: "Cra. 6 # 6-28"
-housenumber: 
-phone: "+57 314 2542168"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: 'Cra. 6 # 6-28'
+housenumber: ""
+phone: +57 314 2542168
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 214491478
-type: way
+type: node
 latitude: 11.00141
 longitude: -74.8173
 postcode: ""
 city: Barranquilla
-street: "Carrera 46"
-housenumber: 82
+street: Carrera 46
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

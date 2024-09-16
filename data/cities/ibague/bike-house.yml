@@ -1,11 +1,11 @@
 id: 60279348
-type: way
+type: node
 latitude: 4.44583
 longitude: -75.23444
 postcode: ""
 city: Ibagué
-street: "Carrera 8 #16-06"
-housenumber: 
+street: 'Carrera 8 #16-06'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30,14:30-19:30"
+opening_hours: Mo-Sa 09:30-12:30,14:30-19:30
 website: ""

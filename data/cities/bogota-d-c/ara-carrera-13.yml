@@ -1,11 +1,11 @@
 id: 528263156
-type: way
+type: node
 latitude: 4.69907
 longitude: -74.0401
 postcode: ""
 city: Bogotá D.C.
-street: "Carrera 13"
-housenumber: 132
+street: Carrera 13
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

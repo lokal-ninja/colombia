@@ -1,11 +1,11 @@
 id: 234731740
-type: way
+type: node
 latitude: 11.52763
 longitude: -72.91281
 postcode: ""
 city: RIOHACHA
-street: "Calle 34b"
-housenumber: 13
+street: Calle 34b
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
+opening_hours: Mo-Su 08:00-17:00
 website: ""

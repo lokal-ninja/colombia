@@ -1,11 +1,11 @@
 id: 744823793
-type: way
+type: node
 latitude: 4.56819
 longitude: -74.08959
 postcode: "110421"
 city: Bogotá
-street: "Carrera 1A"
+street: Carrera 1A
 housenumber: 21-03 Sur
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

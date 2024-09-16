@@ -1,11 +1,11 @@
 id: 964788089
-type: way
+type: node
 latitude: 11.0365
 longitude: -74.86953
 postcode: ""
 city: Barranquilla
-street: "Calle 21"
-housenumber: 8
+street: Calle 21
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

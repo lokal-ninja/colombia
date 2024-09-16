@@ -4,8 +4,9 @@ latitude: 11.52956
 longitude: -72.89898
 postcode: ""
 city: Riohacha, La Guajira
-street: "Carrera 7"
+street: Carrera 7
 housenumber: 37-704
-phone: "+57 (5) 7286867"
-opening_hours: "martes	09:00a19:00 miércoles	09:00a19:00 jueves	09:00a19:00 viernes	09:00a19:00 sábado	09:00a19:00 domingo	09:00a17:00 lunes	09:00a19:00"
+phone: +57 (5) 7286867
+opening_hours: "martes\t09:00a19:00 miércoles\t09:00a19:00 jueves\t09:00a19:00 viernes\t09:00a19:00
+    sábado\t09:00a19:00 domingo\t09:00a17:00 lunes\t09:00a19:00"
 website: ""

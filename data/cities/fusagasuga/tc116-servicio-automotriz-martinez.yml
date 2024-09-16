@@ -5,7 +5,7 @@ longitude: -74.39046
 postcode: ""
 city: Fusagasuga
 street: ""
-housenumber: Calle 22 # 48 - 47
-phone: "+57 3143979115"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Calle 22 # 48 - 47'
+phone: +57 3143979115
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

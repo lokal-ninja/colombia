@@ -1,11 +1,11 @@
 id: 645015793
-type: way
+type: node
 latitude: 6.90784
 longitude: -75.07614
 postcode: "052840"
 city: Amalfi
-street: "Carrera 22;Aranzazu"
-housenumber: 
+street: Carrera 22;Aranzazu
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

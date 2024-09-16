@@ -1,11 +1,11 @@
 id: 788259765
-type: way
+type: node
 latitude: 6.28626
 longitude: -75.54761
 postcode: ""
 city: Medellin
-street: "Calle 95A"
-housenumber: ##3782
-phone: "+57 314 7872656"
+street: Calle 95A
+housenumber: '##3782'
+phone: +57 314 7872656
 opening_hours: ""
 website: ""

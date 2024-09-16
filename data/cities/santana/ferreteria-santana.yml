@@ -1,11 +1,11 @@
 id: 1308313536
-type: way
+type: node
 latitude: 6.0577
 longitude: -73.47968
 postcode: ""
 city: santana
-street: "Calle 1"
-housenumber: 
+street: Calle 1
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

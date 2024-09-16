@@ -1,11 +1,11 @@
 id: 542097851
-type: way
+type: node
 latitude: 4.61675
 longitude: -74.12247
 postcode: ""
 city: Bogota
-street: "Carrera 56"
-housenumber: 2
+street: Carrera 56
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

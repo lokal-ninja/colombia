@@ -1,11 +1,11 @@
 id: 1076158347
-type: way
+type: node
 latitude: 11.00819
 longitude: -74.82195
 postcode: ""
 city: Barranquilla
-street: "Carrera 51B"
-housenumber: #87-50
+street: Carrera 51B
+housenumber: '#87-50'
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.ccviva.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.ccviva.com/

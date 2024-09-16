@@ -1,11 +1,11 @@
 id: 1310893086
-type: way
+type: node
 latitude: 11.01954
 longitude: -74.80419
 postcode: ""
 city: Barranquilla
-street: "Calle 80"
-housenumber: 75
+street: Calle 80
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

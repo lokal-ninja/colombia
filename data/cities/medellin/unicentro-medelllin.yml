@@ -1,11 +1,11 @@
 id: 580591112
-type: way
+type: node
 latitude: 6.24093
 longitude: -75.58624
 postcode: ""
 city: Medellín
-street: "Carrera 66B"
+street: Carrera 66B
 housenumber: 34A - 76
-phone: "+57 4 3507050"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.unicentromedellin.com.co/"
+phone: +57 4 3507050
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.unicentromedellin.com.co/

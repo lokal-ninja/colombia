@@ -1,11 +1,11 @@
 id: 693756664
-type: way
+type: node
 latitude: 4.72202
 longitude: -74.05278
 postcode: "111111"
 city: Bogotá D.C.
-street: "Calle 136"
-housenumber: 
+street: Calle 136
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

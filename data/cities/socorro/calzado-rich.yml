@@ -4,8 +4,8 @@ latitude: 6.46925
 longitude: -73.26139
 postcode: "7298999"
 city: SOCORRO
-street: "BARRIO CENTRO"
-housenumber: CARRERA 14 # 13-21
+street: BARRIO CENTRO
+housenumber: 'CARRERA 14 # 13-21'
 phone: ""
 opening_hours: ""
 website: ""

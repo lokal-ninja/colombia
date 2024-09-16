@@ -1,11 +1,11 @@
 id: 371665351
-type: way
+type: node
 latitude: 4.59337
 longitude: -74.13836
 postcode: ""
 city: Bogotá D.C.
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

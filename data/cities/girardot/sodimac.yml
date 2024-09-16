@@ -1,11 +1,11 @@
 id: 331330061
-type: way
+type: node
 latitude: 4.30843
 longitude: -74.79519
 postcode: "252431"
 city: Girardot
-street: "Avenida de Kennedy"
-housenumber: 
+street: Avenida de Kennedy
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 09:00-20:00"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 09:00-20:00
 website: ""

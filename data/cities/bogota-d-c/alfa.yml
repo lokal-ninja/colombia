@@ -1,10 +1,10 @@
 id: 528547313
-type: way
+type: node
 latitude: 4.62427
 longitude: -74.06959
 postcode: ""
 city: Bogotá D.C.
-street: "carrera 14 #35-55"
+street: 'carrera 14 #35-55'
 housenumber: 35-33
 phone: ""
 opening_hours: ""

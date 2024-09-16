@@ -1,11 +1,11 @@
 id: 232691862
-type: way
+type: node
 latitude: 11.54953
 longitude: -72.91359
 postcode: ""
 city: Riohacha, La Guajira
-street: "Calle 7 #11-168, Esquina"
-housenumber: 
+street: 'Calle 7 #11-168, Esquina'
+housenumber: ""
 phone: "+573017895416"
 opening_hours: ""
 website: ""

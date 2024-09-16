@@ -1,11 +1,11 @@
 id: 685753639
-type: way
+type: node
 latitude: 11.01487
 longitude: -74.82836
 postcode: ""
 city: Barranquilla
-street: "Calle 99"
-housenumber: 52
+street: Calle 99
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

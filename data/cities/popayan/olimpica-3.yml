@@ -1,11 +1,11 @@
 id: 787232035
-type: way
+type: node
 latitude: 2.45757
 longitude: -76.59414
 postcode: "19000"
 city: Popayán
 street: ""
-housenumber: 
-phone: "+57 2 8373200"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.olimpica.com/domicilios/"
+housenumber: ""
+phone: +57 2 8373200
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.olimpica.com/domicilios/

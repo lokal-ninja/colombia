@@ -1,11 +1,11 @@
 id: 1214563693
-type: way
+type: node
 latitude: 4.29772
 longitude: -74.80472
 postcode: "252432"
 city: Girardot
-street: "Carrera 10"
-housenumber: 
+street: Carrera 10
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

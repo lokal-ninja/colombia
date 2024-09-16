@@ -1,11 +1,11 @@
 id: 644191153
-type: way
+type: node
 latitude: 6.90853
 longitude: -75.07285
 postcode: "052840"
 city: amalfi
-street: "Calle 21;Córdoba"
-housenumber: 
+street: Calle 21;Córdoba
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 693993960
-type: way
+type: node
 latitude: 4.7456
 longitude: -74.02806
 postcode: ""
 city: Bogotá D.C.
-street: "Carrera 8F"
-housenumber: #166-78
+street: Carrera 8F
+housenumber: '#166-78'
 phone: ""
 opening_hours: ""
 website: ""

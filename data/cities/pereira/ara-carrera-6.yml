@@ -1,11 +1,11 @@
 id: 1119744341
-type: way
+type: node
 latitude: 4.81735
 longitude: -75.71016
 postcode: "660002"
 city: Pereira
-street: "Carrera 6"
-housenumber: #35-56
-phone: "+57 018 000521888, +57 310 7760066"
-opening_hours: "Mo-Su 08:30-19:30"
+street: Carrera 6
+housenumber: '#35-56'
+phone: +57 018 000521888, +57 310 7760066
+opening_hours: Mo-Su 08:30-19:30
 website: ""

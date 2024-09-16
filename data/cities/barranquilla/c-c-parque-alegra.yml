@@ -1,11 +1,11 @@
 id: 743074363
-type: way
+type: node
 latitude: 10.94669
 longitude: -74.78395
 postcode: ""
 city: barranquilla
-street: "Avenida Calle 30"
+street: Avenida Calle 30
 housenumber: 4B-25
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.parquealegra.com/home"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.parquealegra.com/home

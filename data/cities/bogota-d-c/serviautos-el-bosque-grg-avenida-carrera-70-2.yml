@@ -1,11 +1,11 @@
 id: 562510879
-type: way
+type: node
 latitude: 4.67155
 longitude: -74.1003
 postcode: "111061"
 city: Bogotá D.C.
-street: "Avenida Carrera 70"
-housenumber: 6391
+street: Avenida Carrera 70
+housenumber: "6391"
 phone: "+5712234241"
 opening_hours: ""
-website: "www.serviautosgrg.co"
+website: www.serviautosgrg.co

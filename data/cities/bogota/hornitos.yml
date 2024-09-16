@@ -1,11 +1,11 @@
 id: 541386217
-type: way
+type: node
 latitude: 4.66573
 longitude: -74.12066
 postcode: ""
 city: Bogotá
-street: "Carrera 75"
-housenumber: 
+street: Carrera 75
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Su 06:30-21:00; Th-Sa 06:30-24:00"
+opening_hours: Mo-We,Su 06:30-21:00; Th-Sa 06:30-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 547106840
-type: way
+type: node
 latitude: 4.80767
 longitude: -75.69065
 postcode: "660003"
 city: Pereira
-street: "Calle 14"
-housenumber: 
+street: Calle 14
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

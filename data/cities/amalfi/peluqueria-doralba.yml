@@ -1,11 +1,11 @@
 id: 643907204
-type: way
+type: node
 latitude: 6.90765
 longitude: -75.07703
 postcode: "052840"
 city: Amalfi
-street: "Calle 24;Carrera 23"
-housenumber: 
+street: Calle 24;Carrera 23
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

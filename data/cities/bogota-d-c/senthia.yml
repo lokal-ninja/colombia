@@ -1,11 +1,11 @@
 id: 371663668
-type: way
+type: node
 latitude: 4.63286
 longitude: -74.06619
 postcode: ""
 city: Bogotá D.C.
-street: "Calle 45A"
-housenumber: 80
+street: Calle 45A
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

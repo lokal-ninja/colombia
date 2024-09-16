@@ -1,11 +1,11 @@
 id: 680605252
-type: way
+type: node
 latitude: 6.67328
 longitude: -73.17528
-postcode: "320 4474708"
+postcode: 320 4474708
 city: Villanueva
-street: "Carrera 15"
-housenumber: alle 15, #esquina
+street: Carrera 15
+housenumber: 'alle 15, #esquina'
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

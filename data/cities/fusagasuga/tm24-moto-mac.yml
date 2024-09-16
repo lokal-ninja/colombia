@@ -5,7 +5,7 @@ longitude: -74.36119
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Calle 11 # 5 - 32
-phone: "+57 3203317970"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Calle 11 # 5 - 32'
+phone: +57 3203317970
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

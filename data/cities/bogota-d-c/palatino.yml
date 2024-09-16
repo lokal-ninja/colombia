@@ -1,11 +1,11 @@
 id: 57691880
-type: way
+type: node
 latitude: 4.71607
 longitude: -74.02912
 postcode: ""
 city: Bogotá D.C.
-street: "Carrera 7"
+street: Carrera 7
 housenumber: 138-33
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00; PH 11:00-19:00"
-website: "https://ccpalatino.com/"
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00; PH 11:00-19:00
+website: https://ccpalatino.com/

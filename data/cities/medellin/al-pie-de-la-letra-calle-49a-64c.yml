@@ -4,8 +4,8 @@ latitude: 6.25509
 longitude: -75.58107
 postcode: ""
 city: Medellín
-street: "Calle 49A # 64C"
-housenumber: 42
-phone: "+57 (4) 2305428"
+street: 'Calle 49A # 64C'
+housenumber: "42"
+phone: +57 (4) 2305428
 opening_hours: ""
-website: "https://www.alpiedelaletralibreria.com/"
+website: https://www.alpiedelaletralibreria.com/

@@ -1,11 +1,11 @@
 id: 318161601
-type: way
+type: node
 latitude: 4.83623
 longitude: -75.669
 postcode: "661001"
 city: Dosquebradas
-street: "Carrera 16"
-housenumber: #38-130
-phone: "+57 606 3320606, +57 300 3434650"
+street: Carrera 16
+housenumber: '#38-130'
+phone: +57 606 3320606, +57 300 3434650
 opening_hours: ""
-website: "https://centrocomercialelprogreso.com/"
+website: https://centrocomercialelprogreso.com/

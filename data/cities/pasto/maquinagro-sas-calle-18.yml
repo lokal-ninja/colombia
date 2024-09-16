@@ -1,11 +1,11 @@
 id: 1137406291
-type: way
+type: node
 latitude: 1.20805
 longitude: -77.27561
 postcode: "520003"
 city: Pasto
-street: "Calle 18"
-housenumber: Calle 18 #18-24
+street: Calle 18
+housenumber: 'Calle 18 #18-24'
 phone: "3135263617"
 opening_hours: ""
 website: ""

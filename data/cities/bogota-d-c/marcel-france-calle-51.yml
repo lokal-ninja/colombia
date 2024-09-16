@@ -1,11 +1,11 @@
 id: 371982720
-type: way
+type: node
 latitude: 4.63873
 longitude: -74.0668
 postcode: ""
 city: Bogotá D.C.
-street: "Calle 51"
-housenumber: 13
+street: Calle 51
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

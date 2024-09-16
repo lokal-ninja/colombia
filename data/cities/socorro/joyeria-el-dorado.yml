@@ -4,8 +4,8 @@ latitude: 6.47002
 longitude: -73.2628
 postcode: ""
 city: SOCORRO
-street: "BARRIO CENTRO"
-housenumber: CARRERA 16 # 13-63
+street: BARRIO CENTRO
+housenumber: 'CARRERA 16 # 13-63'
 phone: "3166799331"
 opening_hours: ""
 website: ""

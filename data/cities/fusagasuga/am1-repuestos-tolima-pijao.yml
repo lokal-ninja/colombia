@@ -5,7 +5,7 @@ longitude: -74.3643
 postcode: ""
 city: fusagasuga
 street: ""
-housenumber: Calle 24 #2d-03
-phone: "+57 3112817549"
-opening_hours: "09:00-19:00"
+housenumber: 'Calle 24 #2d-03'
+phone: +57 3112817549
+opening_hours: 09:00-19:00
 website: ""

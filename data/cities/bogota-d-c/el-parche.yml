@@ -1,11 +1,11 @@
 id: 529313703
-type: way
+type: node
 latitude: 4.6317
 longitude: -74.07083
 postcode: "111311"
 city: Bogotá D.C.
-street: "Carrera 17"
-housenumber: 05
+street: Carrera 17
+housenumber: "05"
 phone: ""
 opening_hours: ""
 website: ""

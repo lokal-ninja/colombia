@@ -1,11 +1,11 @@
 id: 644472495
-type: way
+type: node
 latitude: 6.90766
 longitude: -75.07189
 postcode: "052840"
 city: Amalfi
-street: "Calle 20;Bolivar"
-housenumber: 
+street: Calle 20;Bolivar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

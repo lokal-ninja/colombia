@@ -1,11 +1,11 @@
 id: 206294001
-type: way
+type: node
 latitude: 10.92975
 longitude: -74.79976
 postcode: ""
 city: Barranquilla
-street: "Calle 45"
-housenumber: 1
+street: Calle 45
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

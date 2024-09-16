@@ -1,11 +1,11 @@
 id: 897983393
-type: way
+type: node
 latitude: 4.69006
 longitude: -74.06743
 postcode: ""
 city: Bogotá D.C.
-street: "Avenida Calle 100"
+street: Avenida Calle 100
 housenumber: 62-36
-phone: "+57 601 2629610"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.mercadozapatoca.com/"
+phone: +57 601 2629610
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.mercadozapatoca.com/

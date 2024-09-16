@@ -1,11 +1,11 @@
 id: 691189779
-type: way
+type: node
 latitude: 10.90537
 longitude: -74.78719
 postcode: ""
 city: Soledad
-street: "Carrera 11"
-housenumber: 50
+street: Carrera 11
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

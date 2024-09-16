@@ -4,8 +4,8 @@ latitude: 10.92892
 longitude: -74.76675
 postcode: "083002"
 city: Soledad, Atlántico
-street: "Calle 21 # 34-05"
+street: 'Calle 21 # 34-05'
 housenumber: 34-05
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

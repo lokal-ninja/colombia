@@ -1,11 +1,11 @@
 id: 374900464
-type: way
+type: node
 latitude: 4.73408
 longitude: -74.08536
 postcode: ""
 city: Bogotá
-street: "Carrera 91"
-housenumber: 91
+street: Carrera 91
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

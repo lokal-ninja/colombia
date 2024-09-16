@@ -1,11 +1,11 @@
 id: 697948402
-type: way
+type: node
 latitude: 11.00127
 longitude: -74.82504
 postcode: ""
 city: Barranquilla
-street: "Carrera 43B"
-housenumber: 87
+street: Carrera 43B
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

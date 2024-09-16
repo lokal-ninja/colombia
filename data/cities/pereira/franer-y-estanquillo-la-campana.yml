@@ -1,11 +1,11 @@
 id: 1107082618
-type: way
+type: node
 latitude: 4.81671
 longitude: -75.70574
 postcode: "660002"
 city: Pereira
-street: "Calle 33"
-housenumber: 
+street: Calle 33
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

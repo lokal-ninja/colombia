@@ -4,8 +4,8 @@ latitude: 6.46821
 longitude: -73.26194
 postcode: ""
 city: SOCORRO
-street: "barrio chiquinquira"
-housenumber: calle 12 # 14- 33
-phone: "+57 7 7274918"
+street: barrio chiquinquira
+housenumber: 'calle 12 # 14- 33'
+phone: +57 7 7274918
 opening_hours: ""
 website: ""

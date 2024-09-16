@@ -1,11 +1,11 @@
 id: 1121024724
-type: way
+type: node
 latitude: 7.90606
 longitude: -72.4843
 postcode: ""
 city: CUCUTA
-street: "Calle 4 N"
-housenumber: 
+street: Calle 4 N
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

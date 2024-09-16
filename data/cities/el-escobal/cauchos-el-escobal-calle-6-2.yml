@@ -1,11 +1,11 @@
 id: 371250104
-type: way
+type: node
 latitude: 7.91333
 longitude: -72.4661
 postcode: ""
 city: el escobal
-street: "Calle 6"
-housenumber: 7100
+street: Calle 6
+housenumber: "7100"
 phone: ""
 opening_hours: ""
 website: ""

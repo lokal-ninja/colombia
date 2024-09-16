@@ -1,11 +1,11 @@
 id: 619261242
-type: way
+type: node
 latitude: 5.87802
 longitude: -72.98265
 postcode: ""
 city: Santa Rosa de Viterbo
-street: "calle"
-housenumber: 12
+street: calle
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

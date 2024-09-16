@@ -1,11 +1,11 @@
 id: 676624363
-type: way
+type: node
 latitude: 5.62123
 longitude: -73.62084
 postcode: "153860"
 city: Sutamarchán
-street: "Calle 6"
-housenumber: 
+street: Calle 6
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

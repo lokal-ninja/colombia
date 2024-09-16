@@ -1,11 +1,11 @@
 id: 42738901
-type: way
+type: node
 latitude: 4.66518
 longitude: -74.12046
 postcode: ""
 city: Bogotá
-street: "Calle 23G"
-housenumber: 
+street: Calle 23G
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: -73.3373
 postcode: ""
 city: Simacota
 street: ""
-housenumber: CALLE 4 # 4-49
-phone: "+57 3202473557"
+housenumber: 'CALLE 4 # 4-49'
+phone: +57 3202473557
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 645015817
-type: way
+type: node
 latitude: 6.90742
 longitude: -75.07541
 postcode: "052840"
 city: Amalfi
-street: "Carrera 21;Sucre"
-housenumber: 
+street: Carrera 21;Sucre
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

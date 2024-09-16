@@ -1,11 +1,11 @@
 id: 530331492
-type: way
+type: node
 latitude: 4.68764
 longitude: -74.05161
 postcode: ""
 city: Bogotá
-street: "Calle 102"
-housenumber: 
+street: Calle 102
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.carulla.com/"
+website: https://www.carulla.com/

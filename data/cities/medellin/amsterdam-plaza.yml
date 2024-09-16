@@ -1,11 +1,11 @@
 id: 1131120001
-type: way
+type: node
 latitude: 6.20124
 longitude: -75.55678
 postcode: "050021"
 city: Medellín
-street: "Carrera 25 #4-165"
-housenumber: 
+street: 'Carrera 25 #4-165'
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-23:30"
+opening_hours: Mo-Su 08:00-23:30
 website: ""

@@ -1,11 +1,11 @@
 id: 778684464
-type: way
+type: node
 latitude: 6.21353
 longitude: -75.59496
 postcode: ""
 city: Medellín
-street: "Carrera 70"
-housenumber: # 1-141
-phone: "+57 (4) 590 7070"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.arkadiacentrocomercial.com"
+street: Carrera 70
+housenumber: '# 1-141'
+phone: +57 (4) 590 7070
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.arkadiacentrocomercial.com

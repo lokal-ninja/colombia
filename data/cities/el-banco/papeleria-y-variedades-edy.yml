@@ -4,8 +4,8 @@ latitude: 8.99277
 longitude: -73.97069
 postcode: "473040"
 city: El Banco
-street: "Calle 6"
-housenumber: #3-44
-phone: "+57 314 7979814"
-opening_hours: "Mo-Su 08:30-18:00"
+street: Calle 6
+housenumber: '#3-44'
+phone: +57 314 7979814
+opening_hours: Mo-Su 08:30-18:00
 website: ""

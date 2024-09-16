@@ -1,11 +1,11 @@
 id: 529273956
-type: way
+type: node
 latitude: 4.80352
 longitude: -74.34691
 postcode: ""
 city: Facatativa
-street: "carrera 2"
-housenumber: 21
+street: carrera 2
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

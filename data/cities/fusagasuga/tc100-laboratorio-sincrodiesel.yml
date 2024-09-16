@@ -5,7 +5,7 @@ longitude: -74.38146
 postcode: ""
 city: Fusagasugá
 street: ""
-housenumber: Calle 25 # 37 - 136
-phone: "+57 3108649401"
-opening_hours: "Mo-Sa 08:00-18:00"
+housenumber: 'Calle 25 # 37 - 136'
+phone: +57 3108649401
+opening_hours: Mo-Sa 08:00-18:00
 website: ""
