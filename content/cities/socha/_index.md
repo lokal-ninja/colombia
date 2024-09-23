@@ -1,6 +1,6 @@
 ---
-title: Socha
+title: socha
 url: /socha/
-latitude: 5.998
-longitude: -72.692
+latitude: 5.995
+longitude: -72.69
 ---
