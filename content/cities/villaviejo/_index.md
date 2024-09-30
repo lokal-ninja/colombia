@@ -1,6 +1,6 @@
 ---
 title: Villaviejo
 url: /villaviejo/
-latitude: 3.234
+latitude: 3.233
 longitude: -75.169
 ---
