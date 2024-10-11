@@ -1,5 +1,5 @@
 ---
-title: "MISCELANIA MIGUEL"
+title: "miscelania miguel"
 url: /simacota/miscelania-miguel/
 shop: material de oficina
 ---
