@@ -1,6 +1,6 @@
 ---
 title: Manizales
 url: /manizales/
-latitude: 5.065
-longitude: -75.501
+latitude: 5.068
+longitude: -75.514
 ---
