@@ -1,6 +1,6 @@
 ---
 title: Facatativa
 url: /facatativa/
-latitude: 4.812
-longitude: -74.355
+latitude: 4.804
+longitude: -74.347
 ---
