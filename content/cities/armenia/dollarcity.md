@@ -1,5 +1,5 @@
 ---
 title: "Dollarcity"
 url: /armenia/dollarcity/
-shop: supermercado
+shop: tienda de variedades
 ---

@@ -1,6 +1,6 @@
 ---
-title: Aguazul
+title: aguazul
 url: /aguazul/
-latitude: 5.176
-longitude: -72.558
+latitude: 5.178
+longitude: -72.544
 ---
