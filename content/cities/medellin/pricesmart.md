@@ -1,5 +1,5 @@
 ---
-title: "Pricesmart"
+title: "PriceSmart"
 url: /medellin/pricesmart/
 shop: mayorista
 ---

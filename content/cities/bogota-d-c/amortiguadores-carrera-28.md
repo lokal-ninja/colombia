@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
-url: /bogota-d-c/amortiguadores-carrera-29b/
+url: /bogota-d-c/amortiguadores-carrera-28/
 shop: reparación de automóviles
 ---
