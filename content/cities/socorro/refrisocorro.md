@@ -1,5 +1,5 @@
 ---
-title: "REFRISOCORRO"
+title: "Refrisocorro"
 url: /socorro/refrisocorro/
 shop: eléctrico
 ---

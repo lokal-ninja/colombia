@@ -1,5 +1,5 @@
 ---
-title: "CARNES FINAS"
+title: "Carnes Finas"
 url: /simacota/carnes-finas/
 shop: carnicero
 ---

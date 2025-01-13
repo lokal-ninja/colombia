@@ -1,5 +1,5 @@
 ---
-title: "MUEBLES LA ECONOMIA"
+title: "Muebles La Economía"
 url: /socorro/muebles-la-economia/
 shop: muebles
 ---

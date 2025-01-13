@@ -3,9 +3,9 @@ type: node
 latitude: 6.46866
 longitude: -73.26355
 postcode: ""
-city: SOCORRO
-street: BARRIO CENTRO
-housenumber: 'CALLE 12 # 16-20'
-phone: +57 3153050362
+city: Socorro
+street: Calle 12 Barrio Centro
+housenumber: 16-20
+phone: ""
 opening_hours: ""
 website: ""

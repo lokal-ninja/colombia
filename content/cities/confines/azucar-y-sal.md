@@ -1,5 +1,5 @@
 ---
-title: "AZUCAR Y SAL"
+title: "Azúcar y Sal"
 url: /confines/azucar-y-sal/
 shop: panadería
 ---

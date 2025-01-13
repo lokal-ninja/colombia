@@ -1,5 +1,5 @@
 ---
-title: "DISTRAVES SAS"
+title: "Distraves SAS"
 url: /socorro/distraves-sas/
 shop: carnicero
 ---

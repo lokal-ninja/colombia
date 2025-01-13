@@ -1,5 +1,5 @@
 ---
-title: "INVERSIONES DISMAKRO"
+title: "Inversiones Dismakro"
 url: /socorro/inversiones-dismakro/
 shop: supermercado
 ---

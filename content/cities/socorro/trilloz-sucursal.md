@@ -1,5 +1,5 @@
 ---
-title: "TRILLOZ SUCURSAL"
+title: "Trilloz Sucursal"
 url: /socorro/trilloz-sucursal/
 shop: panadería
 ---

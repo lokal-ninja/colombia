@@ -1,5 +1,5 @@
 ---
-title: "RELOJERIA ORIENTAL"
+title: "Relojería Oriental"
 url: /socorro/relojeria-oriental/
 shop: relojes
 ---

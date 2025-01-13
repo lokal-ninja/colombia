@@ -1,5 +1,5 @@
 ---
-title: "ALMACEN EL ADORNO"
+title: "Almacen El Adorno"
 url: /socorro/almacen-el-adorno/
 shop: arte
 ---

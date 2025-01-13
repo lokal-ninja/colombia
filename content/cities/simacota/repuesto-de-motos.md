@@ -1,5 +1,5 @@
 ---
-title: "REPUESTO DE MOTOS"
+title: "Repuesto de Motos"
 url: /simacota/repuesto-de-motos/
 shop: motocicleta
 ---

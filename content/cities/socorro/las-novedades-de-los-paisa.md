@@ -1,5 +1,5 @@
 ---
-title: "LAS NOVEDADES DE LOS PAISA"
+title: "Las Novedades de los Paisa"
 url: /socorro/las-novedades-de-los-paisa/
 shop: supermercado
 ---

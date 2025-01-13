@@ -1,5 +1,5 @@
 ---
-title: "LA GRAN LOCURA PAISA"
+title: "La Gran Locura Paisa"
 url: /socorro/la-gran-locura-paisa/
-shop: grandes almacenes
+shop: tienda de variedades
 ---

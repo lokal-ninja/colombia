@@ -1,5 +1,5 @@
 ---
-title: "ALMACEN H Y S"
+title: "Almacen H y S"
 url: /simacota/almacen-h-y-s/
 shop: supermercado
 ---

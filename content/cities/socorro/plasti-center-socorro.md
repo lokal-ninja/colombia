@@ -1,5 +1,5 @@
 ---
-title: "PLASTI CENTER SOCORRO"
+title: "Plasti Center Socorro"
 url: /socorro/plasti-center-socorro/
-shop: general
+shop: comercio
 ---

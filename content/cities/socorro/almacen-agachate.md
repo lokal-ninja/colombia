@@ -1,5 +1,5 @@
 ---
-title: "ALMACEN AGACHATE"
+title: "Almacen Agachate"
 url: /socorro/almacen-agachate/
 shop: zapatos
 ---

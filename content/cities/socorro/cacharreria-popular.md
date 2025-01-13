@@ -1,5 +1,5 @@
 ---
-title: "CACHARRERIA POPULAR"
+title: "Cacharreria Popular"
 url: /socorro/cacharreria-popular/
-shop: tienda rural
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SOFI LA MISCELANIA"
+title: "Sofi La Miscelania"
 url: /socorro/sofi-la-miscelania/
 shop: zapatos
 ---

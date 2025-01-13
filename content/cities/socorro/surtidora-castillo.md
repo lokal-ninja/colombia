@@ -1,5 +1,5 @@
 ---
-title: "SURTIDORA CASTILLO"
+title: "Surtidora Castillo"
 url: /socorro/surtidora-castillo/
 shop: tienda rural
 ---

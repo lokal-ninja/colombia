@@ -1,5 +1,5 @@
 ---
-title: "JOYERIA EL DORADO"
+title: "Joyería El Dorado"
 url: /socorro/joyeria-el-dorado/
 shop: joyería
 ---

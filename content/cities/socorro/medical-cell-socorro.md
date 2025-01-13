@@ -1,5 +1,5 @@
 ---
-title: "MEDICAL CELL SOCORRO"
+title: "Medical Cell Socorro"
 url: /socorro/medical-cell-socorro/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GALERIA LOS COMUNEROS"
+title: "Galería Los Comuneros"
 url: /socorro/galeria-los-comuneros/
 shop: muebles
 ---
