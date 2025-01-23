@@ -1,5 +1,5 @@
 ---
-title: "EL PUNTO DEL BOLSO"
+title: "El punto del bolso"
 url: /socorro/el-punto-del-bolso/
-shop: ropa
+shop: bolsas y maletas
 ---

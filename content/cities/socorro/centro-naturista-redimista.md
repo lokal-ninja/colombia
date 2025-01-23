@@ -1,5 +1,5 @@
 ---
-title: "CENTRO NATURISTA REDIMISTA"
+title: "Centro Naturista Redimista"
 url: /socorro/centro-naturista-redimista/
-shop: herbolario
+shop: suplementos nutricionales
 ---

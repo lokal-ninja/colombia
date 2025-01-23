@@ -1,5 +1,5 @@
 ---
-title: "CREACIONES SULLY"
+title: "Creaciones Sully"
 url: /socorro/creaciones-sully/
 shop: ropa
 ---

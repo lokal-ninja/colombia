@@ -1,5 +1,5 @@
 ---
-title: "FARES"
+title: "Fares"
 url: /socorro/fares/
 shop: zapatos
 ---

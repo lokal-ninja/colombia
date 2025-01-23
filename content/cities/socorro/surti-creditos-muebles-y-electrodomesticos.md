@@ -1,5 +1,5 @@
 ---
-title: "SURTI CREDITOS MUEBLES Y ELECTRODOMESTICOS"
+title: "Surti Créditos Muebles y Electrodomésticos"
 url: /socorro/surti-creditos-muebles-y-electrodomesticos/
 shop: muebles
 ---

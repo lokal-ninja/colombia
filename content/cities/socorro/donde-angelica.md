@@ -1,5 +1,5 @@
 ---
-title: "DONDE ANGELICA"
+title: "Donde Angélica"
 url: /socorro/donde-angelica/
 shop: ropa
 ---

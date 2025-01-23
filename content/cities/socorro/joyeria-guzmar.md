@@ -1,5 +1,5 @@
 ---
-title: "JOYERIA GUZMAR"
+title: "Joyería Guzmar"
 url: /socorro/joyeria-guzmar/
 shop: joyería
 ---

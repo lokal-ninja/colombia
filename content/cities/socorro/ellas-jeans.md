@@ -1,5 +1,5 @@
 ---
-title: "ELLAS JEANS"
+title: "Ellas Jeans"
 url: /socorro/ellas-jeans/
 shop: ropa
 ---

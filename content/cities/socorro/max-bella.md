@@ -1,5 +1,5 @@
 ---
-title: "MAX BELLA"
+title: "Max Bella"
 url: /socorro/max-bella/
 shop: cosméticos
 ---

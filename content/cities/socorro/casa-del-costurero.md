@@ -1,5 +1,5 @@
 ---
-title: "CASA DEL COSTURERO"
+title: "Casa del Costurero"
 url: /socorro/casa-del-costurero/
 shop: coser
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TRILLOZ PRINCIPAL"
+title: "Trilloz Principal"
 url: /socorro/trilloz-principal/
 shop: panadería
 ---

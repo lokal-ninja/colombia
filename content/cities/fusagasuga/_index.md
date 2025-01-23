@@ -1,6 +1,6 @@
 ---
 title: Fusagasugá
 url: /fusagasuga/
-latitude: 4.341
-longitude: -74.363
+latitude: 4.343
+longitude: -74.361
 ---
