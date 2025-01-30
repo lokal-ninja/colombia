@@ -1,5 +1,5 @@
 ---
-title: "PORTO DI MODA"
+title: "Porto Di Moda"
 url: /san-vicente-de-chucuri/porto-di-moda/
 shop: ropa
 ---

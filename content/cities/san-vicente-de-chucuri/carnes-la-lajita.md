@@ -1,5 +1,5 @@
 ---
-title: "CARNES LA LAJITA"
+title: "Carnes La Lajita"
 url: /san-vicente-de-chucuri/carnes-la-lajita/
 shop: carnicero
 ---

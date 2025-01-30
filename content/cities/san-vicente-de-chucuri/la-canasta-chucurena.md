@@ -1,5 +1,5 @@
 ---
-title: "LA CANASTA CHUCUREÑA"
+title: "La Canasta Chucureña"
 url: /san-vicente-de-chucuri/la-canasta-chucurena/
 shop: supermercado
 ---
