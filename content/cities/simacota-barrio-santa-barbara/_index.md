@@ -1,6 +1,6 @@
 ---
-title: Simacota Barrio santa barbara
+title: SIMACOTA BARRIO SANTA BARBARA
 url: /simacota-barrio-santa-barbara/
-latitude: 6.443
-longitude: -73.337
+latitude: 6.444
+longitude: -73.336
 ---
