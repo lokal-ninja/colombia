@@ -1,5 +1,5 @@
 ---
-title: "ZAPATERIA ALIBABA"
+title: "Zapatería Alibabá"
 url: /chiquinquira/zapateria-alibaba/
-shop: ropa
+shop: zapatos
 ---
