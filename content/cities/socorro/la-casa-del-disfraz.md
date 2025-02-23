@@ -1,5 +1,5 @@
 ---
-title: "La Casa del Disfráz"
+title: "La Casa del Disfraz"
 url: /socorro/la-casa-del-disfraz/
-shop: fiesta
+shop: alquiler
 ---
