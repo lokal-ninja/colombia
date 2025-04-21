@@ -1,6 +1,6 @@
 ---
 title: Barrios Unidos
 url: /barrios-unidos/
-latitude: 4.657
-longitude: -74.071
+latitude: 4.656
+longitude: -74.073
 ---
