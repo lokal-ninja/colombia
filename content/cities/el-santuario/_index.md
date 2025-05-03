@@ -1,6 +1,6 @@
 ---
 title: El santuario
 url: /el-santuario/
-latitude: 6.138
-longitude: -75.266
+latitude: 6.136
+longitude: -75.268
 ---

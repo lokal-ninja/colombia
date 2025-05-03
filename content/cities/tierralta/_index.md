@@ -1,6 +1,6 @@
 ---
-title: TIERRALTA
+title: Tierralta
 url: /tierralta/
-latitude: 8.173
-longitude: -76.054
+latitude: 8.172
+longitude: -76.061
 ---
