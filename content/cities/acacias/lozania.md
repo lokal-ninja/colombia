@@ -1,5 +1,5 @@
 ---
-title: "LOZANIA"
+title: "Lozania"
 url: /acacias/lozania/
 shop: aparato
 ---

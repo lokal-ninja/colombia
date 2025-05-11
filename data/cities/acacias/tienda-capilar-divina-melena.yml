@@ -4,8 +4,8 @@ latitude: 3.9843
 longitude: -73.76943
 postcode: ""
 city: Acacias
-street: Calle 10 29 12
+street: ""
 housenumber: ""
 phone: "3136327167"
-opening_hours: Con cita
+opening_hours: '|| "by appointment"'
 website: ""
