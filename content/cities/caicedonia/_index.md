@@ -1,6 +1,6 @@
 ---
 title: Caicedonia
 url: /caicedonia/
-latitude: 4.338
-longitude: -75.832
+latitude: 4.334
+longitude: -75.83
 ---

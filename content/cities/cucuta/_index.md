@@ -1,6 +1,6 @@
 ---
-title: Cucuta
+title: CUCUTA
 url: /cucuta/
-latitude: 7.891
-longitude: -72.5
+latitude: 7.885
+longitude: -72.498
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Electronica de avanzada"
+title: "electronica de avanzada"
 url: /armenia/electronica-de-avanzada/
-shop: electrónica
+shop: radiotecnia
 ---
