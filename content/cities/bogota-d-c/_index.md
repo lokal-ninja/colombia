@@ -1,6 +1,6 @@
 ---
 title: Bogotá D.C.
 url: /bogota-d-c/
-latitude: 4.699
-longitude: -74.04
+latitude: 4.645
+longitude: -74.072
 ---

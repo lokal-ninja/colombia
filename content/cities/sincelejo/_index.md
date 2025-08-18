@@ -1,6 +1,6 @@
 ---
 title: sincelejo
 url: /sincelejo/
-latitude: 9.301
+latitude: 9.302
 longitude: -75.383
 ---
