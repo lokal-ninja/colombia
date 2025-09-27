@@ -1,5 +1,5 @@
 ---
 title: "Taller de motos"
-url: /comuna-3-manrique/taller-de-motos-calle-71b/
+url: /comuna-3-manrique/taller-de-motos-carrera-31a/
 shop: reparación de automóviles
 ---
