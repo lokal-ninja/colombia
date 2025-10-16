@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /velez/atlantis/
-shop: marisco
+shop: ropa
 ---
