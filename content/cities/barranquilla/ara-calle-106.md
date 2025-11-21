@@ -1,5 +1,5 @@
 ---
 title: "Ara"
-url: /fusagasuga/ara-calle-19/
+url: /barranquilla/ara-calle-106/
 shop: supermercado
 ---
