@@ -1,5 +1,5 @@
 ---
 title: "Makro"
-url: /bogota/makro-avenida-calle-192/
+url: /bogota/makro-autopista-sur/
 shop: mayorista
 ---
