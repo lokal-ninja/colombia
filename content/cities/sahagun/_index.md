@@ -1,6 +1,6 @@
 ---
-title: Sahagún
+title: Sahagun
 url: /sahagun/
-latitude: 8.958
-longitude: -75.453
+latitude: 8.942
+longitude: -75.443
 ---
