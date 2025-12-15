@@ -1,5 +1,5 @@
 ---
-title: "Mlt racores"
+title: "MLT Racores"
 url: /bogota-d-c/mlt-racores/
-shop: grandes almacenes
+shop: hardware
 ---
