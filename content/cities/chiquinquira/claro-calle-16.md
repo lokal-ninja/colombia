@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /chiquinquira/claro-carrera-9-16-35/
+url: /chiquinquira/claro-calle-16/
 shop: teléfono móvil
 ---
