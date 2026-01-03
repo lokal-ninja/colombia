@@ -1,6 +1,6 @@
 ---
 title: Castilla la Nueva
 url: /castilla-la-nueva/
-latitude: 3.827
+latitude: 3.828
 longitude: -73.689
 ---
