@@ -1,6 +1,6 @@
 ---
 title: Malambo
 url: /malambo/
-latitude: 10.865
-longitude: -74.785
+latitude: 10.854
+longitude: -74.771
 ---

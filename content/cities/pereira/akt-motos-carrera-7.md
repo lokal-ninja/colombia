@@ -1,5 +1,5 @@
 ---
 title: "AKT Motos"
-url: /pereira/akt-motos-carrera-13/
+url: /pereira/akt-motos-carrera-7/
 shop: motocicleta
 ---

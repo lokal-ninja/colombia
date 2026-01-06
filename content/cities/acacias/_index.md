@@ -1,6 +1,6 @@
 ---
 title: Acacias
 url: /acacias/
-latitude: 3.98
-longitude: -73.765
+latitude: 3.988
+longitude: -73.76
 ---
