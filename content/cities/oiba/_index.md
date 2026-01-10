@@ -1,6 +1,6 @@
 ---
 title: Oiba
 url: /oiba/
-latitude: 6.265
+latitude: 6.263
 longitude: -73.301
 ---
