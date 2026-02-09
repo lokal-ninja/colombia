@@ -1,5 +1,5 @@
 ---
 title: "Gabriel"
 url: /barrios-unidos/gabriel/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---

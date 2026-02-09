@@ -1,6 +1,6 @@
 ---
-title: riohacha
+title: RIOHACHA
 url: /riohacha/
-latitude: 11.542
-longitude: -72.898
+latitude: 11.524
+longitude: -72.915
 ---

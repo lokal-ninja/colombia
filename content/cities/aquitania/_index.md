@@ -1,6 +1,6 @@
 ---
-title: AQUITANIA
+title: Aquitania
 url: /aquitania/
-latitude: 5.48
-longitude: -72.947
+latitude: 5.483
+longitude: -72.944
 ---
