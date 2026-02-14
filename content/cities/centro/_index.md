@@ -1,6 +1,6 @@
 ---
 title: Centro
 url: /centro/
-latitude: 4.814
-longitude: -75.691
+latitude: 4.813
+longitude: -75.689
 ---
