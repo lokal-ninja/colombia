@@ -1,6 +1,6 @@
 ---
 title: El Cruce
 url: /el-cruce/
-latitude: 6.646
-longitude: -73.952
+latitude: 6.647
+longitude: -73.951
 ---

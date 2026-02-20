@@ -1,5 +1,5 @@
 ---
-title: "Autolitoral - Chevrolet"
+title: "Autolitoral Chevrolet"
 url: /barranquilla/autolitoral-chevrolet/
 shop: coche
 ---
