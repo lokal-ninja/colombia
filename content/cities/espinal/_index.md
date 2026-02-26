@@ -1,6 +1,6 @@
 ---
-title: Espinal
+title: ESPINAL
 url: /espinal/
-latitude: 4.153
-longitude: -74.883
+latitude: 4.154
+longitude: -74.887
 ---
