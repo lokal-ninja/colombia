@@ -1,6 +1,6 @@
 ---
-title: LEJANIAS
+title: Lejanías
 url: /lejanias/
-latitude: 3.527
+latitude: 3.526
 longitude: -74.022
 ---
