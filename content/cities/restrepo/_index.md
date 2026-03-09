@@ -1,6 +1,6 @@
 ---
 title: Restrepo
 url: /restrepo/
-latitude: 4.263
+latitude: 4.262
 longitude: -73.566
 ---
