@@ -1,6 +1,6 @@
 ---
-title: Chiquinquira
+title: Chiquinquirá
 url: /chiquinquira/
-latitude: 5.624
-longitude: -73.809
+latitude: 5.616
+longitude: -73.816
 ---
