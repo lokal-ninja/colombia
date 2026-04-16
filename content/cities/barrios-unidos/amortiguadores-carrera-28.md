@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
-url: /barrios-unidos/amortiguadores-calle-64/
+url: /barrios-unidos/amortiguadores-carrera-28/
 shop: piezas de automóviles
 ---
