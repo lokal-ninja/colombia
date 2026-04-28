@@ -1,5 +1,5 @@
 ---
-title: GALAPA
+title: Galapa
 url: /galapa/
 latitude: 10.905
 longitude: -74.886

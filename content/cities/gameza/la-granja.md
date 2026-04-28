@@ -1,5 +1,5 @@
 ---
-title: "la granja"
+title: "La Granja"
 url: /gameza/la-granja/
 shop: comodidad
 ---

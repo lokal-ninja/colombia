@@ -1,5 +1,5 @@
 ---
-title: "supermercado maxioferta palmas"
+title: "Supermercado Maxioferta Palmas"
 url: /medellin/supermercado-maxioferta-palmas/
 shop: supermercado
 ---

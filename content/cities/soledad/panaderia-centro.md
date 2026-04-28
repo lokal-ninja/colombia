@@ -1,5 +1,5 @@
 ---
-title: "panaderia centro"
+title: "Panaderia Centro"
 url: /soledad/panaderia-centro/
 shop: panadería
 ---

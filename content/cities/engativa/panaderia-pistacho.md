@@ -1,5 +1,5 @@
 ---
-title: "panaderia pistacho"
+title: "Panaderia Pistacho"
 url: /engativa/panaderia-pistacho/
 shop: panadería
 ---

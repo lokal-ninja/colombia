@@ -1,5 +1,5 @@
 ---
-title: "tony west"
+title: "Tony West"
 url: /bogota/tony-west/
 shop: peluquería
 ---

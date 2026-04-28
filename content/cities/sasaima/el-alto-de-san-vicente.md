@@ -1,5 +1,5 @@
 ---
-title: "el alto de san vicente"
+title: "El Alto de San Vicente"
 url: /sasaima/el-alto-de-san-vicente/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TIENDAS D1"
+title: "Tiendas D1"
 url: /caicedonia/tiendas-d1/
 shop: supermercado
 ---

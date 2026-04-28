@@ -1,5 +1,5 @@
 ---
-title: "CABUS COFFEE STATION"
+title: "Cabus Coffee Station"
 url: /rivera/cabus-coffee-station/
 shop: café
 ---

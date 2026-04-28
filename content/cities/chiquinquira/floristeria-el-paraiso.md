@@ -1,5 +1,5 @@
 ---
-title: "floristeria el paraiso"
+title: "Floristeria El Paraiso"
 url: /chiquinquira/floristeria-el-paraiso/
 shop: floristería
 ---

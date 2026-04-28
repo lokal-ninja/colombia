@@ -1,5 +1,5 @@
 ---
-title: "DISTRI MAX"
+title: "Distri Max"
 url: /bogota/distri-max/
 shop: supermercado
 ---

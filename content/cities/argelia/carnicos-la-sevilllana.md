@@ -1,5 +1,5 @@
 ---
-title: "CARNICOS LA SEVILLLANA"
+title: "Carnicos La Sevilllana"
 url: /argelia/carnicos-la-sevilllana/
 shop: carnicero
 ---

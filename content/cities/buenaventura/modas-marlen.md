@@ -1,5 +1,5 @@
 ---
-title: "MODAS MARLEN"
+title: "Modas Marlen"
 url: /buenaventura/modas-marlen/
 shop: ropa
 ---

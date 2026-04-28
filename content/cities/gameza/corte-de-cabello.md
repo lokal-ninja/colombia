@@ -1,5 +1,5 @@
 ---
-title: "corte de cabello"
+title: "Corte de Cabello"
 url: /gameza/corte-de-cabello/
 shop: peluquería
 ---

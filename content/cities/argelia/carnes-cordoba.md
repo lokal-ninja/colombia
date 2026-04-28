@@ -1,5 +1,5 @@
 ---
-title: "CARNES CORDOBA"
+title: "Carnes Córdoba"
 url: /argelia/carnes-cordoba/
 shop: carnicero
 ---

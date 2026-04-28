@@ -1,5 +1,5 @@
 ---
-title: "LOS PERAFANES"
+title: "Los Perafanes"
 url: /argelia/los-perafanes/
 shop: carnicero
 ---

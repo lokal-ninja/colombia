@@ -1,5 +1,5 @@
 ---
-title: "KAPRICHITOS DE DETALLES"
+title: "Kaprichitos de Detalles"
 url: /buenaventura/kaprichitos-de-detalles/
 shop: arte
 ---

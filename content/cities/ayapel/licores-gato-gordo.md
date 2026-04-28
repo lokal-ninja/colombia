@@ -1,5 +1,5 @@
 ---
-title: "licores gato gordo"
+title: "Licores Gato Gordo"
 url: /ayapel/licores-gato-gordo/
 shop: alcohol
 ---

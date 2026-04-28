@@ -1,5 +1,5 @@
 ---
-title: "la amistad pura"
+title: "La Amistad Pura"
 url: /sutamarchan/la-amistad-pura/
 shop: frutería
 ---

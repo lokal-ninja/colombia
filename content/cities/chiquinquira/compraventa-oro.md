@@ -1,5 +1,5 @@
 ---
-title: "compraventa oro"
+title: "Compraventa Oro"
 url: /chiquinquira/compraventa-oro/
 shop: joyería
 ---

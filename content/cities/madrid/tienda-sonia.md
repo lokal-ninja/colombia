@@ -1,5 +1,5 @@
 ---
-title: "tienda sonia"
+title: "Tienda Sonia"
 url: /madrid/tienda-sonia/
 shop: supermercado
 ---

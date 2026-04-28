@@ -1,5 +1,5 @@
 ---
-title: "AGUAS GLUG"
+title: "Aguas Glug"
 url: /tierralta/aguas-glug/
 shop: agua
 ---

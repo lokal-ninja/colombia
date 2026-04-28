@@ -1,5 +1,5 @@
 ---
-title: "BAUTIQUE FLOMER"
+title: "Bautique Flomer"
 url: /chiquinquira/bautique-flomer/
 shop: ropa
 ---

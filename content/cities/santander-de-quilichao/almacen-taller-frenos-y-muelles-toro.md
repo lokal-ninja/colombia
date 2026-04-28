@@ -1,5 +1,5 @@
 ---
-title: "ALMACEN TALLER FRENOS Y MUELLES TORO"
+title: "Almacen Taller Frenos y Muelles Toro"
 url: /santander-de-quilichao/almacen-taller-frenos-y-muelles-toro/
 shop: reparación de automóviles
 ---

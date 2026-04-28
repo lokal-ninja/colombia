@@ -1,5 +1,5 @@
 ---
-title: "VULCANIZADORA LA MEJOR"
+title: "Vulcanizadora La Mejor"
 url: /santander-de-quilichao/vulcanizadora-la-mejor/
 shop: neumáticos
 ---

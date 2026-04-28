@@ -1,5 +1,5 @@
 ---
-title: "DEPOSITO NARVAEZ"
+title: "Deposito Narvaez"
 url: /argelia/deposito-narvaez/
 shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DOSHEIRAS BOUTIQUE"
+title: "Dosheiras Boutique"
 url: /buenaventura/dosheiras-boutique/
 shop: ropa
 ---

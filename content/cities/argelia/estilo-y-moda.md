@@ -1,5 +1,5 @@
 ---
-title: "ESTILO  Y MODA"
+title: "Estilo y Moda"
 url: /argelia/estilo-y-moda/
 shop: ropa
 ---

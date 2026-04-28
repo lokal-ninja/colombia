@@ -1,5 +1,5 @@
 ---
-title: "lagovision visual confort"
+title: "Lagovision Visual Confort"
 url: /pereira-risaralda/lagovision-visual-confort/
 shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
-title: "REBAJA PLUS"
+title: "Rebaja Plus"
 url: /barranquilla/rebaja-plus/
 shop: supermercado
 ---

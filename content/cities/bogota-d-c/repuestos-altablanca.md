@@ -1,5 +1,5 @@
 ---
-title: "repuestos altablanca"
+title: "Repuestos Altablanca"
 url: /bogota-d-c/repuestos-altablanca/
 shop: reparación de automóviles
 ---

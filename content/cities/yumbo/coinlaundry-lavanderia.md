@@ -1,5 +1,5 @@
 ---
-title: "COINLAUNDRY LAVANDERIA"
+title: "Coinlaundry Lavanderia"
 url: /yumbo/coinlaundry-lavanderia/
 shop: lavandería
 ---

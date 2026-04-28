@@ -1,5 +1,5 @@
 ---
-title: "la frescura"
+title: "La Frescura"
 url: /bogota/la-frescura/
 shop: supermercado
 ---

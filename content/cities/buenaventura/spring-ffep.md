@@ -1,5 +1,5 @@
 ---
-title: "SPRING FFEP"
+title: "Spring Ffep"
 url: /buenaventura/spring-ffep/
 shop: general
 ---

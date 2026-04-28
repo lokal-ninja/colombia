@@ -1,5 +1,5 @@
 ---
-title: "VIRTUAL IN"
+title: "Virtual In"
 url: /buenaventura/virtual-in/
 shop: general
 ---

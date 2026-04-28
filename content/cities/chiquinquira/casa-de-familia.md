@@ -1,5 +1,5 @@
 ---
-title: "casa de familia"
+title: "Casa de Familia"
 url: /chiquinquira/casa-de-familia/
 shop: prestamista
 ---

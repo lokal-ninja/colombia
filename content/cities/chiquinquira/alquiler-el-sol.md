@@ -1,5 +1,5 @@
 ---
-title: "alquiler el sol"
+title: "Alquiler El Sol"
 url: /chiquinquira/alquiler-el-sol/
 shop: ropa
 ---

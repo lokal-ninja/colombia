@@ -1,5 +1,5 @@
 ---
-title: "FOTO FLASH AGUILAR"
+title: "Foto Flash Aguilar"
 url: /argelia/foto-flash-aguilar/
 shop: foto
 ---
