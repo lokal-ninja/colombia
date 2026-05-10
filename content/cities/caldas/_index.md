@@ -1,6 +1,6 @@
 ---
 title: Caldas
 url: /caldas/
-latitude: 6.097
-longitude: -75.633
+latitude: 6.093
+longitude: -75.637
 ---

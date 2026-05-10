@@ -1,5 +1,5 @@
 ---
-title: "tienda comunal"
+title: "Tienda Comunal"
 url: /guacamayas/tienda-comunal/
 shop: general
 ---

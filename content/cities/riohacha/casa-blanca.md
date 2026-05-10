@@ -1,5 +1,5 @@
 ---
-title: "casa blanca"
+title: "Casa Blanca"
 url: /riohacha/casa-blanca/
 shop: tienda rural
 ---

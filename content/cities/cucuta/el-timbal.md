@@ -1,5 +1,5 @@
 ---
-title: "el timbal"
+title: "El Timbal"
 url: /cucuta/el-timbal/
 shop: música
 ---

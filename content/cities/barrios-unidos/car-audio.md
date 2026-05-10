@@ -1,5 +1,5 @@
 ---
 title: "Car Audio"
 url: /barrios-unidos/car-audio/
-shop: electrónica
+shop: piezas de automóviles
 ---

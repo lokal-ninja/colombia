@@ -1,5 +1,5 @@
 ---
-title: "supermercado maxioferta"
+title: "Supermercado Maxioferta"
 url: /itagui/supermercado-maxioferta/
 shop: supermercado
 ---

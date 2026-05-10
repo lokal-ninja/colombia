@@ -1,5 +1,5 @@
 ---
-title: "flores geminis"
+title: "Flores Geminis"
 url: /cerinza/flores-geminis/
 shop: floristería
 ---

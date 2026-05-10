@@ -1,5 +1,5 @@
 ---
-title: "drogeria la economia"
+title: "Drogeria La Economia"
 url: /riohacha/drogeria-la-economia/
 shop: farmacia
 ---

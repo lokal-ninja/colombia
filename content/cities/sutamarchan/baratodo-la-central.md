@@ -1,5 +1,5 @@
 ---
-title: "baratodo la central"
+title: "Baratodo La Central"
 url: /sutamarchan/baratodo-la-central/
 shop: tela
 ---

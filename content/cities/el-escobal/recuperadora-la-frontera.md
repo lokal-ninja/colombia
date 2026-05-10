@@ -1,5 +1,5 @@
 ---
-title: "recuperadora la frontera"
+title: "Recuperadora La Frontera"
 url: /el-escobal/recuperadora-la-frontera/
 shop: caridad
 ---

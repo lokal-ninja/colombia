@@ -1,5 +1,5 @@
 ---
-title: "panaderia paisapan"
+title: "Panaderia Paisapan"
 url: /cucuta/panaderia-paisapan/
 shop: panadería
 ---
