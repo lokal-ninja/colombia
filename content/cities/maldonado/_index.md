@@ -1,6 +1,6 @@
 ---
 title: Maldonado
 url: /maldonado/
-latitude: 0.914
+latitude: 0.913
 longitude: -78.107
 ---
