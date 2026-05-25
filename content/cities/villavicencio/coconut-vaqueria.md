@@ -1,5 +1,5 @@
 ---
-title: "Coconut Vaqueria"
+title: "Coconut Vaquería"
 url: /villavicencio/coconut-vaqueria/
 shop: ropa
 ---
