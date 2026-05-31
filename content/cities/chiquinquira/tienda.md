@@ -1,5 +1,5 @@
 ---
 title: "tienda"
 url: /chiquinquira/tienda/
-shop: bebidas
+shop: supermercado
 ---

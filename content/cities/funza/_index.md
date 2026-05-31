@@ -1,6 +1,6 @@
 ---
 title: Funza
 url: /funza/
-latitude: 4.708
-longitude: -74.21
+latitude: 4.715
+longitude: -74.214
 ---
