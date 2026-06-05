@@ -1,5 +1,5 @@
 ---
-title: "Justo y Bueno"
+title: "Justo & Bueno"
 url: /bogota-d-c/justo-y-bueno/
-shop: supermercado
+shop: comodidad
 ---

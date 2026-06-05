@@ -1,6 +1,6 @@
 ---
 title: Usaquén
 url: /usaquen/
-latitude: 4.766
-longitude: -74.03
+latitude: 4.764
+longitude: -74.029
 ---
