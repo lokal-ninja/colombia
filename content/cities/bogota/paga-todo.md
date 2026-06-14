@@ -1,5 +1,5 @@
 ---
 title: "Paga Todo"
 url: /bogota/paga-todo/
-shop: lotería
+shop: comodidad
 ---
