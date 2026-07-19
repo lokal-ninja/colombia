@@ -1,6 +1,6 @@
 ---
 title: fusgasuga
 url: /fusgasuga/
-latitude: 4.342
-longitude: -74.369
+latitude: 4.345
+longitude: -74.366
 ---
