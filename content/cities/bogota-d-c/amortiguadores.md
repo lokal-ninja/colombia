@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
 url: /bogota-d-c/amortiguadores/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---

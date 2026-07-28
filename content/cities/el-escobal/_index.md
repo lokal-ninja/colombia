@@ -1,6 +1,6 @@
 ---
 title: el escobal
 url: /el-escobal/
-latitude: 7.914
+latitude: 7.913
 longitude: -72.466
 ---
