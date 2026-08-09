@@ -1,6 +1,6 @@
 ---
 title: Güicán
 url: /guican/
-latitude: 6.463
-longitude: -72.413
+latitude: 6.462
+longitude: -72.412
 ---
