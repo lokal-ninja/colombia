@@ -1,6 +1,6 @@
 ---
 title: Landázuri
 url: /landazuri/
-latitude: 6.221
-longitude: -73.811
+latitude: 6.22
+longitude: -73.81
 ---

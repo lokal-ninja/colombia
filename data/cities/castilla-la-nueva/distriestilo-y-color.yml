@@ -7,5 +7,5 @@ city: Castilla la Nueva
 street: 'Calle 8 # 8-21 Centro'
 housenumber: ""
 phone: "3134405925"
-opening_hours: Domingo a domingo de 9 am a 12 AM y 2 pm a 9 pm
+opening_hours: 09:00-00:00,14:00-21:00
 website: ""
