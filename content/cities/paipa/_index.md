@@ -1,6 +1,6 @@
 ---
 title: Paipa
 url: /paipa/
-latitude: 5.778
+latitude: 5.78
 longitude: -73.117
 ---

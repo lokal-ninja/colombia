@@ -1,5 +1,5 @@
 ---
-title: "CEM"
+title: "Cem"
 url: /pereira/cem/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SOYJUANRAMIREZ"
+title: "Soyjuanramirez"
 url: /guadalajara-de-buga/soyjuanramirez/
 shop: ordenador
 ---

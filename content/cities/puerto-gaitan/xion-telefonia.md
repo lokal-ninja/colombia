@@ -1,5 +1,5 @@
 ---
-title: "XION TELEFONÍA"
+title: "Xion Telefonía"
 url: /puerto-gaitan/xion-telefonia/
 shop: teléfono móvil
 ---
