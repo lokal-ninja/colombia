@@ -1,6 +1,6 @@
 ---
 title: Rionegro
 url: /rionegro/
-latitude: 6.157
-longitude: -75.371
+latitude: 7.266
+longitude: -73.151
 ---
