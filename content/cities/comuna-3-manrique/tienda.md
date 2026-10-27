@@ -1,5 +1,5 @@
 ---
-title: "Tienda"
+title: "tienda"
 url: /comuna-3-manrique/tienda/
-shop: comodidad
+shop: supermercado
 ---
