@@ -1,5 +1,5 @@
 ---
 title: "Apostar"
 url: /pereira/apostar/
-shop: lotería
+shop: general
 ---

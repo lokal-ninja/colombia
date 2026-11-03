@@ -1,6 +1,6 @@
 ---
 title: Duitama
 url: /duitama/
-latitude: 5.816
-longitude: -73.033
+latitude: 5.825
+longitude: -73.035
 ---

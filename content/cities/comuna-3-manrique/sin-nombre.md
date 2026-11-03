@@ -1,5 +1,5 @@
 ---
-title: "Sin Nombre"
+title: "Sin nombre"
 url: /comuna-3-manrique/sin-nombre/
-shop: panadería
+shop: supermercado
 ---
