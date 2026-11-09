@@ -7,7 +7,5 @@ city: Comuna 4 - Oriental (San Luis - Cúcuta)
 street: calle 16-32
 housenumber: AV3N
 phone: +57 312 4235918
-opening_hours: miércoles 7 a.m. a 12 p. m. 2 a 6 p.m. jueves 7a.m.a 12p.m 2 a 6 p.m.
-    viernes 7 a.m. a 12 p.m. 2 a 6 p.m. sábado 7 a.m. a 4 p.m. domingo Cerrado lunes
-    7 a.m. a 12 p.m. 2 a 6 p.m. martes 7 a.m. a 12 p.m. 2 a 6 p.m
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:00; Sa 07:00-16:00; Su off
 website: ""

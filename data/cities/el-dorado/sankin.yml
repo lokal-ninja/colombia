@@ -7,6 +7,5 @@ city: El Dorado
 street: 'Cra 5 # 6-24'
 housenumber: ""
 phone: +57 313 3716437
-opening_hours: Lunes a viernes de 7 am a 7 pm / sábados de 8 AM a 4 pm / no domingos
-    no festivos
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off; "PH off"
 website: ""
