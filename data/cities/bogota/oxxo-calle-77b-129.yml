@@ -7,5 +7,5 @@ city: Bogota
 street: 'Calle 77B #129'
 housenumber: ""
 phone: ""
-opening_hours: Mo-Su 24 Hours
+opening_hours: Mo-Su 00:00-24:00
 website: https://oxxo.co/
