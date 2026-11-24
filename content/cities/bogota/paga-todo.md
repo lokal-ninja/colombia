@@ -1,5 +1,5 @@
 ---
 title: "Paga Todo"
 url: /bogota/paga-todo/
-shop: corredor de apuestas
+shop: lotería
 ---
